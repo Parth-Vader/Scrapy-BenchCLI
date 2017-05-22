@@ -1,5 +1,5 @@
 # Benchmarking CLI for Scrapy
-(The project is still in development.)
+(The project is still in development. Made for only python 2)
 
 
 >A command-line interface for benchmarking Scrapy, that reflects real-world usage.
