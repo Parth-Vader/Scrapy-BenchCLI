@@ -10,8 +10,40 @@
 * The speed thus obtained, which maybe useful for comparisons, does not actually reflects a real-world scenario.
 * The actual speed varies with the python version and scrapy version.
 
-## Current Features 
+### Current Features 
 * Spawns a CPU-intensive spider which follows a fixed number of links of a static snapshot of the site [Books to Scrape](http://books.toscrape.com/index.html).
 * Follows a real-world scenario where various information of the books is extracted, and stored in a `.csv` file.
 * Has a `--long` option for perfoming more than one iteration of spider to improve the precision.
 * Has a `--only_results` option for viewing the results only.
+
+## Installation
+
+### For Ubuntu
+
+* Firstly, download the static snapshot of the website [Books to Scrape](http://books.toscrape.com/index.html). That can be done by using `wget`.
+
+    `wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://books.toscrape.com/index.html`
+
+* Then place the whole file in the folder `var/www/html`.
+* `nginx` is required for deploying the website. Hence it is required to be installed and configured. If it is, you would be able to see the site [here](http://localhost/books.toscrape.com/index.html). If not, then follow the given steps given here : [How to install nginx](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04).
+* Do the following :
+    
+      git clone https://github.com/Parth-Vader/Scrapy-BenchCLI.git  
+      cd Scrapy-BenchCLI/  
+      virtualenv env --python=python2   
+      . env/bin/activate   
+      pip install --editable .
+      cd books/
+    
+## Usage
+  
+    Usage: scrapy-bench [OPTIONS]
+
+      A tool for benchmarking your scrapy.
+
+    Options:
+      --long INTEGER  Take multiple readings for the benchmark.
+      --only_result   Display the results only.
+      --help          Show this message and exit.
+
+
