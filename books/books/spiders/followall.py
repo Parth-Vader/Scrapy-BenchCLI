@@ -6,7 +6,7 @@ import datetime
 import scrapy
 from scrapy.http import Request, HtmlResponse
 from scrapy.linkextractors import LinkExtractor
-
+import click
 from books.items import Page
 fix = datetime.datetime.now()
 
@@ -80,8 +80,8 @@ class FollowAllSpider(scrapy.Spider):
         return r
     
     def close(self, reason):
-        print("\nThe average speed of the spider is {0} items/sec\n".format(self.items * (1/self.timesec.total_seconds())))
-
+        click.secho("\nThe average speed of the spider is {0} items/sec\n".format(self.items * (1/self.timesec.total_seconds())), fg='white',bold=True)
+    
     def _get_item(self, response):
         item = Page(
             url=response.url,
