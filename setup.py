@@ -7,15 +7,9 @@ setup(
 	install_requires=[
 	'Click',
 	'scrapy',
-	'subprocess',
-	'os',
-	'sys',
-	'time'
-	'statistics'
-    'threading',
-    're',
+	'statistics',
     'six',
-    'datetime'
+    'datetime',
 	],
 	entry_points='''
 		[console_scripts]
