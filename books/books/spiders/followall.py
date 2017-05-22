@@ -59,7 +59,7 @@ class FollowAllSpider(scrapy.Spider):
         #print(newitem)
         #fix = c
         self.timesec = c-a
-        #f=open("AvSpeed.txt",'w')
+        
         if 280 <= self.items <= 300:
         	t = datetime.datetime.now()
         	global fix 
@@ -76,10 +76,12 @@ class FollowAllSpider(scrapy.Spider):
         	print("  ")
         	print(fix)
         	'''
-        #f.write("\n{0}".format((self.items * (1/self.timesec.total_seconds()))))
+        
         return r
     
     def close(self, reason):
+        f=open("AvSpeed.txt",'a')
+        f.write(" {0}".format((self.items * (1/self.timesec.total_seconds()))))
         click.secho("\nThe average speed of the spider is {0} items/sec\n".format(self.items * (1/self.timesec.total_seconds())), fg='white',bold=True)
     
     def _get_item(self, response):
