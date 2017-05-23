@@ -1,5 +1,7 @@
 # Benchmarking CLI for Scrapy
-(The project is still in development. Made for only python 2)
+(The project is still in development.)
+
+NOTE : Use the master branch for working with `python2` and python3 branch for `python3`.
 
 
 >A command-line interface for benchmarking Scrapy, that reflects real-world usage.
