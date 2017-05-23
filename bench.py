@@ -32,12 +32,12 @@ def cli(long,only_result):
 			timer = RepeatingTimer(1.0, status)
 			timer.daemon = True # Allows program to exit if only the thread is alive
 			timer.start()
-			process = subprocess.Popen("/home/parth/gsoc/cli/venv/bin/scrapy crawl followall -o items.csv",shell=True,stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+			process = subprocess.Popen("scrapy crawl followall -o items.csv",shell=True,stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 			process.wait()
 			timer.cancel()
 			
 		else:
-			process = subprocess.Popen("/home/parth/gsoc/cli/venv/bin/scrapy crawl followall -o items.csv",shell=True)
+			process = subprocess.Popen("scrapy crawl followall -o items.csv",shell=True)
 			process.wait()
 		#process.communicate()
 		#process.wait()
