@@ -59,7 +59,7 @@ NOTE : Use the master branch for working with `python2` and python3 branch for `
           systemctl status nginx
 
   
-
+My Nginx config file is shared [here](https://github.com/Parth-Vader/Scrapy-BenchCLI/blob/master/nginx.conf).
  Source : [How to install nginx](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04).
 
 * Do the following :
