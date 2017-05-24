@@ -27,7 +27,41 @@ NOTE : Use the master branch for working with `python2` and python3 branch for `
     `wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://books.toscrape.com/index.html`
 
 * Then place the whole file in the folder `var/www/html`.
-* `nginx` is required for deploying the website. Hence it is required to be installed and configured. If it is, you would be able to see the site [here](http://localhost/books.toscrape.com/index.html). If not, then follow the given steps given here : [How to install nginx](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04).
+* `nginx` is required for deploying the website. Hence it is required to be installed and configured. If it is, you would be able to see the site [here](http://localhost/books.toscrape.com/index.html). 
+* If not, then follow the given steps :
+        
+        sudo apt-get update
+        sudo apt-get install nginx
+  
+  Before we can test Nginx, we need to reconfigure our firewall software to allow access to the service. Nginx registers itself as a service with `ufw`, our firewall, upon installation.
+  We can list the applications configurations that ufw knows how to work with by typing:
+
+        sudo ufw app list
+
+    You should get a listing of the application profiles:
+
+        Available applications:
+          Nginx Full
+          Nginx HTTP
+          Nginx HTTPS
+          OpenSSH
+   
+   Do the following to allow Nginx through the firewall : 
+          
+          sudo ufw allow 'Nginx HTTP'
+   
+   You can verify the change by typing:
+
+          sudo ufw status
+   
+   We can check with the systemd init system to make sure the service is running by typing:
+
+          systemctl status nginx
+
+  
+
+ Source : [How to install nginx](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04).
+
 * Do the following :
     
       git clone https://github.com/Parth-Vader/Scrapy-BenchCLI.git  
