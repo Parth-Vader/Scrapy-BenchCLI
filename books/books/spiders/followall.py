@@ -8,7 +8,7 @@ from scrapy.http import Request, HtmlResponse
 from scrapy.linkextractors import LinkExtractor
 import click
 from books.items import Page
-fix = datetime.datetime.now()
+t = datetime.datetime.utcnow()
 
 
 class FollowAllSpider(scrapy.Spider):
@@ -33,7 +33,7 @@ class FollowAllSpider(scrapy.Spider):
         self.cookies_seen = set()
         self.previtem = 0
         self.items = 0
-        self.timesec = datetime.datetime.now()
+        self.timesec = datetime.datetime.utcnow()
 
     def start_requests(self):
         return [Request(self.url, callback=self.parse, dont_filter=True)]
@@ -47,18 +47,15 @@ class FollowAllSpider(scrapy.Spider):
         self.items = self.crawler.stats.get_value('item_scraped_count', 0)
         pages = self.crawler.stats.get_value('response_received_count', 0)
         a = self.crawler.stats.get_value('start_time')
-        b = datetime.datetime.now()
-        # Done because my machine has a time zone problem
-        c = b - datetime.timedelta(0, 19800)
-        self.timesec = c - a
+        b = datetime.datetime.utcnow()
+        self.timesec = b - a
 
         if 280 <= self.items <= 300:
-            t = datetime.datetime.now()
-            global fix
-            fix = t - datetime.timedelta(0, 19800)
+            global t
+            t = datetime.datetime.utcnow()
         if self.items > 300:
             self.items = self.items - 300
-            self.timesec = c - fix
+            self.timesec = b - t
 
         return r
 
@@ -66,7 +63,7 @@ class FollowAllSpider(scrapy.Spider):
         f = open("AvSpeed.txt", 'a')
         f.write(" {0}".format((self.items * (1 / self.timesec.total_seconds()))))
         click.secho("\nThe average speed of the spider is {0} items/sec\n".format(
-            self.items * (1 / self.timesec.total_seconds())), fg='white', bold=True)
+            self.items * (1 / self.timesec.total_seconds())), bold=True)
 
     def _get_item(self, response):
         item = Page(
