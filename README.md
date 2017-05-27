@@ -1,9 +1,6 @@
 # Benchmarking CLI for Scrapy
 (The project is still in development.)
 
-NOTE : Use the master branch for working with `python2` and python3 branch for `python3`.
-
-
 >A command-line interface for benchmarking Scrapy, that reflects real-world usage.
 
 ## Why?
@@ -66,7 +63,7 @@ My Nginx config file is shared [here](https://github.com/Parth-Vader/Scrapy-Benc
     
       git clone https://github.com/Parth-Vader/Scrapy-BenchCLI.git  
       cd Scrapy-BenchCLI/  
-      virtualenv env --python=python2   
+      virtualenv env --python  
       . env/bin/activate   
       pip install --editable .
       cd books/
