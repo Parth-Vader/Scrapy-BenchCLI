@@ -63,7 +63,7 @@ My Nginx config file is shared [here](https://github.com/Parth-Vader/Scrapy-Benc
     
       git clone https://github.com/Parth-Vader/Scrapy-BenchCLI.git  
       cd Scrapy-BenchCLI/  
-      virtualenv env --python  
+      virtualenv env  
       . env/bin/activate   
       pip install --editable .
       cd books/
