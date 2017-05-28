@@ -67,6 +67,7 @@ My Nginx config file is shared [here](https://github.com/Parth-Vader/Scrapy-Benc
       virtualenv env  
       . env/bin/activate   
       pip install --editable .
+      tar -xvzf sites.tar.gz 
       cd books/
     
 ## Usage
