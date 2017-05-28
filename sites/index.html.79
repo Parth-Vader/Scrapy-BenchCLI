@@ -1,0 +1,1580 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head> <script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/b27aede0ce902bcf29239a588a95f630/allmobilize.min.js"></script><meta http-equiv="Cache-Control" content="no-siteapp" /><link rel="alternate" media="handheld" href="#" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="http://img.gmw.cn/images/10101.files/css/2012_index.css"/>
+<!----meta name="alexaVerifyID" content="6-uG9jpLqu4lisWtwjzcdjeJAYE" />
+<meta name="baidu-tc-verification" content="b6295428a3981bbf72aeb08e48f1de3c" />
+<meta name="baidu_union_verify" content="45dd97c6d0770304666712adc4000953"/---->
+<meta name="msapplication-navbutton-color" content="#d40004"/>
+<meta content="name=光明日报;action-uri=http://epaper.gmw.cn/gmrb/;icon-uri=http://img.gmw.cn/ico/paper.ico" name="msapplication-task" />
+<meta content="name=时评;action-uri=http://guancha.gmw.cn/;icon-uri=http://img.gmw.cn/ico/guancha.ico" name="msapplication-task" />
+<meta content="name=科技探索;action-uri=http://tech.gmw.cn/;icon-uri=http://img.gmw.cn/ico/tech.ico" name="msapplication-task" />
+<meta content="name=文化娱乐;action-uri=http://culture.gmw.cn/;icon-uri=http://img.gmw.cn/ico/e.ico" name="msapplication-task" />
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="2">
+<meta name="catalogs" content="0">
+<meta name="description" content="光明网是光明日报在网络时代的新延伸，也是国内唯一一家定位于思想理论领域的中央重点新闻网站。光明网坚持“可读、可信、可用”的办网原则，以“新闻视野、文化视角、思想深度、理论高度”为理念，努力打造“知识分子网上精神家园，权威思想理论文化网站”。" />
+<meta name="keywords" content="光明网,光明日报,时政,评论,理论,思想,学术,党建,经济,科技,教育,文化,娱乐,书画,旅游,摄影,卫生,法治,军事,体育,能源,汽车,电视,视频,访谈,动漫,传媒,社区,博客,百科,微博,云端读报,光明云媒,光明图片库,培训平台" />
+<title>光明网_新闻视野、文化视角、思想深度、理论高度</title>
+<script src="http://img.gmw.cn/js/jquery.js"></script>
+<base target="_blank">
+<style type="text/css">
+.navTd a{ padding:0 6px;}
+#sbd {width:308px;border:1px solid #ccc;margin-bottom:8px;}
+.sbdAd {float:left;margin:4px 2px;}
+.bannerBox1000t {width:1000px;margin:5px auto;text-align:center;padding:0;border:1px #ccc solid;background:#fff;}
+.ad242 {margn:2px 0;margin-bottom:0;}
+.cutext {width:146px;height:18px;overflow:hidden;}
+.pointN {padding-left:4px;}
+#index_banner01, #index_banner02, #index_banner03, #index_banner04, #index_pun09_full,.index_banner{width:1000px;margin:0 auto;font-size:0;}
+#index_one01, #index_one02, #index_two01, #index_two02 {width:250px;margin:0 auto 7px;font-size:0;}
+#index_two03_you {width:250px;margin:0 auto;font-size:0;}
+#index_one03, #index_two03 {width:120px;margin:0 auto;font-size:0;float:left;}
+#index_one04, #index_two04 {width:120px;margin:0 auto;font-size:0;float:right;}
+#index_pun01, #index_pun05, #index_pun07, #index_pun09{width:728px;margin:0 auto 10px;font-size:0;float:left;margin-left:1px;}
+#index_pun03, #index_pun11{width:728px;font-size:0;float:left;margin-left:1px;}
+#index_pun0100, #index_pun0101, #index_pun0102,#index_pun0501{float:left;}
+#index_pun1101, #index_pun1102,#index_pun0502{float:left;}
+.bannerArea260, #index_pun02, #index_pun04, #index_pun06, #index_pun08, #index_pun10, #index_pun12 {width:260px;margin:0 auto 10px;font-size:0;float:right;}
+.bannerArea260{height:90px; overflow:hidden; margin-bottom:0;}
+#index_focus06 {width:300px;height:214px;}
+#templeft {width:728px;margin:0 10px 10px 1px;font-size:0;float:left;}
+#tempcenter {width:150px;margin:0 10px 10px 0;font-size:0;float:left;}
+#tempright {width:100px;margin-bottom:10px;font-size:0;float:left;}
+.kouhao {color:#123378;font-size:12px;line-height:30px;height:30px;float:left;margin-right:4px;}
+.mail {margin-left:30px;}
+.mail a {color:#000;margin:0 6px;}
+.epaperbg {float:left;display:block;width:32px;height:31px;background:url(http://img.gmw.cn/images/10101.files/images/headerBg.gif) 0 -110px;}
+.smallnav {background:#f1f1f1;width:800px;line-height:22px;height:22px;}
+#cloud {background:url(http://img.gmw.cn/images/10101.files/ewm_gmym.gif) no-repeat 108px top;}
+#cloud .mobileIcons{background:url(http://img.gmw.cn/images/10101.files/images/gmrbapp_index_logo.jpg) 0 5px no-repeat}
+#wb {background:url(http://img.gmw.cn/images/10101.files/images/code_gmrbfrwb_s.png) no-repeat 108px 20px;}
+#wx {background:url(http://img.gmw.cn/images/10101.files/images/code_gmrbwx_s.png) no-repeat 108px 20px;}
+#gmsx {background:url(http://img.gmw.cn/images/10101.files/ewm_gmym.gif) no-repeat 108px top;}
+#gmsx .mobileIcons {background:url(http://img.gmw.cn/images/10101.files/images/11.png) no-repeat!important;}
+#yd {background:url(http://img.gmw.cn/images/10101.files/ewm_yddb.gif) no-repeat 108px top;}
+#sjb {background:url(http://img.gmw.cn/images/10101.files/ewm_sjb.gif) no-repeat 108px top;}
+/*#wap{background:url(http://img.gmw.cn/images/10101.files/ewm_gmwb.gif) no-repeat top right}*/
+/*#loginbar_new{width:460px; margin-left:5px;}*/
+#search {position:relative;}
+.chinasearch {position:absolute;top:0px;left:370px;}
+#friendsLink li {min-width:24px;}
+.cn12377 {margin-left:1em;margin-right:1em;}
+
+.adBox{ position:relative;}
+.adTips{ width:29px; height:13px; position:absolute; left:0; top:0; z-index:9; background:url(http://img.gmw.cn/pic/ADtips.png) no-repeat;}
+
+.difangList li{ width:20%; float:left; text-align:center;}
+.pageBg{ width:100%; min-width:1000px; background:url(http://img.gmw.cn/images/2017lianghui/2017lhsyph_02.jpg) center top no-repeat; background-repeat:no-repeat;}
+.btn_renda_b{display:block; width:600px; height:120px; position:absolute; left:360px;top:45px;}
+.btn_renda{display:block; width:360px; height:60px; position:absolute; left:0; top:45px;}
+.btn_zhengxie{display:block; width:360px; height:60px; position:absolute; left:0; top:105px;}
+
+</style>
+</head>
+<body>
+<!-- SSI_indexTopBanner on -->
+
+<!-- SSI_indexTopBanner off -->
+<script type="text/javascript" language="javascript" src="http://img.gmw.cn/js/gmw_index.js"></script>
+
+<div style="display:none;">
+    <!--begin 5020499-23770-1--><!--end 5020499-23770-1-->
+</div>
+
+<div id="index_banner01"></div>
+<div id="index_banner02"></div>
+
+<!-- 头部 -->
+<div id="header">
+    <div id="topBar">
+        <div id="search"> <span class="chinasearch"><a href="http://chinaso.com/" target="_blank" style="color:#fff;">中国搜索</a></span> <span>搜索：</span>
+                <form id="form2" name="form2" method="post" target="_blank" onSubmit="change()">
+                    <table width="290" height="28" border="0" cellpadding="0" cellspacing="0" style="margin:0;">
+                        <tr align="center">
+                            <td valign="middle"><input name="searchText" id="searchText" type="text" size="24"></td>
+                            <td valign="middle"><select name="selectId" id="selectId">
+                                    <option value="0">站内搜索</option>
+                                    <option value="1">光明网</option>
+                                    <option value="2">光明报系</option>
+                                </select>
+                            </td>
+                            <td valign="middle"><input type="image" value="0" width="38" height="18" border="0" src="http://img.gmw.cn/2010/2011search.gif" style="cursor:pointer;"></td>
+                        </tr>
+                    </table>
+                </form>
+        </div>
+        <div id="loginbar_new"></div>
+        <div class="favorite"><a onClick="javascript:window.external.AddFavorite('http://www.gmw.cn/','光明网_新闻视野、文化视角、思想深度、理论高度')">加入收藏</a></div>
+        <div class="home"><a onClick="this.style.behavior='url(#default#homepage)';&#13;&#10;this.setHomePage(' http://www.gmw.cn');">设为首页</a></div>
+    </div>
+    <div id="nav">
+        <div class="logo"><img src="http://img.gmw.cn/images/3720.files/images/logo.gif" width="139" height="56">
+                <h5>光明日报社主办</h5>
+            <div id="nowtime"></div>
+        </div>
+        <div class="nav_right">
+            <div class="kouhao">　<span class="slogan">文化人，天下事</span><span class="mail">
+                <!--<a href="http://tg.gmw.cn/">投稿</a>|-->
+                <a href="http://en.gmw.cn">English</a>|<a href="gm/">光明员工</a>|<a href="http://mail.gmw.cn/">邮箱</a><a href="http://gmm.gmw.cn" target="_blank"><img src="http://img.gmw.cn/pic/gmmlogo.jpg" height="20" style="margin-top:5px;" /></a></span></div>
+            <a href="http://skype.gmw.cn/?utm_source=gmw&utm_medium=logo&utm_campaign=gmwhp"><img src="http://img.gmw.cn/pic/skypelogo.jpg" width="45" height="20" style="margin-top:5px;" /></a> <a href="http://weizhan.gmw.cn/"><img src="http://img.gmw.cn/pic/weizhanlogo_GMWindex.png" width="59" height="20" style="margin-top:5px;" /></a>
+            <div class="clear"></div>
+            <div class="nav_box">
+                <table width="800" border="0" cellpadding="0" cellspacing="0" class="black12" style="line-height:20px;letter-spacing:2px">
+              <tr bgcolor="#ffffff">
+                        <td width="180" height="54" align="center" valign="middle" class="navTd"><a href="http://news.gmw.cn/">新闻</a><a href="http://politics.gmw.cn/">时政</a><a href="http://world.gmw.cn/">国际</a><a href="http://difang.gmw.cn">地方</a><br />
+                <a href="http://mil.gmw.cn/">军事</a><a href="http://legal.gmw.cn/">法治</a><a href="http://photo.gmw.cn/">读图</a><a href="http://topics.gmw.cn/">专题</a> </td>
+                        <td width="135" height="54" align="center" valign="middle" class="navTd"><a href="http://guancha.gmw.cn/">时评</a><a href="http://theory.gmw.cn/">理论</a><a href="http://dangjian.gmw.cn/">党建</a><br />
+                            <a href="xueshu/">学术</a><a href="http://history.gmw.cn/">历史</a><a href="guoxue/">国学</a> </td>
+                        <td width="135" height="54" align="center" valign="middle" class="navTd"><a href="http://culture.gmw.cn/">文化</a><a href="http://tech.gmw.cn/">科技</a><a href="http://edu.gmw.cn/">教育</a><br />
+                <a href="http://health.gmw.cn/">卫生</a><a href="http://kepu.gmw.cn/">科普</a><a href="http://v.gmw.cn/">电视</a></td>
+                        <td width="135" height="54" align="center" valign="middle" class="navTd"><a href="http://economy.gmw.cn/">经济</a><a href="http://life.gmw.cn/">生活</a><a href="http://travel.gmw.cn/">旅游</a><br />
+                            <a href="http://lady.gmw.cn/">女人</a><a href="http://e.gmw.cn">娱乐</a><a href="http://sports.gmw.cn/">体育</a></td>
+                        <td width="180" height="54" align="center" valign="middle" class="navTd"><a href="http://blog.gmw.cn/">博客</a><a href="http://reader.gmw.cn/">阅读</a><a href="http://gongyi.gmw.cn/">公益</a><a href="http://shipin.gmw.cn/">食品</a><br />
+                <a href="http://run.gmw.cn/">乐跑</a><a href="http://shuhua.gmw.cn/">书画</a><a href="http://meiwen.gmw.cn/">文荟</a><a href="http://yp.gmw.cn/">药品</a></td>
+                        <td width="" height="54" align="center" valign="middle">
+                <a class="epaperbg" href="http://epaper.gmw.cn/"></a> </td>
+                    </tr>
+                </table>
+              <div class="smallnav grey12_6"> <span class="pointN">·</span><a href="http://wenyi.gmw.cn/" style="color:#ff3333">文艺评论</a><span class="pointN">·</span><a href="http://pic.gmw.cn/">图片库</a><span class="pointN">·</span><a href="http://qp.gmw.cn/?from=indexdh" style="color:#ff3333">棋牌</a><span class="pointN">·</span><a href="http://liuxue.gmw.cn/">留学</a><span class="pointN">·</span><a href="http://cb.gmw.cn">学术出版</a><span class="pointN">·</span><a href="http://yangsheng.gmw.cn/">养生</a><span class="pointN">·</span><a href="http://cm.health.gmw.cn/">中医</a><span class="pointN">·</span><a href="http://www.andlvshi.com/" style="color:#ff3333">律师</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="clear" style="height:6px;"></div>
+<!-- 首屏焦点区 begin -->
+<!--临时广告区 begin-->
+<div class="clear"></div>
+<div id="index_banner03" style="margin-bottom:10px; display:none;">
+<!-- AFP两段式代码-公用代码 -->
+<script type="text/javascript" src="http://afpmm.alicdn.com/g/mm/afp-cdn/JS/k.js"></script>
+<!-- 52772341：光明网首页-大顶通栏 类型：固定 尺寸：1000x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52772341",format:1,mode:1,gid:1,destid:"index_banner03",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+</div>
+<div id="index_banner04"></div>
+<!--临时广告区 end-->
+<!--头部新闻 begin-->
+<div class="wrapper1000 f_c">
+    <div class="left_news">
+        <!--begin 5020500-22877-1--><ul class="news_list">	<li><a href="http://topics.gmw.cn/node_106094.htm" target="_blank">检法新媒体应用推荐</a></li><li><a href="http://politics.gmw.cn/2017-05/05/content_24396981.htm" target="_blank">2016"五个一百"评选</a></li></ul><ul class="news_list">	<li><a href="http://topics.gmw.cn/bcjt/" target="_blank">核心价值观百场讲坛</a></li><li><a href="http://www.cndfilm.com/special/shzyhxjzgwdy/03/index.shtml" target="_blank">核心价值观主题微电影</a></li></ul><ul class="news_list">	<li><a href="http://jubao.12377.cn:13225/reportform.do" target="_blank"><FONT color=purple>暴恐音视频举报</FONT></a></li><li><a href="jiandu/" target="_blank">网络举报监督专区</a></li></ul><ul class="news_list">	<li><a href="http://gongyi.gmw.cn/node_81050.htm" target="_blank">网络公益广告联播</a></li><li><a href="http://difang.gmw.cn/sunan/node_52684.htm" target="_blank"><A title="" href="http://topics.gmw.cn/node_31284.htm" target=_blank>讲文明树新风</A></a></li></ul><ul class="news_list">	<li><a href="index/2015-03/26/content_15206241.htm" target="_blank"><A title="" href="http://topics.gmw.cn/node_98645.htm" target=_blank>新媒体产品集纳</A></a></li><li><a href="index/2017-01/26/content_23593835.htm" target="_blank"><A title="" href="http://photo.gmw.cn/node_79388.htm" target=_blank>图片库·光明图刊</A></a></li></ul><!--end 5020500-22877-1-->
+    </div>
+    <div style="float:right;"><a  target="_blank" href="http://tech.gmw.cn/mil/index.htm"><img src="http://ad.gmw.cn/index_banner/20160816index_260x50.jpg" width="260" height="50" alt="军事科技前沿"></a></div>
+<!--两会期间隐藏  end-->
+<!--    20160816 delete
+    <div class="rig_ban150"> <a href="http://www.12377.cn/node_548446.htm"><img src="http://ad.gmw.cn/index_banner/20151222_150x50.jpg" alt="网络举报APP下载" width="150" height="50"/></a> </div>
+    <div class="rig_ban100"> <a href="http://topics.gmw.cn/node_50115.htm"><img src="http://ad.gmw.cn/index_banner/20140930hexinjzg100.jpg" alt="社会主义核心价值观" width="100" height="50"/></a>
+    </div>
+-->    
+</div>
+<!--头部新闻 end-->
+<!--第一部分 begin-->
+<div id="focusArea">
+    <div class="shadow_focusTop"></div>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- tplid:17587; nodeid:44634 -->
+<link rel="stylesheet" type="text/css" href="http://img.gmw.cn/images/10101.files/css/2012_index.css?v=2015050109"/>
+<div id="headline" class="black12">
+	<a href="http://news.gmw.cn/2017-05/26/content_24600152.htm" target="_blank"><img src="http://img.gmw.cn/images/attachement/gif/site2/20170526/f44d305ea0ab1a91ca1625.gif" border="0" width="635" height="47"></a><h3><a href="http://news.gmw.cn/2017-05/26/content_24600152.htm" target="_blank">【互联网内容创业新风口】火爆短视频如何实现内容变现</a></h3><span>[<a href="http://it.gmw.cn/2017-05/17/content_24506052.htm" target="_blank">短视频霸屏星APP榜单</a>]</span><span>[<a href="http://news.gmw.cn/2017-05/26/content_24600154.htm" target="_blank">短视频热为内容生产者带来哪些利好</a>]</span><span>[<a href="http://news.gmw.cn/2017-05/26/content_24600150.htm" target="_blank">引领日常生活的新表达</a>]</span><span>[<a href="http://politics.gmw.cn/2017-05/26/content_24603339.htm" target="_blank">或将成下一个风口</a>]</span>
+	<a href="index/node_4841.htm" target="_blank" id="headlineBtn">头条关注</a>
+</div>
+    <div class="focusAreaR">
+        <div id="pinglunyuan">
+            <div class="grey12_6" style="text-align:right; padding:2px 10px 3px 0;"><a atremote href="http://guancha.gmw.cn/node_11273.htm">更多>></a></div>
+            <h3>
+              <!--begin 5020501-11212-1--><a atremote href="http://guancha.gmw.cn/2017-05/26/content_24609097.htm" target="_blank">“女德”的分贝怎么越来越高？</a><!--end 5020501-11212-1-->
+            </h3>
+        </div>
+        <div id="guancha">
+            <div class="titBar_topics" style="font-weight:normal; height:30px; position:relative"><span class="grey12_6"><a atremote href="http://guancha.gmw.cn/" style=" display:block;position:absolute; width:60px; height:30px; top:0; left:10px; text-indent:-9999px;">时评</a></span><span class="grey12_6" style="position:absolute; top:3px; right:10px;"><a atremote href="http://www.gmw.cn/index/node_4322.htm">更多>></a></span></div>
+            <div class="txtArea black14" style="padding-top:5px; padding-bottom:5px;">
+              <!--begin 5020502-4428-1--><ul><li>·<a atremote href="http://guancha.gmw.cn/2017-05/26/content_24612295.htm" target="_blank">"盲人摸城管"是城管和城市的耻辱</a></li><p class="clear"></p><li>·<a atremote href="http://guancha.gmw.cn/2017-05/26/content_24612250.htm" target="_blank">贸易要有“交换”与“互惠”思维</a></li><p class="clear"></p><li>·<a atremote href="http://guancha.gmw.cn/2017-05/26/content_24612301.htm" target="_blank">幼儿园就玩“王者荣耀”并不荣耀</a></li><p class="clear"></p><li>·<a atremote href="http://news.gmw.cn/2017-05/26/content_24600120.htm" target="_blank">电商与快递莫饮鸩止渴</a></li><p class="clear"></p><li>·<a atremote href="http://news.gmw.cn/2017-05/26/content_24600126.htm" target="_blank">每个官员绰号都是一封民意信</a></li><p class="clear"></p><li>·<a atremote href="http://guancha.gmw.cn/2017-05/25/content_24598323.htm" target="_blank">复旦教授八千工资，只是局部真相</a></li><p class="clear"></p></ul><!--end 5020502-4428-1-->
+            </div>
+        </div>
+        <div id="hot" style=" margin-bottom:10px; position:relative">
+            <h2 class="titBar_topics2" style="font-weight:normal;/*background:url(http://img.gmw.cn/images/10101.files/images/hot-ChinaMoble.jpg) left center no-repeat;*/">
+                <div class="grey12_6" style="text-align:right; padding:3px 10px 3px 0;"><a href="http://topics.gmw.cn/">更多>></a></div>
+                </h2>
+<div class="picTxtRight" style="padding-top:11px; height:160px;">
+  <!--begin 5020503-11204-1--><a atremote href="http://topics.gmw.cn/node_110842.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170517/f44d305ea0ab1a864ce201.jpg" border="0" width="80" height="60"></a><p class="black12"><STRONG><A title="" href="http://topics.gmw.cn/node_110842.htm" target=_blank><FONT color=#993300>砥砺奋进的五年<BR></FONT></A></STRONG>展示治国理政新理念新思想新战略生动实践和伟大成就</p><!--end 5020503-11204-1--><div class="clear"></div>
+                <!--begin 5020504-11204-1--><ul class="black12" style="padding-top:6px;"><li>·<a atremote href="http://topics.gmw.cn/node_109598.htm" target="_blank"><A title="" href="http://topics.gmw.cn/node_109598.htm" target=_blank>聚焦“一带一路”国际合作高峰论坛</A>&nbsp;<A title="" href="http://en.gmw.cn/node_110774.htm" target=_blank>EN</A></a></li><li>·<a atremote href="http://topics.gmw.cn/node_110539.htm" target="_blank"><A title="" href="http://topics.gmw.cn/node_110539.htm" target=_blank>金砖会晤(9月3日-5日)</A>｜<A title="" href="http://topics.gmw.cn/node_97858.htm" target=_blank>2017贵阳数博会</A></a></li><li>·<a atremote href="http://www.gmw.cn/index/2017-05/10/content_24442740.htm" target="_blank"><A title="" href="http://topics.gmw.cn/node_110714.htm" target=_blank>深圳文博会</A>｜<A title="" href="http://topics.gmw.cn/node_110854.htm" target=_blank>追忆“家国栋梁”黄大年</A></a></li></ul><!--end 5020504-11204-1--></div>
+            <div class="clear"></div>
+        </div>
+        <div id="index_one01" style="display:none;"><a atremote href="http://difang.gmw.cn/sunan/node_25272.htm"><img atremote src="http://ad.gmw.cn/index_banner/20130828whsz.jpg" width="250" height="50" border="0" alt="文化苏州" /></a></div>
+        <div id="index_one02" style="display:none;"><a atremote href="http://topics.gmw.cn/node_11769.htm"><img atremote src="http://ad.gmw.cn/index_banner/20130828szjy.jpg" width="250" height="50" border="0" alt="苏州教育" /></a></div>
+        <div id="index_one03" style="display:none;"><a atremote href="http://zt.cnssz.com/topic/201310zjgwhj/index.htm"><img atremote src="http://ad.gmw.cn/index_banner/20131115zhang.gif" width="120" height="50" border="0" alt="文明张家港" /></a></div>
+        <div id="index_one04" style="display:none;"><a atremote href="http://v.gmw.cn/2012-11/06/content_5594338.htm"><img atremote src="http://ad.gmw.cn/index_banner/20130828ksxdh.jpg" width="120" height="50" border="0" alt="昆山现代化" /></a></div>
+    </div>
+    <div class="focusAreaL" style="position: relative;">
+<img atremote src="http://img.gmw.cn/images/10101.files/images/gmpic.jpg" width="310" height="16" border="0" usemap="#Map" />
+<map name="Map">
+    <area shape="rect" coords="10,0,66,17" href="http://pic.gmw.cn/">
+    <area shape="rect" coords="263,3,305,14" href="index/node_8604.htm">
+</map>
+<div class="picf">
+  <div id="bimg">
+    <!--begin 5020505-8604-1--><div class=dis name="f"><a atremote href=http://topics.gmw.cn/node_111125.htm><img atremote src=http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d3075897a1a925bb659.jpg border=0 width="300" height="214" ></a></div><div class=undis name="f"><a atremote href=http://photo.gmw.cn/2017-05/26/content_24611568.htm><img atremote src=http://img.gmw.cn/images/attachement/jpg/site2/20170526/448a5bb249a91a923a004c.jpg border=0 width="300" height="214" ></a></div><div class=undis name="f"><a atremote href=http://photo.gmw.cn/2017-05/26/content_24611501.htm><img atremote src=http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d30758a0c1a9229eb4f.jpg border=0 width="300" height="214" ></a></div><div class=undis name="f"><a atremote href=http://photo.gmw.cn/2017-05/26/content_24604185.htm><img atremote src=http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d30758a0c1a91d70830.jpg border=0 width="300" height="214" ></a></div><div class=undis name="f"><a atremote href=http://photo.gmw.cn/2017-05/26/content_24604313.htm><img atremote src=http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d30758a0c1a91d6e32f.jpg border=0 width="300" height="214" ></a></div><!--end 5020505-8604-1--><!--begin 5020506-97995-1--><div class=undis name="f"><a atremote href=http://cn.ingridmillet.com.hk/><img atremote src=http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d30758a831a91cb6402.jpg border=0 width="300" height="214" ></a></div><!--end 5020506-97995-1--></div><div id="pic_scroll_title_box">
+<div id="info">
+  <!--begin 5020507-8604-1-->  <div class=dis name="f"><a atremote href=http://topics.gmw.cn/node_111125.htm>第四届“检法系统新媒体应用案例”获奖名单揭晓</a></div>  <div class=undis name="f"><a atremote href=http://photo.gmw.cn/2017-05/26/content_24611568.htm>【光明图刊】美丽生态：行舟绿水前</a></div>  <div class=undis name="f"><a atremote href=http://photo.gmw.cn/2017-05/26/content_24611501.htm>黑龙江武警重装巡护万里林海</a></div>  <div class=undis name="f"><a atremote href=http://photo.gmw.cn/2017-05/26/content_24604185.htm>江西新余举办全国高校智能龙舟赛</a></div>  <div class=undis name="f"><a atremote href=http://photo.gmw.cn/2017-05/26/content_24604313.htm>青岛铺设防鲨网保浴场平安</a></div><!--end 5020507-8604-1-->
+  <!--begin 5020508-97995-1--><div class=undis name="f"><a atremote href=http://cn.ingridmillet.com.hk/>动漫一起跑 英格蜜儿给母亲节最好的礼物</a></div><!--end 5020508-97995-1-->
+</div>
+                    <div class="clear"></div>
+                <div id="simg">
+<ul>
+<li class="xbigon">
+<div onClick=play(x[0],0) name="f">1</div>
+            </li>
+                        <li class="xbigoff">
+<div class=f1 onClick=play(x[1],1) name="f">2</div>
+                        </li>
+                        <li class="xbigoff">
+<div class=f1 onClick=play(x[2],2) name="f">3</div>
+                        </li>
+                        <li class="xbigoff">
+<div class=f1 onClick=play(x[3],3) name="f">4</div>
+                        </li>
+                        <li class="xbigoff">
+<div class=f1 onClick=play(x[4],4) name="f">5</div>
+                        </li>
+                        <li class="xbigoff">
+<div class=f1 onClick=play(x[5],5) name="f">6</div>
+                        </li>
+                  </ul>
+                </div>
+            </div>
+      </div>
+        <div id="gmyuan">
+<div class="titBar_gmyuan"><span class="more"><a atremote href="http://www.gmw.cn/content/node_8926.htm">更多&gt;&gt;</a></span></div>
+            <div class="txtArea black12" style="padding:5px 5px 5px 10px;">
+              <!--begin 5020509-8602-1--><ul><li>·<a atremote href="http://www.gmw.cn/index/2017-05/05/content_24389955.htm" target="_blank"><A title="" href="http://news.gmw.cn/2017-05/04/content_24376660.htm" target=_blank>“我与网络强国”青年演讲活动决赛在京举行</A> <A title="" href="http://photo.gmw.cn/2017-05/03/content_24376331.htm" target=_blank>组图</A></a></li></ul><!--end 5020509-8602-1-->
+              <!--begin 5020510-8602-1--><ul><li>·<a atremote href="http://news.gmw.cn/2017-05/01/content_24348657.htm" target="_blank">光明日报社代表团凭吊许杏虎朱颖邵云环三位烈士</a></li><li>·<a atremote href="http://news.gmw.cn/2017-05/04/content_24376704.htm" target="_blank">“光明微站”获中国报业创新项目特等奖</a></li><li>·<a atremote href="http://www.gmw.cn/content/2017-04/26/content_24303994.htm" target="_blank">光明网等单位主办“首届妈妈班科普视频评选”活动</a></li></ul><!--end 5020510-8602-1--></div>
+        </div>
+    </div>
+  <div class="focusAreaM black14">
+        <div class="line_dotted" style=" padding-top:0; border-bottom:none;"></div>
+      <!--begin 5020511-5614-1--><strong style="margin-top:0;"><a atremote href="http://politics.gmw.cn/2017-05/26/content_24613239.htm" target="_blank">中共中央政治局召开会议 习近平主持会议</a></strong><!--end 5020511-5614-1-->
+        <!--begin 5020512-5614-1--><ul><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24600069.htm" target="_blank">李克强为何如此牵挂棚改?这里有上亿人民的泪水和欢欣</a></li><li>·<a atremote href="http://mil.gmw.cn/2017-05/26/content_24609096.htm" target="_blank">国防部：不再从普通高中毕业生中定向招收国防生</a></li><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24612699.htm" target="_blank">官方：公务员申请辞去公职时应如实报告从业去向</a></li><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24612822.htm" target="_blank">一批新规6月起实施:网络安全法加强个人信息保护</a></li><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24612796.htm" target="_blank">端午假期华北黄淮等省市气温较高 局地可超35℃</a></li></ul><!--end 5020512-5614-1-->
+        <!--begin 5020513-97033-1--><ul><li><a atremote href="http://theory.gmw.cn/node_97958.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/png/site2/20170524/f44d30758a711a8f925a03.png" border="0" style="padding:0 10px;vertical-align:top;float: left;"></a><a atremote href="http://theory.gmw.cn/2017-05/24/content_24585329.htm" target="_blank">林坚：雄安新区应成为共享发展实验区</a></li></ul><!--end 5020513-97033-1--><div class="line_dotted" style="padding-top:9px; margin-bottom:9px;"></div>
+        <!--begin 5020514-6859-1--><strong><a atremote href="http://www.gmw.cn/index/2017-05/26/content_24613114.htm" target="_blank"><A title="" href="http://legal.gmw.cn/2017-05/26/content_24613014.htm" target=_blank>新媒体为检法系统搭建与民沟通之桥</A> <A title="" href="http://topics.gmw.cn/node_111125.htm" target=_blank><FONT color=#993300>专题</FONT></A></a></strong><!--end 5020514-6859-1-->
+        <!--begin 5020515-6859-1--><ul><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24612609.htm" target="_blank">晚报:高考不再招国防生;北京立法严打非法一日游</a></li><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24612791.htm" target="_blank">临近高考如何安排饮食、调节情绪？ 备考指南送给你</a></li><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24612782.htm" target="_blank">白春礼：中国“天眼”为宇宙起源提供更准确依据</a></li><li>·<a atremote href="http://www.gmw.cn/index/2017-05/26/content_24610890.htm" target="_blank"><A title="" href="http://culture.gmw.cn/2017-05/26/content_24610878.htm" target=_blank>明确"十三五"文化小康目标任务与政策路径</A> <A title="" href="http://culture.gmw.cn/2017-05/26/content_24610875.htm" target=_blank>铸就新辉煌</A></a></li><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24610142.htm" target="_blank">国家旅游局：对2家5A景区严重警告 10家4A景区被摘牌</a></li></ul><!--end 5020515-6859-1-->
+        <!--begin 5020516-10892-1--><a atremote href="http://www.gmw.cn/content/2017-05/26/content_24612539.htm" target="_blank"><STRONG><A title="" href="content/node_40694.htm" target=_blank><FONT color=#cc3300>[五老评热点]</FONT></A> <A title="" href="content/2017-05/26/content_24611545.htm" target=_blank><FONT color=black>杨杰勉："一带一路"带给世界新希望</FONT></A></STRONG></a><!--end 5020516-10892-1--></div>
+    <div class="clear"></div>
+</div>
+<!-- 首屏焦点区 end -->
+<div class="bannerBox1000" style="display:none">
+    <div id="banner_t2" style="float:left; width:495px;"></div>
+    <div id="banner_t3" style="float:right; width:495px;"></div>
+    <div class="clear"></div>
+</div>
+
+<!-- 20160222 temp ----------两会期间专用---------->
+
+<div style="width:1000px; height:90px; margin:0 auto;">
+    <a atremote target="_blank" href="http://topics.gmw.cn/node_108854.htm"><img src="http://ad.gmw.cn/index_banner/20170328_qnyj728x90.jpg" style="float:left;"></a>
+    <!--<div style=" width:740px; height:90px; float:left;">
+    	<a atremote target="_blank" href="http://topics.gmw.cn/node_88680.htm"><img atremote src="http://img.gmw.cn/index_banner/20161220fxgz_banner365x90.jpg" style="float:left;"></a>
+    	<a atremote target="_blank" href="http://www.gov.cn/zhuanti/2017wxzlsjh/index.htm"><img atremote src="http://img.gmw.cn/index_banner/20161220wxzlsjh364x90.jpg" style="float:left;"></a>
+	</div>-->
+   
+    <div class="bannerArea260">    
+        <a atremote class="i260_3" href="http://www.12377.cn/node_548446.htm"><img atremote src="http://ad.gmw.cn/index_banner/20160816wljbAPP.jpg" alt="网络举报APP下载" width="260" height="90"/></a>
+        <!--<a atremote class="i260_4" href="http://topics.gmw.cn/node_50115.htm"><img atremote src="http://ad.gmw.cn/index_banner/20160816shzyhxjzg.jpg" alt="社会主义核心价值观" width="260" height="90"/></a>-->
+        <a atremote class="i260_4" href="http://jubao.12377.cn:13225/reportinputcommon.do"><img atremote src="http://img.gmw.cn/index_banner/20170309wsyhxxjbzq_260x90.jpg" alt="网上有害信息举报专区" width="260" height="90"/></a>
+    </div>
+        
+    <script>
+		setInterval(function(){
+			if($(".i260_3").is(":hidden")){
+				$(".i260_3").show(200, function(){
+					$(".i260_4").hide();
+				});
+			}else{
+				$(".i260_4").show();
+				$(".i260_3").hide(200);
+			}
+		}, 3500);
+	</script>
+
+    
+    <!-- 2016923 delete 
+    <div class="bannerArea260">
+    	<a atremote class="i260_3" target="_blank" href="http://topics.gmw.cn/node_88680.htm"><img atremote src="http://ad.gmw.cn/index_banner/260x90_2017fxgz_20160831.jpg"></a>
+    </div>
+    -->
+
+</div>
+<!-- 20160222 temp ----------两会期间专用---------->
+<!-- 光明网首页-0区按钮 -->
+<div style="width:1000px; margin:0 auto;">
+    <div id="index_pun09_full">
+      <!--begin 5020517-23781-1--><!--end 5020517-23781-1--></div>
+    <div id="index_pun09">
+      <!--begin 5020518-23779-1--><!--end 5020518-23779-1--></div>
+    <div id="index_pun10">
+      <!--begin 5020519-23778-1--><!--end 5020519-23778-1--></div>
+    <div class="clear"></div>
+</div>
+<!--第一部分 end-->
+<!--第二部门SSI-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div class="wrapper1000">
+    <div class="layoutLeftBg">
+        <div class="layoutLeft">
+            <div class="c325" id="papers">
+                <div class="titLeftBarBg"> <span class="more"><a atremote href="http://epaper.gmw.cn/">更多>></a></span>
+                        <h1><a atremote href="http://epaper.gmw.cn/">光明报系</a></h1>
+                </div>
+                <div class="pic_paper">
+                  <a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_01.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/eca86ba04bcc1a916d0b01.jpg" border="0" width="120" height="165"></a></div>
+                <!--20150624 32版临时样式-->
+                <style>.version ul li a{ background:#a2362c;}</style>
+                <div class="version">
+                  <ul><li class="labelVer">今日版次</li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_01.htm" target="_blank">1</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_02.htm" target="_blank">2</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_03.htm" target="_blank">3</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_04.htm" target="_blank">4</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_05.htm" target="_blank">5</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_06.htm" target="_blank">6</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_07.htm" target="_blank">7</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_08.htm" target="_blank">8</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_09.htm" target="_blank">9</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_10.htm" target="_blank">10</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_11.htm" target="_blank">11</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_12.htm" target="_blank">12</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_13.htm" target="_blank">13</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_14.htm" target="_blank">14</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_15.htm" target="_blank">15</a></li><li><a atremote href="http://epaper.gmw.cn/gmrb/html/2017-05/26/nbs.D110000gmrb_16.htm" target="_blank">16</a></li></ul><div class="clear"></div>
+                </div>
+                <div class="black12" style="width:150px; padding:0 4px; float:left;">
+                    <p><a atremote href="http://epaper.gmw.cn/gmrbdb/">历年光明日报数据库</a></p>
+                    <p><a atremote href="http://epaper.gmw.cn/bwytzq.html">光明日报版网一体专区</a></p>
+                    <p class="grey12_3" style="line-height:20px;display:none;"> <br/>
+                            <br/>
+                            <br/>
+                    </p>
+                    <!--<span id="readerOnline" onclick="javascript:window.open('http://b4.qq.com/webc.htm?new=0&amp;sid=800078856&amp;eid=&amp;o=www.gmw.cn&amp;q=7', '_blank', 'height=544, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');"></span>-->
+                    <span id="readerOnline" onClick="javascript:window.open('http://wpa.qq.com/msgrd?v=3&uin=800078856&site=www.gmw.cn&menu=yes', '_blank', 'height=544, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');" style="margin-top:8px;"></span> </div>
+                <div class="clear"></div>
+                <div id="newspaperChain">
+                    <p class="black12_20"> <a atremote href="01wzb/">文摘报</a> <a atremote href="http://epaper.gmw.cn/sz/paperindex.htm">书摘</a><a atremote href="http://jyj.gmw.cn/index.htm">教育家</a>&nbsp; <a atremote href="http://epaper.gmw.cn/blqs/paperindex.htm">博览群书</a>&nbsp; <a atremote href="http://epaper.gmw.cn/zhdsb/">中华读书报</a> </p>
+                    <p class="black12_20"> <a atremote href="http://www.laobm.com/">新天地</a> <a atremote href="http://book.gmw.cn/">光明日报出版社</a> <a atremote href="http://difang.gmw.cn/jzz_gn.html">国内记者站</a> <a atremote href="http://difang.gmw.cn/jzz_gj.html">驻外记者站</a> </p>
+                    <p class="black12_20"> <a atremote href="http://topics.gmw.cn/node_88680.htm">订阅</a>　<a atremote href="content/2015-12/31/content_18317112.htm">广告刊例</a>　<a atremote href="http://gmyc.gmw.cn/">印务</a></p>
+                </div>
+            </div>
+            <div class="midTab" id="newsTab">
+                <div class="bgline" style="height:26px;">
+                    <div class="abs"> <span class="red14"><b><a atremote href="http://news.gmw.cn/node_4108.htm">光明导读</a></b></span> </div>
+                </div>
+                <!-- 今日光明日报-->
+                <div class="card_info black14">
+                    <div class="txtTabArea">
+                      <strong><a atremote href="http://www.gmw.cn/index/2017-05/26/content_24600831.htm" target="_blank"><A title="" href="http://news.gmw.cn/2017-05/26/content_24600152.htm" target=_blank>短视频如何实现"内容变现"</A> <A title="" href="http://news.gmw.cn/2017-05/26/content_24600150.htm" target=_blank>生活新表达</A> <A title="" href="http://news.gmw.cn/2017-05/26/content_24600154.htm" target=_blank>哪些利好</A></a></strong><ul><li>·<a atremote href="http://news.gmw.cn/2017-05/26/content_24600352.htm" target="_blank"><FONT color=#003366>[“一带一路”进行时]</FONT>中国与中东欧国家合作前景广阔</a></li><li>·<a atremote href="http://news.gmw.cn/2017-05/26/content_24600244.htm" target="_blank">回归生活 得妙于心——读韩小蕙新作《百姓英国》</a></li><li>·<a atremote href="http://news.gmw.cn/2017-05/26/content_24600314.htm" target="_blank"><FONT color=#003366>[治国理政·新思想新实践]</FONT>志存高远 培养卓越法治人才</a></li></ul><strong><a atremote href="http://www.gmw.cn/index/2017-05/26/content_24600766.htm" target="_blank"><A title="" href="http://news.gmw.cn/2017-05/26/content_24600285.htm" target=_blank>戏曲传承与“工匠精神”</A> <A title="" href="http://news.gmw.cn/2017-05/26/content_24600287.htm" target=_blank>为京剧武戏鼓与呼</A></a></strong><ul><li>·<a atremote href="http://news.gmw.cn/2017-05/26/content_24600234.htm" target="_blank">工信部回应中国制造热点问题：核心技术助推制造强国</a></li><li>·<a atremote href="http://news.gmw.cn/2017-05/26/content_24600222.htm" target="_blank"><FONT color=#003366>[当前经济形势]</FONT>三大“晴雨表”传递经济转型新信号</a></li><li>·<a atremote href="http://news.gmw.cn/2017-05/26/content_24600140.htm" target="_blank">“我爱祖国的蓝天”——无人机飞行员李浩的精神密码</a></li><li>·<a atremote href="http://news.gmw.cn/2017-05/26/content_24600206.htm" target="_blank">科创清风吹遍全国:紧贴民生 深入基层 科学家更亲民</a></li></ul></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <!---核心价值观专区S-->
+	<div class="layoutRightBg">
+	  <div class="layoutRight">
+			<div class="titBarRight titBar_hxjzg"><h2>核心价值观专区</h2></div>
+            <div class="rig_imgarea">	<a atremote href="http://news.gmw.cn/2017-05/26/content_24600114.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d305ea48e1a91bf8c06.jpg" border="0" width="70" height="50"></a>	<p class="black12"><A title="" href="http://news.gmw.cn/2017-05/26/content_24600114.htm" target=_blank><FONT color=#993300><STRONG><FONT color=#993300>[多彩神州·生态故事]</FONT><BR></STRONG></FONT>用绿色支点撬动区域发展</A></p></div><div class="rig_imgarea">	<a atremote href="http://topics.gmw.cn/node_110635.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d305ea48e1a91a54001.jpg" border="0" width="70" height="50"></a>	<p class="black12"><A title="" href="http://topics.gmw.cn/node_110635.htm" target=_blank><STRONG><FONT color=#993300>[砥砺奋进的五年·蹲点贫困村调研采访]<BR></FONT></STRONG></A><A title="" href="http://news.gmw.cn/2017-05/26/content_24600106.htm" target=_blank>险岩村的“蘑菇经”</A></p></div><div class="rig_imgarea">	<p class="black12"><A title="" href="http://news.gmw.cn/2017-05/26/content_24600138.htm" target=_blank><FONT color=#993300><STRONG>[最美家庭]<BR></STRONG></FONT>四川雷昌根家庭：清廉本色的幸福之家</A></p></div><div class="rig_imgarea">	<p class="black12"><STRONG><A title="" href="http://topics.gmw.cn/node_84146.htm" target=_blank><FONT color=#993300>[“两学一做”学习教育]</FONT></A><BR></STRONG><A title="" href="http://news.gmw.cn/2017-05/26/content_24600087.htm" target=_blank>用好正反“两面镜子” 发挥支部主体作用</A></p></div><div class="rig_imgarea nobor">	<p class="black12"><A title="" href="http://topics.gmw.cn/node_109994.htm" target=_blank><FONT color=#993300><STRONG>[知识人·强国梦]<BR></STRONG></FONT></A><A title="" href="http://news.gmw.cn/2017-05/26/content_24600212.htm" target=_blank>李安:天地对话的“掌控者”</A></p></div></div>
+		<div class="layoutShadow"><div class="layoutShadowCorner"></div></div>
+	</div>
+	<!--核心价值观专区E-->
+	<div class="clear"></div>
+</div>
+
+
+<div style="width:1000px; margin:0 auto;">
+	<div id="index_pun01">
+        <div id="index_pun0100"></div>
+        <div id="index_pun0101"></div>
+        <div id="index_pun0102"></div>
+    </div>
+	<div id="index_pun02"></div>
+</div>
+<!--第三部门SSI-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--光明新闻S-->
+<div class="wrapper1000">
+	<div class="layoutLeftBg">
+		<div class="layoutLeft">
+			<div class="c325" id="news">
+				<div class="titLeftBarBg">
+					<span class="more"><a atremote href="http://news.gmw.cn/">更多>></a></span><h1><a atremote href="http://news.gmw.cn/">光明新闻</a></h1>
+				</div>
+			  <div class="picTxtLeft">
+			    <a atremote href="http://politics.gmw.cn/2017-05/26/content_24601431.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d305ea1af1a91bbb813.jpg" border="0" width="140" height="100"></a><ul class="white14"><li><a atremote href="http://politics.gmw.cn/2017-05/26/content_24601431.htm" target="_blank">"蛟龙"号上演大海捞"针"</a></li><li><a atremote href="http://politics.gmw.cn/2017-05/26/content_24603886.htm" target="_blank">2017中国梦网络影视征集</a></li><li><a atremote href="http://politics.gmw.cn/2017-05/25/content_24589956.htm" target="_blank">村民住进“水墨画”</a></li></ul></div>
+				<div class="txtArea">
+				  <strong class="red14"><a atremote href="http://politics.gmw.cn/2017-05/26/content_24601958.htm" target="_blank">洛阳事业单位考试泄题? 系“照搬”旧题导致</a></strong><ul class="black14"><li>·<a atremote href="http://world.gmw.cn/2017-05/26/content_24602529.htm" target="_blank">FBI就特朗普女婿库什纳与俄关系发起调查</a></li><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24602339.htm" target="_blank">汽油、柴油价格年内第四次上调 每升涨约1毛</a></li></ul></div>
+                
+                <div class="ad_left_news">
+                    <div class="left_one"><a atremote href="http://difang.gmw.cn/js/node_25272.htm"><img atremote width="148" height="60" src="http://ad.gmw.cn/index_banner/20160808whsz.jpg"></a></div>
+                    <div class="right_one"> <a atremote href="http://kepu.gmw.cn/node_90913.htm"><img atremote src="http://ad.gmw.cn/index_banner/20170306jtjkez.jpg" width="148" height="60"/></a></div>
+                </div>
+			</div>
+			<div class="midTab" id="newsTab">
+				<div class="bgline" style="height:26px;">
+				  <div class="abs">
+				 <span class="red14"><b><a atremote href="http://politics.gmw.cn/">时政</a>·<a atremote href="http://world.gmw.cn/">国际</a>·<a atremote href="http://mil.gmw.cn/">军事</a></b></span>
+				</div>
+				</div>
+				<!-- 时政世界军事-->
+				<div class="card_info black14"><div class="txtTabArea">
+				  <strong><a atremote href="http://www.gmw.cn/index/2017-05/26/content_24612840.htm" target="_blank"><A title="" href="http://politics.gmw.cn/2017-05/26/content_24612833.htm" target=_blank>习近平致信祝贺中国农业科学院建院60周年</A>&nbsp;<A title="" href="http://politics.gmw.cn/2017-05/26/content_24612838.htm" target=_blank>贺信全文</A></a></strong><ul><li>·<a atremote href="http://www.gmw.cn/index/2017-05/26/content_24613662.htm" target="_blank"><A title="" href="http://politics.gmw.cn/2017-05/26/content_24613634.htm" target=_blank>马凯：深化大数据创新应用 加快制造业转型升级</A>&nbsp;<A title="" href="http://politics.gmw.cn/2017-05/26/content_24613635.htm" target=_blank>评论</A></a></li><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24613157.htm" target="_blank">【治国理政新实践】浙江全面深化改革 释放发展活力</a></li><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24612643.htm" target="_blank">大数据化身“晴雨表”为区域发展提供决策支持</a></li></ul><strong><a atremote href="http://politics.gmw.cn/2017-05/26/content_24613320.htm" target="_blank">全国政协召开双周协商座谈会 俞正声主持</a></strong><ul><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24612615.htm" target="_blank">海外人士认为中国经济基本面稳定向好</a></li><li>·<a atremote href="http://politics.gmw.cn/2017-05/26/content_24601587.htm" target="_blank">住建部：6月底前完成京沪高铁沿线违法占地等行为查处</a></li><li>·<a atremote href="http://world.gmw.cn/2017-05/26/content_24602150.htm" target="_blank">可行性存疑?美2018财年预算案被称"伏地魔预算"</a></li></ul></div>
+</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="layoutShadow"><div class="layoutShadowCorner"></div></div>
+	</div>
+	<div class="layoutRightBg">
+	  <div class="layoutRight">
+			<div class="layoutRight_zhanti" id="pic">
+				<div class="titBarRight"><span class="more"><a atremote href="http://topics.gmw.cn/">更多>></a></span>
+				<h2><a atremote href="http://topics.gmw.cn/">专题报道</a></h2>
+				</div>
+				<div class="picTxtRight">
+				  <a atremote href="http://topics.gmw.cn/node_107074.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170216/f44d307589141a0f3b6801.jpg" border="0" width="80" height="60"></a>	<p class="black12"><A title="" href="http://topics.gmw.cn/node_107074.htm" target=_blank><STRONG>薪火相传——构建中华优秀传统文化发展体系</STRONG></A><BR><A title="" href="http://topics.gmw.cn/node_107574.htm" target=_blank>来自国家图书馆的报告</A></p><div class="clear"></div>
+		      </div><div class="clear"></div>
+				<div class="txtArea black12" style="margin-bottom:10px;width:232px;overflow:hidden;">
+				  <ul>	<li>·<a atremote href="http://topics.gmw.cn/node_110582.htm" target="_blank"><A title="" href="http://topics.gmw.cn/node_110582.htm" target=_blank>直击国产大飞机C919首飞</A> <A title="" href="http://topics.gmw.cn/node_110555.htm" target=_blank>承载中国希望</A></a></li><li>·<a atremote href="http://topics.gmw.cn/node_109994.htm" target="_blank"><A title="" href="http://topics.gmw.cn/node_109994.htm" target=_blank>当代知识分子</A>｜<A title="" href="http://topics.gmw.cn/node_109762.htm" target=_blank>“春天里”手机摄影大赛</A></a></li>	</ul></div>
+			
+			
+			</div>
+	  </div>
+		<div class="layoutShadow"><div class="layoutShadowCorner"></div></div>
+	</div>
+	<div class="layoutRightBg">
+	  <div class="layoutRight">
+			<div class="layoutRight_zhanti" id="pic">
+
+				<div class="titBarRight"><span class="more"><a atremote href="http://difang.gmw.cn/">更多>></a></span>
+				<h2><a atremote href="http://topics.gmw.cn/">地方频道</a></h2>
+				</div>
+				<div class="picTxtRight">
+				  <ul class="difangList black12">
+                  <li><a atremote href="http://difang.gmw.cn/cq/">重庆</a></li><li><a atremote href="http://difang.gmw.cn/gx/">广西</a></li><li><a atremote href="http://difang.gmw.cn/ha/">河南</a></li><li><a atremote href="http://difang.gmw.cn/hlj/">黑龙江</a></li><li><a atremote href="http://difang.gmw.cn/js/">江苏</a></li>
+                  <li><a atremote href="http://difang.gmw.cn/sc/">四川</a></li><li><a atremote href="http://difang.gmw.cn/sh/">上海</a></li><li><a atremote href="http://difang.gmw.cn/sz/">深圳</a></li><li><a atremote href="http://difang.gmw.cn/hb/">湖北</a></li><li><a atremote href="http://difang.gmw.cn/zj/">浙江</a></li>
+                  </ul>
+				  <div class="clear"></div>
+		      </div><div class="clear"></div>
+			</div>
+	  </div>
+		<div class="layoutShadow"><div class="layoutShadowCorner"></div></div>
+	</div>
+	<div class="clear"></div>
+</div>
+<!--光明新闻E-->
+<div class="wrapper1000">
+	<div class="layoutLeftBg">
+		<div class="layoutLeft">
+			<div class="c325" id="theory">
+				<div class="titLeftBarBg">
+					<span class="more"><a atremote href="http://theory.gmw.cn">更多>></a></span><h1><a atremote href="http://theory.gmw.cn/">光明理论</a></h1>
+				</div>
+			  <div class="txtArea">
+			    <strong class="red14"><a atremote href="http://theory.gmw.cn/2017-05/26/content_24604017.htm" target="_blank">俞可：以人文交流促中德民心相通</a></strong><ul class="black14"><li>·<a atremote href="http://theory.gmw.cn/2017-05/26/content_24604202.htm" target="_blank">周全德：加强小城镇居家社区养老服务</a></li><li>·<a atremote href="http://theory.gmw.cn/2017-05/26/content_24603521.htm" target="_blank">谭铁安：推动环境诚信监测势在必行</a></li></ul><div class="line_dotted"></div>
+                <strong class="red14"><a atremote href="http://theory.gmw.cn/2017-05/26/content_24603043.htm" target="_blank">何海岩：推动区域协调发展的三个新思路</a></strong><ul class="black14"><li>·<a atremote href="http://theory.gmw.cn/2017-05/26/content_24602480.htm" target="_blank">汪小帆：在合理“用网”中推进经济全球化</a></li><li>·<a atremote href="http://theory.gmw.cn/2017-05/26/content_24602341.htm" target="_blank">何立峰：谱写共建人类命运共同体新篇章</a></li></ul></div>
+			</div>
+			<div class="midTab" id="newsTab">
+				<div class="bgline" style="height:26px;">
+				  <div class="abs">
+				 <span class="red14"><b><a atremote href="http://theory.gmw.cn/node_41267.htm">理论导读</a>·<a atremote href="http://dangjian.gmw.cn/">党建</a>·<a atremote href="http://www.gmw.cn/xueshu/">学术</a></b></span>				</div>
+				</div>
+				<!-- 时政世界军事-->
+				<div class="card_info black14"><div class="txtTabArea">
+				  <strong><a atremote href="http://www.gmw.cn/index/2017-05/26/content_24604721.htm" target="_blank"><A title="" href="http://theory.gmw.cn/node_41267.htm" target=_blank><STRONG><FONT color=#993300>【导读】</FONT></STRONG></A>&nbsp;<A title="" href="http://theory.gmw.cn/2017-05/26/content_24605792.htm" target=_blank>不断强化网络关键节点，避免“富者更富”</A></a></strong><ul><li>·<a atremote href="http://theory.gmw.cn/2017-05/26/content_24604149.htm" target="_blank">郭同欣：我国经济稳中向好发展态势不可逆转</a></li><li>·<a atremote href="http://theory.gmw.cn/2017-05/26/content_24604197.htm" target="_blank">唐洲雁、杨金卫等：以治国理政新方略擎起宏图伟业</a></li></ul><strong><a atremote href="http://theory.gmw.cn/2017-05/26/content_24603788.htm" target="_blank">郭树勇、程亚文：强化一带一路建设学理支撑</a></strong><ul><li>·<a atremote href="http://theory.gmw.cn/2017-05/26/content_24604259.htm" target="_blank">郭建宁：“四个全面”的丰富内涵与哲学意蕴</a></li><li>·<a atremote href="http://www.gmw.cn/index/2017-05/26/content_24604697.htm" target="_blank"><A title="" href="http://theory.gmw.cn/2017-05/26/content_24604712.htm" target=_blank>发展21世纪马克思主义</A>&nbsp;&nbsp;<A title="" href="http://theory.gmw.cn/2017-05/26/content_24604663.htm" target=_blank>预防恶意粉饰监测数据</A></a></li></ul></div>
+</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="layoutShadow"><div class="layoutShadowCorner"></div></div>
+	</div>
+	<div class="layoutRightBg">
+	  <div class="layoutRight" id="wulao">
+		<div class="titBarRight02"><h2 class="red14"><a atremote href="http://www.gmw.cn/content/node_40694.htm">五老评热点</a>·<a atremote href="http://www.gmw.cn/content/node_45245.htm">新燕山夜话</a></h2>
+		</div>
+		<div style="height:4px;border-bottom:1px solid #B50102;margin:0 10px 10px;font-size:0px;"></div>
+		<div class="txtArea black12">
+		  <ul><li>·<a atremote href="http://theory.gmw.cn/2017-05/25/content_24590807.htm" target="_blank">抓住深化改革机遇巩固企稳向好根基</a></li><li>·<a atremote href="http://theory.gmw.cn/2017-05/22/content_24555815.htm" target="_blank">“五个之路”开启人类新起点</a></li><li>·<a atremote href="http://theory.gmw.cn/2017-05/21/content_24543092.htm" target="_blank">一带一路论坛 一个全新的多边平台</a></li><li>·<a atremote href="http://theory.gmw.cn/2017-05/20/content_24537951.htm" target="_blank">“一带一路”开创21世纪国际合作新局面</a></li><li>·<a atremote href="http://theory.gmw.cn/2017-05/17/content_24502268.htm" target="_blank">制度优化促本土技能形成</a></li></ul></div>
+	</div>
+	<div class="clear"></div>
+	<div id="index_two01" style="margin-top:6px;display:none"></div>
+	<div id="index_two02" style="display:none"></div>
+	<div class="layoutShadow" style="margin-top:6px;"><div class="layoutShadowCorner"></div></div>
+	</div>
+<!-- 中国搜索搜索条 20140529 zhangheng -->
+<div class="China_search">
+	<!--<a href="http://www.chinaso.com/" target="_blank" class="China_logo"></a>
+	<div class="China_right">
+		<p><a href="http://123.chinaso.com/" target="_blank">导航</a> <a href="javascript:void(0);" class="China_first" target="_self">新闻</a><a href="javascript:void(0);" target="_self">网页</a><a href="javascript:void(0);" target="_self">图片</a></p>
+		<form id="Csearch" action="" target="_blank">
+			<input type="text" id="China_txt" placeholder="请输入关键字" onfocus="this.style.color='#000';" name="wd"/>
+			<input type="submit" value="" id="China_btn"/>
+		</form>
+	</div>--->
+    <div style="width:222px;height:32px;margin:0 auto;"><a atremote href="http://www.chinaso.com/" target="_blank"><img atremote src="http://img.gmw.cn/images/10101.files/images/chinaso.png"/></a></div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="w1000ad1" class="index_banner"></div>
+<div style="width:1000px; margin:0 auto;">
+    <div id="index_pun11">
+        <div id="index_pun1101"></div>
+        <div id="index_pun1102"></div>
+        <div id="index_pun03"></div>
+        <div class="clear"></div>
+    </div>
+    <div id="index_pun04"></div>
+    <div class="clear"></div>
+</div>
+<!--第四部门SSI-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div class="wrapper1000">
+    <div class="layoutLeftBg">
+        <div class="layoutLeft">
+            <div class="c325" id="culture">
+                <div class="titLeftBarBg"> <span class="more"><a atremote href="http://culture.gmw.cn/">更多>></a></span>
+                        <h1><a atremote href="http://culture.gmw.cn/" name="culture">光明文化</a></h1>
+                </div>
+                <div class="picTxtLeft">
+                  <a atremote href="http://culture.gmw.cn/2017-05/26/content_24603376.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/c03fd5535e9c1a91cd4404.jpg" border="0" width="140" height="100"></a><ul class="white14"><li><a atremote href="http://culture.gmw.cn/2017-05/26/content_24603376.htm" target="_blank">最后的放鹰人</a></li><li><a atremote href="http://news.gmw.cn/2017-05/25/content_24587514.htm" target="_blank">年年五月初——画说端午</a></li><li><a atremote href="http://culture.gmw.cn/2017-05/24/content_24577784.htm" target="_blank">船棺墓葬群出土精美器物</a></li></ul></div>
+                <div class="txtArea">
+                  <strong class="red14"><a atremote href="http://culture.gmw.cn/2017-05/26/content_24603070.htm" target="_blank">朱永新：阅读让中国更有力量</a></strong><ul class="black14"><li>·<a atremote href="http://culture.gmw.cn/2017-05/26/content_24603007.htm" target="_blank">30余国留学生“自荐”家乡文化 丝路引热捧</a></li><li>·<a atremote href="http://culture.gmw.cn/2017-05/26/content_24602999.htm" target="_blank">视障者首次携导盲犬进故宫博物院</a></li><li>·<a atremote href="http://culture.gmw.cn/2017-05/26/content_24603064.htm" target="_blank">九旬教授：决不让唐诗宋词在我们手里绝了</a></li></ul></div>
+                <div class="ad_left_wenhua">
+                    <div class="left_one"> <a atremote href="http://difang.gmw.cn/js/node_52204.htm"><img atremote width="148" height="60" src="http://ad.gmw.cn/index_banner/20140306wenmingzjg.jpg"></a> </div>
+                 <!--   <div class="right_one"> <a atremote href="http://travel.gmw.cn/sqsxww/node_44939.htm"><img atremote width="148" height="60" src="http://ad.gmw.cn/index_banner/20161129sqs150x60.jpg" alt="三清山新闻网"></a> </div>-->
+                     <div class="right_one"> <a atremote href="http://difang.gmw.cn/sh/node_102747.htm"><img atremote width="148" height="60" src="http://ad.gmw.cn/index_banner/20161222sqs148x60.jpg" alt="复旦管理学奖励基金会"></a> </div>
+                    
+</div>
+            </div>
+            <div class="midTab" id="newsTab">
+                <div class="bgline" style="height:26px;">
+                    <div class="abs"> <span class="red14"><b><a atremote href="http://shuhua.gmw.cn/">书画</a></b></span> </div>
+                </div>
+                <!-- 时政世界军事-->
+                <div class="card_info black14">
+                    <div class="txtTabArea">
+                      <strong><a atremote href="http://shuhua.gmw.cn/2017-05/26/content_24605011.htm" target="_blank">写生与创作之辩：人物画教学的当下反思</a></strong><ul><li>·<a atremote href="http://www.gmw.cn/index/2017-05/26/content_24604945.htm" target="_blank"><A title="" href="http://shuhua.gmw.cn/2017-05/26/content_24604799.htm" target=_blank>木雕:兼具艺术趣味和材质之美</A>&nbsp;<A title="" href="http://news.gmw.cn/2017-05/26/content_24600370.htm" target=_blank>颐和园迎来"东北风"</A></a></li><li>·<a atremote href="http://shuhua.gmw.cn/2017-05/26/content_24604454.htm" target="_blank">中国的扇子：诚能纳凉降暑 兼具审美情思</a></li><li>·<a atremote href="http://shuhua.gmw.cn/2017-05/26/content_24604394.htm" target="_blank">张大千《送梨花海棠诗》鉴藏:少了剑拔弩张的气息</a></li></ul><div class="line_dotted"></div>
+                        <strong><a atremote href="http://shuhua.gmw.cn/2017-05/26/content_24604506.htm" target="_blank">珍品赏析：清代画家康涛《孟母断机教子图》</a></strong>
+                        <ul><li>·<a atremote href="http://www.gmw.cn/index/2017-05/26/content_24604559.htm" target="_blank"><A title="" href="http://shuhua.gmw.cn/2017-05/26/content_24604295.htm" target=_blank>&nbsp;修复文物 先修敬爱之心</A> <A title="" href="http://shuhua.gmw.cn/2017-05/26/content_24604334.htm" target=_blank>传统语境缺失 写意花鸟老气?</A></a></li><li>·<a atremote href="http://shuhua.gmw.cn/2017-05/26/content_24604281.htm" target="_blank">敦煌印象：农妇何克风的“指尖莫高窟”</a></li><li>·<a atremote href="http://shuhua.gmw.cn/2017-05/26/content_24604246.htm" target="_blank">业内谈艺术品拍卖市场趋势:亚洲藏家热情有增无减</a></li><li>·<a atremote href="http://news.gmw.cn/2017-05/26/content_24600267.htm" target="_blank">那色彩仿佛正在呐喊——爱德华·蒙克和他的美学逻辑</a></li></ul>
+                  </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="layoutRightBg">
+        <div class="layoutRight" id="interview">
+            <div class="titBarRight"><span class="more"><a atremote href="http://interview.gmw.cn/">更多>></a></span>
+                    <h2>视频访谈</h2>
+            </div>
+            <div class="picBoxRight black14">
+              <a atremote href="http://interview.gmw.cn/2017-05/24/content_24581402.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170524/10bf488307a41a8f718902.jpg" border="0" width="230" height="150"></a><br/><strong><a atremote href="http://interview.gmw.cn/2017-05/24/content_24581402.htm" target="_blank">谁说港片已近颓暮之年</a></strong></div>
+            <div class="txtArea black12">
+              <ul><li>·<a atremote href="http://interview.gmw.cn/2017-05/19/content_24535603.htm" target="_blank">残疾人康复事业不止靠情怀支撑</a></li><li>·<a atremote href="http://interview.gmw.cn/2017-05/19/content_24527218.htm" target="_blank">解码吉商的公益基因</a></li><li>·<a atremote href="http://interview.gmw.cn/2017-05/15/content_24479800.htm" target="_blank">能成功吸粉的好作品都具备这一点</a></li><li>·<a atremote href="http://interview.gmw.cn/2017-05/08/content_24413836.htm" target="_blank">《牧羊曲》至今传唱不衰让人担忧</a></li></ul></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="wrapper1000">
+    <div class="layoutLeftBg">
+        <div class="layoutLeft">
+            <div class="c325" id="edu">
+                <div class="titLeftBarBg"> <span class="more"><a atremote href="http://edu.gmw.cn/">更多>></a></span>
+                        <h1><a atremote href="http://edu.gmw.cn/">光明教育</a></h1>
+                </div>
+                <div class="txtArea">
+                  <strong class="red14"><a atremote href="http://edu.gmw.cn/2017-05/26/content_24604975.htm" target="_blank">十位中外高校校长谈大学创新人才培养</a></strong><ul class="black14"><li>·<a atremote href="http://edu.gmw.cn/2017-05/26/content_24604276.htm" target="_blank">2017年高考全国统考科目时间安排表来了</a></li><li>·<a atremote href="http://edu.gmw.cn/2017-05/26/content_24603469.htm" target="_blank">教育部：军事课应列为高校学生必修课程</a></li><li>·<a atremote href="http://edu.gmw.cn/2017-05/26/content_24603461.htm" target="_blank">倪海东、刘利分别任北语党委书记、校长</a></li></ul><div class="line_dotted"></div>
+                    <strong class="red14"><a atremote href="http://edu.gmw.cn/2017-05/26/content_24604065.htm" target="_blank">朝阳区每年投入230万支持教师课题研究</a></strong>
+                    <ul class="black14"><li>·<a atremote href="http://edu.gmw.cn/2017-05/26/content_24603451.htm" target="_blank">西北工业大学教授陈士橹被追授“工信楷模”</a></li><li>·<a atremote href="http://edu.gmw.cn/2017-05/26/content_24603396.htm" target="_blank">“新高考”：已是临门一脚时</a></li><li>·<a atremote href="http://edu.gmw.cn/2017-05/26/content_24603375.htm" target="_blank">高考填志愿，莫越俎代庖</a></li></ul>
+              </div>
+            </div>
+            <div class="midTab" id="newsTab">
+                <div class="bgline" style="height:26px;">
+                    <div class="abs"> <span class="red14"><b><a atremote href="http://liuxue.gmw.cn/">留学</a></b></span> </div>
+                </div>
+                <!-- 时政世界军事-->
+                <div class="card_info black14">
+                    <div class="txtTabArea">
+                      <strong><a atremote href="http://edu.gmw.cn/2017-05/26/content_24603381.htm" target="_blank">广东千名小学生齐包粽 场面震撼</a></strong><ul><li>·<a atremote href="http://edu.gmw.cn/2017-05/26/content_24603352.htm" target="_blank">激发孩子内心的“小宇宙”</a></li><li>·<a atremote href="http://edu.gmw.cn/2017-05/26/content_24603315.htm" target="_blank">美华裔女生未刻意追求名校 意外获哈佛全额奖学金</a></li><li>·<a atremote href="http://edu.gmw.cn/2017-05/26/content_24603302.htm" target="_blank">让孩子走进传统文化</a></li></ul><strong><a atremote href="http://edu.gmw.cn/2017-05/26/content_24603369.htm" target="_blank">延揽大学者 更应扶植小人物</a></strong><ul><li>·<a atremote href="http://edu.gmw.cn/2017-05/26/content_24603277.htm" target="_blank">恋爱这事靠“曝光”不好使</a></li><li>·<a atremote href="http://edu.gmw.cn/2017-05/26/content_24603261.htm" target="_blank">中国一留学生在美国加州登山遇难</a></li><li>·<a atremote href="http://edu.gmw.cn/2017-05/26/content_24602815.htm" target="_blank">西北农林科大新增化学生物学专业 葡萄酒专业扩招</a></li></ul></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="layoutRightBg">
+        <div class="layoutRight" style="height:275px;">
+            <div class="titBarRight"><span class="more"><a atremote href="http://www.gmw.cn/index/node_11225.htm">更多>></a></span>
+                    <h2><a atremote href="http://www.gmw.cn/index/node_11225.htm">微科普</a></h2>
+            </div>
+            <div class="picTxtRight">
+              <a atremote href="http://kepu.gmw.cn/2017-05/25/content_24591087.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170525/448a5bc1e2c71a9080b617.jpg" border="0" width="80" height="90"></a><strong class="black12"><a atremote href="http://kepu.gmw.cn/2017-05/25/content_24591087.htm" target="_blank">若没有月球，地球会怎样？</a></strong><p class="grey12_6">月球是地球众多卫星中体积和质量最大的一颗。</p><div class="clear"></div>
+            </div>
+            <div class="txtArea black12" style="padding-bottom:10px;">
+              <ul><li>·<a atremote href="http://kepu.gmw.cn/2017-05/25/content_24590629.htm" target="_blank">低头族：伤了颈椎还带来抑郁！</a></li><li>·<a atremote href="http://kepu.gmw.cn/2017-05/25/content_24591163.htm" target="_blank">“自杀游戏” 真能控制人的心理吗</a></li><li>·<a atremote href="http://kepu.gmw.cn/2017-05/23/content_24563661.htm" target="_blank">放飞萤火虫，你以为的浪漫是灾难</a></li><li>·<a atremote href="http://kepu.gmw.cn/2017-05/22/content_24549165.htm" target="_blank">让量子计算机跨越应用的“冰山”</a></li><li>·<a atremote href="http://kepu.gmw.cn/2017-05/22/content_24549340.htm" target="_blank">原来你是这样的微生物</a></li></ul></div>
+            <div id="index_two03_you"></div>
+            <div id="index_two03"></div>
+            <div id="index_two04"></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div style="width:1000px; margin:0 auto;">
+    <div id="index_pun05">
+<div id="index_pun0501"></div>
+        <div id="index_pun0502"></div>
+        <div id="index_pun0500"></div>        
+    </div>
+    <div id="index_pun06"></div>
+    <div class="clear"></div>
+</div>
+
+
+<!--临
+<div id="index_banner03" style="width:1000px; margin:0 auto 10px;"></div>时-->
+<!--第五部门SSI-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div class="wrapper1000">
+    <div class="layoutLeftBg">
+        <div class="layoutLeft">
+            <div class="c325" id="health">
+                <div class="titLeftBarBg"> <span class="more"><a atremote href="http://health.gmw.cn/">更多>></a></span>
+                        <h1><a atremote href="http://health.gmw.cn/">光明卫生</a></h1>
+                </div>
+                <div class="txtArea">
+                  <strong class="red14"><a atremote href="http://health.gmw.cn/2017-05/26/content_24592587.htm" target="_blank">柏氏、美健丽等5批次防晒类化妆品上黑榜</a></strong>
+                  <ul class="black14"><li>·<a atremote href="http://health.gmw.cn/2017-05/26/content_24592874.htm" target="_blank">美国研究显示：医生年龄或影响患者死亡率</a></li><li>·<a atremote href="http://health.gmw.cn/2017-05/26/content_24592768.htm" target="_blank">端午粽子挑选攻略：粽子剥开两小时后别吃了</a></li></ul><div class="line_dotted"></div>
+                    <strong class="red14"><a atremote href="http://health.gmw.cn/2017-05/26/content_24592609.htm" target="_blank">家长的焦虑伴随着孩子每一步</a></strong>
+                    <ul class="black14"><li>·<a atremote href="http://health.gmw.cn/2017-05/26/content_24592752.htm" target="_blank">全球每6秒就有一人中风!预防中风警惕六大征兆</a></li><li>·<a atremote href="http://health.gmw.cn/2017-05/26/content_24592916.htm" target="_blank">全国4月报告法定传染病531302例 死亡1306人</a></li></ul></div>
+            </div>
+            <div class="midTab" id="newsTab">
+                <div class="bgline" style="height:26px;">
+                    <div class="abs"> <span class="red14"><b><a atremote href="http://yangsheng.gmw.cn/">养生</a>·<a atremote href=" http://cm.health.gmw.cn/">中医</a>·<a atremote href="http://gongyi.gmw.cn/">公益</a></b></span> </div>
+                </div>
+                <!-- 时政世界军事-->
+                <div class="card_info black14">
+                    <div class="txtTabArea">
+                      <strong><a atremote href="http://www.gmw.cn/index/2017-05/26/content_24603488.htm" target="_blank"><A title="" href="http://yangsheng.gmw.cn/2017-05/26/content_24591850.htm" target=_blank>夏天6大“天然抗菌菜”</A>&nbsp; <A title="" href="http://yangsheng.gmw.cn/2017-05/26/content_24591822.htm" target=_blank>饭后做五件事堪比慢性自杀</A></a></strong>
+                      <ul><li>·<a atremote href="http://www.gmw.cn/index/2017-05/26/content_24603487.htm" target="_blank"><A title="" href="http://yangsheng.gmw.cn/2017-05/26/content_24591764.htm" target=_blank>常吃这几种食物有助燃烧脂肪</A>&nbsp; <A title="" href="http://yangsheng.gmw.cn/2017-05/26/content_24591890.htm" target=_blank>男人健康滑坡的八个信号</A></a></li><li>·<a atremote href="http://www.gmw.cn/index/2017-05/26/content_24603489.htm" target="_blank"><A title="" href="http://yangsheng.gmw.cn/2017-05/26/content_24591749.htm" target=_blank>这样的虾千万不能吃</A>&nbsp; <A title="" href="http://yangsheng.gmw.cn/2017-05/26/content_24591726.htm" target=_blank>百病始于颈椎 千万不要随便按摩</A></a></li></ul>
+                      <strong><a atremote href="http://www.gmw.cn/index/2017-05/26/content_24603486.htm" target="_blank"><A title="" href="http://yangsheng.gmw.cn/2017-05/26/content_24591825.htm" target=_blank>世上最健康的作息时间表</A>&nbsp; <A title="" href="http://yangsheng.gmw.cn/2017-05/26/content_24591751.htm" target=_blank>每天睡几小时患癌风险高？</A></a></strong>
+                      <ul><li>·<a atremote href="http://www.gmw.cn/index/2017-05/26/content_24603480.htm" target="_blank"><A title="" href="http://yangsheng.gmw.cn/2017-05/26/content_24591725.htm" target=_blank>男人冷养更长寿 让身体温度降下来</A>&nbsp; <A title="" href="http://yangsheng.gmw.cn/2017-05/26/content_24591727.htm" target=_blank>常用眼吃点豌豆尖</A></a></li><li>·<a atremote href="http://www.gmw.cn/index/2017-05/26/content_24603484.htm" target="_blank"><A title="" href="http://yangsheng.gmw.cn/2017-05/26/content_24591744.htm" target=_blank>这种水杯有潜在致癌物&nbsp;少用!</A>&nbsp;<A title="" href="http://yangsheng.gmw.cn/2017-05/26/content_24591859.htm" target=_blank>4个妙招击退口腔溃疡疼痛</A></a></li></ul></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="layoutRightBg">
+        <div class="layoutRight" id="wenhui">
+            <div class="titBarRight"><span class="more"><a atremote href="http://meiwen.gmw.cn/">更多>></a></span>
+                    <h2>文荟</h2>
+            </div>
+            <div class="txtArea black12">
+              <strong><a atremote href="http://news.gmw.cn/2017-05/23/content_24559705.htm" target="_blank">童年的“戏报子”</a></strong>
+              <ul><li>·<a atremote href="http://meiwen.gmw.cn/2017-05/23/content_24567153.htm" target="_blank">从一地鸡毛中捕捉人间温暖</a></li><li>·<a atremote href="http://meiwen.gmw.cn/2017-05/23/content_24567255.htm" target="_blank">艺术家与人民共命运</a></li><li>·<a atremote href="http://meiwen.gmw.cn/2017-05/23/content_24567261.htm" target="_blank">今天我们怎样想象“文学”</a></li></ul>
+              <strong><a atremote href="http://news.gmw.cn/2017-05/23/content_24559695.htm" target="_blank">大师怎样炼成</a></strong>
+              <ul><li>·<a atremote href="http://news.gmw.cn/2017-05/23/content_24559741.htm" target="_blank">坚守热爱中国艺术的初心</a></li><li>·<a atremote href="http://news.gmw.cn/2017-05/23/content_24559717.htm" target="_blank">一位普通农民大山一般的尊严</a></li><li>·<a atremote href="http://news.gmw.cn/2017-05/23/content_24559717.htm" target="_blank">出版是我问学的路径</a></li></ul></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="wrapper1000">
+    <div class="layoutLeftBg">
+        <div class="layoutLeft">
+            <div class="c325" id="tech">
+                <div class="titLeftBarBg"> <span class="more"><a atremote href="http://tech.gmw.cn/">更多>></a></span>
+                        <h1><a atremote href="http://tech.gmw.cn/" name="tech">光明科技</a></h1>
+                </div>
+                <div class="picTxtLeft">
+                  <a atremote href="http://tech.gmw.cn/2017-05/26/content_24603716.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/448a5b7c82f61a91d07d0e.jpg" border="0" width="140" height="100"></a>
+                  <ul class="white14"><li><a atremote href="http://tech.gmw.cn/2017-05/26/content_24603716.htm" target="_blank">懒惰是人类本性？</a></li><li><a atremote href="http://tech.gmw.cn/2017-05/25/content_24590774.htm" target="_blank">可燃冰商业开采路多远</a></li><li><a atremote href="http://tech.gmw.cn/2017-05/24/content_24579274.htm" target="_blank">古老病毒大战超级细菌</a></li></ul></div>
+                <div class="txtArea">
+                  <strong class="red14"><a atremote href="http://tech.gmw.cn/2017-05/26/content_24603740.htm" target="_blank">尚勇：全国科技工作者数量或超一亿</a></strong>
+                  <ul class="black14"><li>·<a atremote href="http://tech.gmw.cn/2017-05/26/content_24600867.htm" target="_blank">追授黄大年“杰出科学家”荣誉称号</a></li><li>·<a atremote href="http://tech.gmw.cn/2017-05/26/content_24603689.htm" target="_blank">科学家建立高效运载胞内蛋白质技术</a></li></ul></div>
+            </div>
+            <div class="midTab" id="newsTab">
+                <div class="bgline" style="height:26px;">
+                    <div class="abs"> <span class="red14"><b><a atremote href="http://kepu.gmw.cn">科普</a></b></span> </div>
+                </div>
+                <!-- 时政世界军事-->
+
+                <div class="card_info black14">
+                    <div class="txtTabArea">
+                      <strong><a atremote href="http://kepu.gmw.cn/2017-05/26/content_24604092.htm" target="_blank">骨质疏松究竟有多可怕？听说是它杀死了猛犸象</a></strong>
+                      <ul><li>·<a atremote href="http://kepu.gmw.cn/2017-05/26/content_24604247.htm" target="_blank">“魔毯”：让舰载机飞行员着舰更安全</a></li><li>·<a atremote href="http://kepu.gmw.cn/2017-05/26/content_24603706.htm" target="_blank">或用于飞机高空飞行：德国研究“电浆喷射引擎”</a></li></ul>
+                      <strong><a atremote href="http://kepu.gmw.cn/2017-05/26/content_24604067.htm" target="_blank">“蛟龙”号找回一年前“丢”在6300米深海的采水器</a></strong>
+                      <ul><li>·<a atremote href="http://kepu.gmw.cn/2017-05/26/content_24603471.htm" target="_blank">为什么键盘字母的排列顺序和字母表不同</a></li><li>·<a atremote href="http://kepu.gmw.cn/2017-05/26/content_24603969.htm" target="_blank">高功能机器人普及太快 我们该不该向它们征税？</a></li></ul></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="layoutRightBg">
+        <div class="layoutRight" id="cg">
+            <div class="titBarRight"><span class="more"><a atremote href="http://qp.gmw.cn/index/index.do">更多>></a></span>
+                    <h2>光明棋牌</h2>
+            </div>
+			<div class="picTxtRight">
+              <a atremote href="http://www.gmw.cn/content/2017-05/25/content_24595019.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170525/f44d30758af11a90b96b28.jpg" border="0" width="80" height="90"></a><strong class="black12"><a atremote href="http://www.gmw.cn/content/2017-05/25/content_24595019.htm" target="_blank">想要玩好决战，这些禁忌你不得不知道</a></strong><p class="grey12_6">“港式五张”主要流行于我国广东、香港、澳门等地。</p><div class="clear"></div>
+            </div>
+            <div class="txtArea black12" style="padding:6px 5px 6px 10px">
+              <ul><li>·<a atremote href="http://www.gmw.cn/content/2017-05/25/content_24595129.htm" target="_blank">那些神乎其神的麻将转运方法</a></li><li>·<a atremote href="http://www.gmw.cn/content/2017-05/25/content_24595010.htm" target="_blank">斗地主实战技巧之地主篇</a></li><li>·<a atremote href="http://www.gmw.cn/content/2017-05/25/content_24594879.htm" target="_blank">残局丨本期残局很简单，快来抢积分！</a></li></ul>
+              </div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="wrapper1000">
+    <div class="layoutLeftBg">
+        <div class="layoutLeft">
+            <div class="c325" id="life">
+                <div class="titLeftBarBg"> <span class="more"><a atremote href="http://life.gmw.cn/">更多>></a></span>
+                        <h1><a atremote href="http://life.gmw.cn/">光明民生</a></h1>
+                </div>
+                <div class="picTxtLeft">
+                  <a atremote href="http://life.gmw.cn/2017-05/26/content_24602809.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d307589311a91cef229.jpg" border="0" width="140" height="100"></a>
+                  <ul class="white14"><li><a atremote href="http://life.gmw.cn/2017-05/26/content_24602809.htm" target="_blank">创意毕业照 轻松迎高考</a></li><li><a atremote href="http://life.gmw.cn/2017-05/25/content_24588553.htm" target="_blank">贵州黄果树进入丰水期</a></li><li><a atremote href="http://life.gmw.cn/2017-05/24/content_24576233.htm" target="_blank">品花香 练瑜伽</a></li></ul></div>
+                <div class="txtArea">
+                  <strong class="red14"><a atremote href="http://life.gmw.cn/2017-05/26/content_24601935.htm" target="_blank">中国人肥胖率12%左右 青少年增长速度较快</a></strong>
+                  <ul class="black14"><li>·<a atremote href="http://life.gmw.cn/2017-05/26/content_24601808.htm" target="_blank">美国成中国进口服装批次不合格率最高地区</a></li><li>·<a atremote href="http://life.gmw.cn/2017-05/26/content_24602414.htm" target="_blank">中国80%家庭食用油量超标</a></li></ul><div class="line_dotted"></div>
+                    <strong class="red14"><a atremote href="http://life.gmw.cn/2017-05/26/content_24601855.htm" target="_blank">安全事故频发——养生保健机构乱象调查</a></strong>
+                    <ul class="black14"><li>·<a atremote href="http://life.gmw.cn/2017-05/26/content_24602241.htm" target="_blank">凌晨四点才入睡 超六成大学生因焦虑失眠</a></li><li>·<a atremote href="http://life.gmw.cn/2017-05/26/content_24602447.htm" target="_blank">食药监总局抽检粽子550批次 5批次不合格</a></li></ul></div>
+            </div>
+            <div class="midTab" id="newsTab">
+                <div class="bgline" style="height:26px;">
+                    <div class="abs"> <span class="red14"><b><a atremote href="http://life.gmw.cn/">生活</a>·<a atremote href="http://travel.gmw.cn/">旅游</a></b></span> </div>
+                </div>
+                <!-- 生活旅游-->
+                <div class="card_info" style="margin-top:6px;">
+                  <div class="txtTabArea">
+                      <div class="picBox120 red12">
+                      <a atremote href="http://travel.gmw.cn/2017-05/26/content_24605103.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/bc305bae436f1a91dc2c01.jpg" border="0" width="120" height="85"></a><br/><a atremote href="http://travel.gmw.cn/2017-05/26/content_24605103.htm" target="_blank">“泥巴大战”迎端午节</a></div>
+                        <strong class="black14"><a atremote href="http://travel.gmw.cn/2017-05/26/content_24604807.htm" target="_blank">2017年端午节假日旅游指南</a></strong>
+                        <ul class="black14"><li>·<a atremote href="http://travel.gmw.cn/2017-05/26/content_24604734.htm" target="_blank">图坦卡蒙黄金战车与葬礼床迁移</a></li><li>·<a atremote href="http://travel.gmw.cn/2017-05/26/content_24604762.htm" target="_blank">“熊猫跑澳洲”开启大篷车巡游</a></li><li>·<a atremote href="http://travel.gmw.cn/2017-05/26/content_24604768.htm" target="_blank">泰国商家推榴莲自助品尝吸引游客</a></li></ul><div class="line_dotted"></div>
+                      <div class="picBox120 red12">
+                      <a atremote href="http://travel.gmw.cn/2017-05/26/content_24604948.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/bc305bae436f1a91dc8502.jpg" border="0" width="120" height="85"></a><br/><a atremote href="http://travel.gmw.cn/2017-05/26/content_24604948.htm" target="_blank">昆明野生动物迎端午</a></div>
+                        <strong class="black14"><a atremote href="http://travel.gmw.cn/2017-05/26/content_24604775.htm" target="_blank">端午节出行有哪些注意事项?</a></strong>
+                        <ul class="black14"><li>·<a atremote href="http://travel.gmw.cn/2017-05/26/content_24604692.htm" target="_blank">商代都城遗址内年底将建成博物馆</a></li><li>·<a atremote href="http://travel.gmw.cn/2017-05/26/content_24604703.htm" target="_blank">采煤塌陷区变为生态休闲旅游区</a></li><li>·<a atremote href="http://travel.gmw.cn/2017-05/26/content_24604698.htm" target="_blank">端午假日预计8000万人次出游</a></li></ul></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="layoutRightBg">
+        <div class="layoutRight" style="margin-bottom:10px;">
+            <div class="titBarRight"><span class="more"><a atremote href="http://shipin.gmw.cn/">更多>></a></span>
+                    <h2><a atremote href="http://shipin.gmw.cn/">食品安全</a></h2>
+            </div>
+            <div class="txtArea black12">
+              <ul><li><b><a atremote href="http://shipin.gmw.cn/2017-05/24/content_24579897.htm" target="_blank">杜绝山寨食品下乡 监管要“上线”</a></b></li></ul></div>
+            <div class="txtArea black12">
+              <ul><li>·<a atremote href="http://shipin.gmw.cn/2017-05/24/content_24579894.htm" target="_blank">商务部：公布对进口食糖保障措施调查终裁</a></li><li>·<a atremote href="http://shipin.gmw.cn/2017-05/24/content_24579898.htm" target="_blank">浙江：食品安全将纳入地方领导班子考核</a></li><li>·<a atremote href="http://shipin.gmw.cn/2017-05/24/content_24579944.htm" target="_blank">“小满”高温时段少外出 饮食清淡少油腻</a></li><li>·<a atremote href="http://shipin.gmw.cn/2017-05/24/content_24580187.htm" target="_blank">饮水不足损害认知能力？专家教你喝对水</a></li></ul></div>
+        </div>
+        <!--咪咕音乐-->
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!--咪咕音乐-->
+<style type="text/css">
+	.layoutMigu {width:260px;}
+	.migu_bd {padding:6px 10px;}
+	.migu_bd ul li {font-size:12px;line-height:24px;}
+	.migu_bd ul li a {color:#000;}
+</style>
+<div class="layoutMigu">
+	<div class="migu_hd">
+	  <a atremote href="http://wm.10086.cn/view/wap/musicindex.do?cType=sst_client&amp;nodeId=7638&amp;cid=0147389&amp;ucid=" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170120/f44d305ea12a19ebc19d01.jpg" border="0" width="260" height="49"></a></div>
+	<div class="migu_bd">
+	  <ul>	<li>·<a atremote href="http://m.12530.com/order/web/in/0022211/60080801152/1111/" target="_blank">覆水难收-吴奇隆</a></li><li>·<a atremote href="http://m.12530.com/order/web/in/0022211/6005970HDA6/1111/" target="_blank">放肆出发-苏醒</a></li><li>·<a atremote href="http://m.12530.com/order/web/in/0022211/6005750X5AN/1111/" target="_blank">放胆就爱-黄小琥</a></li><li>·<a atremote href="http://m.12530.com/order/web/in/0022211/60080801154/1111/" target="_blank">往事如烟-吴奇隆</a></li></ul></div>
+</div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div style="width:1000px; margin:0 auto;">
+    <div id="index_pun07"></div>
+    <div id="index_pun08"></div>
+</div>
+<!--第六部门SSI-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<div class="wrapper1000">
+    <!--摄影-->
+    <div class="layoutRightBg">
+        <div class="layoutRight" id="p">
+            <div class="titBarRight"><span class="more"><a atremote href="http://photo.gmw.cn/">更多>></a></span>
+                    <h2><a atremote href="http://photo.gmw.cn/">摄影</a></h2>
+            </div>
+            <div class="picBoxRight black14">
+              <a atremote href="http://photo.gmw.cn/2017-05/26/content_24604516.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d307589311a91e0f530.jpg" border="0" width="230" height="150"></a><br/><strong><a atremote href="http://photo.gmw.cn/2017-05/26/content_24604516.htm" target="_blank">山西运城七彩盐湖似调色盘</a></strong></div>
+            <div class="txtArea black12">
+              <ul><li>·<a atremote href="http://photo.gmw.cn/2017-05/26/content_24604185.htm" target="_blank">江西新余举办全国高校智能龙舟赛</a></li><li>·<a atremote href="http://photo.gmw.cn/2017-05/25/content_24595389.htm" target="_blank">首列公铁海联运班列抵达连云港</a></li><li>·<a atremote href="http://photo.gmw.cn/2017-05/25/content_24596650.htm" target="_blank">浙江湖州：百余名武警救援精兵水上竞技</a></li><li>·<a atremote href="http://photo.gmw.cn/2017-05/25/content_24597595.htm" target="_blank">北京迎高温天气 游客“热情”不减</a></li><li>·<a atremote href="http://photo.gmw.cn/2017-05/25/content_24595253.htm" target="_blank">江苏淮安：产粮大县插秧如作画</a></li></ul></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <!--经济-->
+    <div class="layoutLeftBg" >
+        <div class="layoutLeft">
+            <div class="c325" id="economy">
+                <div class="titLeftBarBg"> <span class="more"><a atremote href="http://economy.gmw.cn/">更多>></a></span>
+                        <h1><a atremote href="http://economy.gmw.cn/" name="economy">光明经济</a></h1>
+                </div>
+                <div class="picTxtLeft">
+                  <a atremote href="http://economy.gmw.cn/2017-05/26/content_24604274.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/bc305bae436f1a91d80649.jpg" border="0" width="140" height="100"></a><ul class="white14"><li><a atremote href="http://economy.gmw.cn/2017-05/26/content_24604274.htm" target="_blank">成品油价迎第四次上调</a></li><li><a atremote href="http://economy.gmw.cn/2017-05/25/content_24592728.htm" target="_blank">民俗迎端午：涂彩蛋</a></li><li><a atremote href="http://economy.gmw.cn/2017-05/24/content_24578126.htm" target="_blank">多地小麦大面积倒伏</a></li></ul></div>
+                <div class="txtArea">
+                  <strong class="red14"><a atremote href="http://economy.gmw.cn/2017-05/26/content_24602254.htm" target="_blank">我国经济稳中向好发展态势不可逆转</a></strong><ul class="black14"><li>·<a atremote href="http://economy.gmw.cn/2017-05/26/content_24603155.htm" target="_blank">社保待遇平均水平公布 来看看你的待遇有多高</a></li><li>·<a atremote href="http://economy.gmw.cn/2017-05/26/content_24603036.htm" target="_blank">社保卡发放突破10亿张 百余项便民功能</a></li></ul></div>
+            </div>
+            <div class="midTab" id="newsTab">
+                <div class="bgline" style="height:26px;">
+                    <div class="abs"> <span class="red14"><b><a atremote href="http://economy.gmw.cn/">财经</a></b></span> </div>
+                </div>
+                <!-- 时政世界军事-->
+                <div class="card_info black14">
+                    <div class="txtTabArea">
+                      <strong><a atremote href="http://economy.gmw.cn/2017-05/26/content_24603422.htm" target="_blank">1—4月全国国有企业利润总额同比增长24.8%</a></strong><ul><li>·<a atremote href="http://economy.gmw.cn/2017-05/26/content_24603142.htm" target="_blank">美联储释放了两大信号 五大机构读出不同的意味</a></li><li>·<a atremote href="http://economy.gmw.cn/2017-05/26/content_24603156.htm" target="_blank">多家上市公司卖房难 北京学区房无人问津？</a></li></ul><strong><a atremote href="http://economy.gmw.cn/2017-05/26/content_24603158.htm" target="_blank">首个国家级市政基础设施五年规划出台</a></strong><ul><li>·<a atremote href="http://economy.gmw.cn/2017-05/26/content_24603176.htm" target="_blank">中国家庭财富调查:2016年家庭人均财富16.9万</a></li><li>·<a atremote href="http://economy.gmw.cn/2017-05/26/content_24602282.htm" target="_blank">8年暴涨300万倍 风口上的比特币价值几何？</a></li></ul></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <!--法治-->
+    <div class="layoutLeftBg">
+        <div class="layoutLeft">
+            <div class="c325" id="legal">
+                <div class="titLeftBarBg"> <span class="more"><a atremote href="http://legal.gmw.cn/">更多>></a></span>
+                        <h1><a atremote href="http://legal.gmw.cn/">光明法治</a></h1>
+                </div>
+                <div class="picTxtLeft">
+                  <a atremote href="http://legal.gmw.cn/2017-05/26/content_24602143.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d305ea08b1a91f8b75e.jpg" border="0" width="140" height="100"></a><ul class="white14"><li><a atremote href="http://legal.gmw.cn/2017-05/26/content_24602143.htm" target="_blank">传媒大学女生遇害案二审</a></li><li><a atremote href="http://legal.gmw.cn/2017-05/26/content_24608376.htm" target="_blank">揭开“鸟巢开会”的真相</a></li><li><a atremote href="http://legal.gmw.cn/2017-05/26/content_24608126.htm" target="_blank">警方侦破新型网络赌博案</a></li></ul></div>
+                <div class="txtArea">
+                  <strong class="red14"><a atremote href="http://legal.gmw.cn/2017-05/26/content_24602376.htm" target="_blank">近期两起打孩子事件引热议 警方引导需更主动</a></strong><ul class="black14"><li>·<a atremote href="http://legal.gmw.cn/2017-05/26/content_24607640.htm" target="_blank">十部门：严打侵权假冒、虚假违法广告等</a></li><li>·<a atremote href="http://legal.gmw.cn/2017-05/26/content_24601872.htm" target="_blank">三部门要求各地严防校园食品安全风险</a></li></ul></div>
+            </div>
+            <div class="midTab" id="newsTab">
+                <div class="bgline" style="height:26px;">
+                    <div class="abs"> <span class="red14"><b><a atremote href="http://legal.gmw.cn/node_9017.htm">案件</a>·<a atremote href="http://legal.gmw.cn/node_12328.htm">平安中国</a></b></span> </div>
+                </div>
+                <!-- 时政世界军事-->
+                <div class="card_info black14">
+                    <div class="txtTabArea">
+                      <strong><a atremote href="http://legal.gmw.cn/2017-05/26/content_24601879.htm" target="_blank">《网络安全法》对网络安全标准化工作提出更高要求</a></strong><ul><li>·<a atremote href="http://legal.gmw.cn/2017-05/26/content_24606311.htm" target="_blank">《网络安全法》实施倒计时：将公民信息安全放首位</a></li><li>·<a atremote href="http://legal.gmw.cn/2017-05/26/content_24608370.htm" target="_blank">浙江警方查获假伟哥55万粒 犯罪嫌疑人穷途末路</a></li></ul><strong><a atremote href="http://legal.gmw.cn/2017-05/26/content_24607655.htm" target="_blank">“网络红娘”牵的可能是“高压线”</a></strong><ul><li>·<a atremote href="http://legal.gmw.cn/2017-05/26/content_24602099.htm" target="_blank">贪小利180多名大学生深陷校园贷 催款电话揭开骗局</a></li><li>·<a atremote href="http://legal.gmw.cn/2017-05/26/content_24601874.htm" target="_blank">京一女子婚后发现丈夫非男性 向法院起诉离婚</a></li></ul></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <!--互动娱乐-->
+    <div class="layoutRightBg">
+        <div class="layoutRight" id="e">
+            <div class="titBarRight"><span class="more"><a atremote href="http://e.gmw.cn/">更多>></a></span>
+                    <h2><a atremote href="http://e.gmw.cn/">互动娱乐</a></h2>
+            </div>
+            <div class="picBoxRight black14">
+              <a atremote href="http://e.gmw.cn/2017-05/23/content_24560728.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170523/f44d305ea4881a8dc68d61.jpg" border="0" width="230" height="150"></a><br/><strong><a atremote href="http://e.gmw.cn/2017-05/23/content_24560728.htm" target="_blank">张梓琳晒女儿照片 网友:"想抱抱"</a></strong></div>
+            <div class="txtArea black12">
+              <ul><li>·<a atremote href="http://e.gmw.cn/2017-05/23/content_24560515.htm" target="_blank">黄磊做针线活儿 女儿多妹一脸崇拜</a></li><li>·<a atremote href="http://e.gmw.cn/2017-05/23/content_24560627.htm" target="_blank">林志颖夫妇罕见秀恩爱 海边合照比心</a></li><li>·<a atremote href="http://e.gmw.cn/2017-05/23/content_24560623.htm" target="_blank">伊能静分享做母亲感受 为女儿准备辅食</a></li><li>·<a atremote href="http://e.gmw.cn/2017-05/23/content_24560830.htm" target="_blank">林心如晒运动自拍照 素颜出镜依旧美</a></li><li>·<a atremote href="http://e.gmw.cn/2017-05/23/content_24560907.htm" target="_blank">李念发文为哥哥庆生 晒童年合影颜值高</a></li></ul></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <!--阅读-->
+    <div class="layoutLeftBg">
+        <div class="layoutLeft">
+            <div class="c325" id="reader">
+                <div class="titLeftBarBg"> <span class="more"><a atremote href="http://reader.gmw.cn/">更多>></a></span>
+                        <h1><a atremote href="http://reader.gmw.cn/" name="reader">光明阅读</a></h1>
+                </div>
+                <div class="picTxtLeft">
+                  <a atremote href="http://reader.gmw.cn/2017-05/26/content_24603595.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d305ea0e41a91d1c708.jpg" border="0" width="140" height="100"></a><ul class="white14"><li><a atremote href="http://reader.gmw.cn/2017-05/26/content_24603595.htm" target="_blank">童书是儿童节最好的礼物</a></li><li><a atremote href="http://reader.gmw.cn/2017-05/25/content_24589171.htm" target="_blank">几代中国人的阅读记忆</a></li><li><a atremote href="http://news.gmw.cn/2017-05/24/content_24574737.htm" target="_blank">经典挑出来 文脉传下去</a></li></ul></div>
+                <div class="txtArea">
+                  <strong class="red14"><a atremote href="http://reader.gmw.cn/2017-05/26/content_24603593.htm" target="_blank">用朗读体会科学之美</a></strong><ul class="black14"><li>·<a atremote href="http://reader.gmw.cn/2017-05/26/content_24603597.htm" target="_blank">白先勇：我愿用一切来换曹雪芹的灵气</a></li><li>·<a atremote href="http://reader.gmw.cn/2017-05/26/content_24603594.htm" target="_blank">杨绛：最美大先生</a></li></ul></div>
+            </div>
+            <div class="midTab" id="newsTab">
+                <div class="bgline" style="height:26px;">
+                    <div class="abs"> <span class="red14"><b><a atremote href="http://history.gmw.cn/">历史</a>·<a atremote href="http://sports.gmw.cn/">体育</a></b></span> </div>
+                </div>
+                <!-- 时政世界军事-->
+                <div class="card_info black14">
+                    <div class="txtTabArea">
+                      <strong><a atremote href="http://sports.gmw.cn/2017-05/26/content_24604466.htm" target="_blank">苏迪曼杯-中国5比0泰国 轻松晋级八强静候对手</a></strong><ul><li>·<a atremote href="http://sports.gmw.cn/2017-05/26/content_24604474.htm" target="_blank">丁彦雨航训练后晒自拍竟还美颜 翟晓川：太污</a></li><li>·<a atremote href="http://sports.gmw.cn/2017-05/26/content_24604470.htm" target="_blank">新男神！孙伟击剑冠军赛摘金</a></li></ul><strong><a atremote href="http://history.gmw.cn/2017-05/26/content_24603321.htm" target="_blank">元朝时浑河第二次改道，沈阳城市格局由此定型</a></strong><ul><li>·<a atremote href="http://history.gmw.cn/2017-05/26/content_24603041.htm" target="_blank">《变形记》不仅仅是重要的古代历史记录</a></li><li>·<a atremote href="http://history.gmw.cn/2017-05/26/content_24603134.htm" target="_blank">深度挖掘中国古代史学理论中的宝贵遗产</a></li></ul></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="wrapper1000">
+    <div class="layoutLeftBg">
+        <div class="layoutLeft">
+            <div class="c325" id="blog">
+                <div class="titLeftBarBg"> <span class="more"><a atremote href="http://guancha.gmw.cn/">更多>></a></span>
+                        <h1><a atremote href="http://guancha.gmw.cn/">光明时评</a></h1>
+                </div>
+                <div class="picTxtLeft">
+                  <a atremote href="http://guancha.gmw.cn/2017-05/26/content_24603429.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d3075892a1a91d1d001.jpg" border="0" width="140" height="100"></a><ul class="white14"><li><a atremote href="http://guancha.gmw.cn/2017-05/26/content_24603429.htm" target="_blank">法院是正义的出发地</a></li><li><a atremote href="http://guancha.gmw.cn/2017-05/26/content_24603407.htm" target="_blank">造假官员何以一路高升</a></li><li><a atremote href="http://guancha.gmw.cn/2017-05/26/content_24603314.htm" target="_blank">阅读，让中国更有力量</a></li></ul></div>
+                <div id="recommendBlog">
+                    <h2><a atremote href="http://guancha.gmw.cn/node_40545.htm" target="_blank">评论员专栏</a></h2>
+                    <ul class="black12"><li><a atremote href="http://guancha.gmw.cn/zhuanlan/node_40482.htm" target="_blank">佘宗明</a></li><li><a atremote href="http://guancha.gmw.cn/zhuanlan/node_40481.htm" target="_blank">邓海建</a></li><li><a atremote href="http://guancha.gmw.cn/zhuanlan/node_40484.htm" target="_blank">刘巽达</a></li><li><a atremote href="http://guancha.gmw.cn/zhuanlan/node_86127.htm" target="_blank">王钟的</a></li><li><a atremote href="http://guancha.gmw.cn/zhuanlan/node_56505.htm" target="_blank">朱昌俊</a></li><li><a atremote href="http://guancha.gmw.cn/zhuanlan/node_52898.htm" target="_blank">马想斌</a></li><li><a atremote href="http://guancha.gmw.cn/zhuanlan/node_60217.htm" target="_blank">熊丙奇</a></li><li><a atremote href="http://guancha.gmw.cn/zhuanlan/node_81775.htm" target="_blank">胡印斌</a></li><li><a atremote href="http://guancha.gmw.cn/zhuanlan/node_82233.htm" target="_blank">韩浩月</a></li><li><a atremote href="http://guancha.gmw.cn/zhuanlan/node_82794.htm" target="_blank">聂昱冰</a></li></ul></div>
+            </div>
+            <div class="midTab" id="newsTab">
+                <div class="bgline" style="height:26px;">
+                    <div class="abs"> <span class="red14"><b><a atremote href="http://wenyi.gmw.cn">文艺观察</a></b></span> </div>
+                </div>
+                <!-- 文艺观察-->
+                <div class="card_info black14">
+                    <div class="txtTabArea">
+                      <strong><a atremote href="http://news.gmw.cn/2017-05/26/content_24600174.htm" target="_blank">刘静园：小儿歌里藏着大世界与真性情</a></strong><ul><li>·<a atremote href="http://wenyi.gmw.cn/2017-05/26/content_24603317.htm" target="_blank">傅谨：一战成功《定军山》——致敬“伶界大王”谭鑫培</a></li><li>·<a atremote href="http://wenyi.gmw.cn/2017-05/26/content_24603313.htm" target="_blank">徐馨：用好传统这把金钥匙——评大型木偶剧《哪吒》</a></li></ul><strong><a atremote href="http://news.gmw.cn/2017-05/26/content_24600287.htm" target="_blank">《花儿与少年》——用文化自信彰显节目社会价值</a></strong><ul><li>·<a atremote href="http://news.gmw.cn/2017-05/26/content_24600244.htm" target="_blank">辛茜：《百姓英国》——回归生活 得妙于心</a></li><li>·<a atremote href="http://news.gmw.cn/2017-05/26/content_24600283.htm" target="_blank">严佳：京剧武戏缺失导致优秀武生的匮乏</a></li></ul></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="layoutRightBg">
+        <div class="layoutRight" id="blogRank">
+            <div class="titBarRight"><span class="more"><a atremote href="http://blog.gmw.cn/lilun/index.htm">更多>></a></span>
+            <h2><a atremote href="http://theory.gmw.cn/node_86299.htm">治国理政解读之声</a></h2>
+            </div>
+            <div class="black12">
+                <ul>
+                    <li><span class="r1">1</span>
+                      <a atremote href="http://theory.gmw.cn/2017-05/26/content_24604259.htm" target="_blank">“四个全面”的丰富内涵与哲学意蕴</a>
+                    </li>
+                    <li><span class="r1">2</span>
+                      <a atremote href="http://theory.gmw.cn/2017-05/26/content_24604197.htm" target="_blank">以治国理政新方略擎起宏图伟业</a>
+                    </li>
+                    <li><span class="r1">3</span>
+                      <a atremote href="http://theory.gmw.cn/2017-05/26/content_24604149.htm" target="_blank">我国经济稳中向好发展态势不可逆转</a>
+                    </li>
+                    <li><span class="r2">4</span>
+                      <a atremote href="http://www.gmw.cn/xueshu/2017-05/26/content_24603100.htm" target="_blank">《大秦帝国》与秦人的法治精神</a>
+                    </li>
+                    <li><span class="r2">5</span>
+                      <a atremote href="http://theory.gmw.cn/2017-05/26/content_24602341.htm" target="_blank">谱写共建人类命运共同体新篇章</a>
+                    </li>
+                    <li><span class="r2">6</span>
+                      <a atremote href="http://theory.gmw.cn/2017-05/25/content_24590416.htm" target="_blank">治国理政的法治新篇章</a>
+                    </li>
+                    <li style="border:none;"><span class="r2">7</span>
+                      <a atremote href="http://theory.gmw.cn/2017-05/26/content_24603983.htm" target="_blank">建治护并举营造良好政治生态</a>
+                    </li>
+                    <div class="clear"></div>
+                </ul>
+          </div>
+        </div>
+        <div class="layoutShadow">
+            <div class="layoutShadowCorner"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<!--Guangming Online-->
+<div class="GmOnline">
+    <div class="titBarGmOnline">
+        <h2><a atremote href="http://en.gmw.cn/">Guangming Online</a></h2>
+    </div>
+    <div class="gmcontent">
+      <dl><dt><a atremote href="http://en.gmw.cn/2017-05/26/content_24603083.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d307589631a91d1021a.jpg" border="0" width="190" height="100"></a></dt><dd><a atremote href="http://en.gmw.cn/2017-05/26/content_24603083.htm" target="_blank">Family of wild smooth-coated otters play in Singapore</a></dd></dl><dl><dt><a atremote href="http://en.gmw.cn/2017-05/26/content_24602975.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d307589631a91d0b719.jpg" border="0" width="190" height="100"></a></dt><dd><a atremote href="http://en.gmw.cn/2017-05/26/content_24602975.htm" target="_blank">Aerial view of Tangshan City in north China's Hebei</a></dd></dl><dl><dt><a atremote href="http://en.gmw.cn/node_55339.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d307589631a91d05318.jpg" border="0" width="190" height="100"></a></dt><dd><a atremote href="http://en.gmw.cn/node_55339.htm" target="_blank">Students pose for graduation photos in southwest China</a></dd></dl><dl><dt><a atremote href="http://en.gmw.cn/2017-05/26/content_24602916.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d307589631a91cf2b16.jpg" border="0" width="190" height="100"></a></dt><dd><a atremote href="http://en.gmw.cn/2017-05/26/content_24602916.htm" target="_blank">A look at Xuwen in south China's Guangdong</a></dd></dl><dl><dt><a atremote href="http://en.gmw.cn/2017-05/26/content_24602785.htm" target="_blank"><img atremote src="http://img.gmw.cn/images/attachement/jpg/site2/20170526/f44d307589631a91ce9f15.jpg" border="0" width="190" height="100"></a></dt><dd><a atremote href="http://en.gmw.cn/2017-05/26/content_24602785.htm" target="_blank">Nanzheng Xianglushan scenic zone in NW China</a></dd></dl><div class="clear"></div>
+    </div>
+    <div class="layoutShadow">
+        <div class="layoutShadowCorner"></div>
+    </div>
+</div>
+<!--移动媒体-->
+<div class="mobileBg">
+    <div class="titBarMobile">
+        <h2>光明新媒体</h2>
+    </div>
+    <div id="mobile">
+        <div id="cloud" class="quarterArea">
+            <div class="mobileIcons"></div>
+            <h3><a atremote href="http://cloud.gmw.cn/">光明日报客户端</a></h3>
+            <p class="grey12_6">>　扫描二维码下载光明日报客户端</p>
+        </div>
+        <!-- 20160527 delete RTX from wam
+        <div id="yd" class="quarterArea">
+            <div class="mobileIcons"></div>
+            <h3><a href="http://yd.gmw.cn/">云端读报</a></h3>
+            <p class="grey12_6">>　编辑短信“云端读报”发至12114免费下载</p>
+        </div>
+        <div id="sjb" class="quarterArea">
+            <div class="mobileIcons"></div>
+            <h3 style="margin:-14px 0px 0px 33px;"><a href="sjb/">光明日报手机报</a></h3>
+            <p class="grey12_6">>　订阅请编辑短信GMRB，移动用户发送到10658000，电信用户发送到10659000</p>
+        </div>
+        -->
+<div id="wb" class="quarterArea">
+            <div class="mobileIcons"></div>
+            <h3 style="margin-left:20px;"><a atremote href="http://weibo.com/u/1402977920" target="_blank">光明日报法人微博</a></h3>
+      <p class="grey12_6">>　扫描二维码关注光明日报法人微博</p>
+        </div>
+        <div id="wx" class="quarterArea">
+            <div class="mobileIcons"></div>
+            <h3 style="margin:-14px 0px 0px 20px;">光明日报微信公号</h3>
+            <p class="grey12_6">>　扫描二维码关注光明日报微信公号</p>
+        </div>
+
+        <div id="gmsx" class="quarterArea">
+            <div class="mobileIcons"></div>
+            <h3><a atremote href="http://gmsx.gmw.cn/">光明视讯</a></h3>
+            <p class="grey12_6">>　订购光明网手机视频业务，按次2元包月10元。</p>
+        </div>
+        <div id="wap" class="quarterArea">
+            <div class="mobileIcons" style="background:none;"><img atremote src="http://img.gmw.cn/images/10101.files/images/yun_70x70.png" width="70" height="70" /></div>
+            <h3 style="margin: -15px 0px 0px 74px;"><a atremote href="http://yun.gmw.cn/index.htm">光明云</a></h3>
+            <p class="grey12_6">>　引领中国媒体共同迎接新媒体时代的机遇与挑战。</p>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="layoutShadow">
+        <div class="layoutShadowCorner"></div>
+    </div>
+</div>
+<!-- 友情链接-->
+<div class="friendsLinkBg">
+    <div id="friendsLink" class="grey12_6">
+        <ul>
+            <li><a href="http://www.xinhuanet.com/zgjx/">中国记协</a></li>
+            <li><a href="http://www.people.com.cn/">人民网</a></li>
+            <li><a href="http://www.xinhuanet.com/">新华网</a></li>
+            <li><a rel="nofollow" href="http://www.china.com.cn/">中国网</a></li>
+            <li><a href="http://www.cntv.cn/">央视网</a></li>
+            <li><a href="http://www.cri.cn/">国际在线</a></li>
+            <li><a rel="nofollow" href="http://www.chinadaily.com.cn/hqzx/">中国日报</a></li>
+            <li><a href="http://www.youth.cn/">中青网</a></li>
+            <li><a href="http://www.ce.cn/">中经网</a></li>
+            <li><a href="http://www.taiwan.cn/">台湾网</a></li>
+            <li><a rel="external nofollow" href="http://www.cnr.cn/">央广网</a></li>
+            <li><a rel="external nofollow" href="http://www.tibet.cn/">中国西藏网</a></li>
+            <li><a rel="external nofollow" href="http://www.chinanews.com/">中新网</a></li>
+            <!--<li><a rel="external nofollow" href="http://tieba.baidu.com/">百度贴吧</a></li>
+			<li><a rel="nofollow" href="http://www.163.com/">网易</a></li>-->
+            <li><a href="http://www.whcy.org/">文创网</a></li>
+            <li><a href="http://www.wenming.cn/">文明网</a></li>
+            <li><a rel="nofollow" href="http://www.qq.com/">腾讯</a></li>
+            <li><a rel="nofollow" href="http://www.sohu.com/">搜狐</a></li>
+            <li><a href="http://www.cac.gov.cn/">中国网信网</a></li>
+            <li><a href="http://www.scio.gov.cn/">国新办</a></li>
+            <li><a href="http://www.ccdi.gov.cn/">中央纪委监察部</a></li>
+            <li><a href="http://www.cnpps.org/">摄影网</a></li>
+            <li><a href="http://www.npopss-cn.gov.cn/">哲社办</a></li>
+            <li><a href="http://www.nncc626.com/">中国禁毒网</a></li>
+            <li><a href="http://www.creditchina.gov.cn/">信用中国</a></li>
+            <li><a href="index/node_12136.htm">更多>></a></li>
+        </ul>
+    </div>
+    <div class="layoutShadow">
+        <div class="layoutShadowCorner"></div>
+    </div>
+</div>
+<div id="copyright" class="wrapper1000 grey12_6">
+    <p><a href="node_21441.htm">光明日报社概况</a> | <a href="aboutus.htm">关于光明网</a> | <a href="content/node_8926.htm">报网动态</a> | <a href="node_46280.htm">联系我们</a> | <a href="node_46279.htm">法律声明</a> | <a href="gm/">光明员工</a> | <a href="http://mail.gmw.cn/">光明网邮箱</a> | <a href="map.htm">网站地图</a></p>
+    <p>地址：北京市东城区珠市口东大街5号 邮编：100062 <a href="http://www.bj.cyberpolice.cn/" target="_blank">违法信息举报</a> 违法和不良信息举报电话：010-67078755 </p>
+    <p>广播电视节目制作经营许可证181号 信息网络传播视听节目许可证号0110486 京卫网审[2012]第0051号 国家药监局（京）-经营性-2011-0014</p>
+    <p> <a href="content/2011-01/30/content_1585747.htm" target="_blank">京网文（2016）6683-919号</a> <a href="http://www.miitbeian.gov.cn" target="_blank">京ICP证101021号</a> 京公网安110402440033号 <a href="content/2010-09/08/content_1245611.htm" target="_blank">中国互联网视听节目服务自律公约</a> 光明网版权所有</p>
+    <p> <a href="https://ss.knet.cn/verifyseal.dll?sn=e12050911010020687307708&ct=df&a=1&pa=0.27107900232979554" target="_blank"><img src="http://img.gmw.cn/images/10101.files/cnnic.png" border="0"/></a>
+            <!--可信网站图片LOGO安装开始<script src="http://kxlogo.knet.cn/seallogo.dll?sn=e12050911010020687307708&size=0"></script><!--可信网站图片LOGO安装结束-->
+        <a href="http://www.12377.cn/" target="_blank" class="cn12377"><img src="http://ad.gmw.cn/index_banner/20151222_150x47.jpg" width="150" height="47" border="0"/></a> <a href="http://www.12377.cn/node_548446.htm" target="_blank"><img src="http://ad.gmw.cn/index_banner/20151222_150x50.jpg" height="47"/></a> </p>
+</div>
+
+
+<!--首页二维码  关注代码 开始-->
+<style type="text/css">
+	.bottom_xm,.bottom_QRCode{width:1000px; position:fixed; left:50%; bottom:0; margin-left:-500px;}
+	.index_xm{left: 0; position:absolute; bottom:0; z-index:0; cursor:pointer; display:none; opacity:0;}
+	.bottom_code{width:1000px; position:fixed; left:50%; bottom:160px; margin-left:-500px; text-align:center;}
+	.codesWrap{position:absolute; left:-130px; bottom:0; width:121px; background:#fff; z-index:0; display:none;}
+
+	.close_icon{position:absolute; right:5px; top:5px; cursor:pointer;}
+	.codewrap{padding-top:20px;}
+	.code_title{font-size:14px; line-height:1.5em; width:68px; color:#000; margin:5px auto 0 auto;}
+	.w90{width:90px;}
+	.pt10{padding-top:10px;}
+</style>
+<div class="bottom_QRCode">
+	<div class="bottom_xm">
+		<div class="index_xm"><img src="http://img.gmw.cn/images/10101.files/images/index_xm.gif"/></div>
+	</div>
+	<div class="bottom_code">
+		<div class="codesWrap">
+			<div class="close_icon"><img src="http://img.gmw.cn/images/10101.files/images/close_icon.png" /></div>
+			<div class="codewrap">
+				<img src="http://img.gmw.cn/images/10101.files/images/gmrbkhd.png" width="101" height="101" />
+				<p class="code_title">光明日报客户端</p>
+			</div>
+			<div class="codewrap pt10">
+				<img src="http://img.gmw.cn/images/10101.files/images/gmrbfarenweibo.png" width="101" height="101" />
+				<p class="code_title">光明日报法人微博</p>
+			</div>
+			<div class="codewrap pt10">
+				<img src="http://img.gmw.cn/images/10101.files/images/gmrbweixinkhd.png" width="101" height="101" />
+				<p class="code_title w90">光明日报<br/>微信公众号</p>
+			</div>
+			
+		</div>
+	</div>
+</div>
+<script>
+	$(document).ready(function(){
+		//显示10秒关闭
+		setTimeout(function(){
+			QRCode_hide();
+		},5000);
+
+	});
+
+	$(".close_icon").click(function(){
+		QRCode_hide();
+	});
+	$(".index_xm").mouseover(function(){
+		QRCode_show();
+	});
+
+	function QRCode_hide() {  //隐藏
+		$(".codesWrap").animate({"height":"0px"},400,function(){
+			$(".codesWrap").css({"height":"0px","display":"none"});
+		});
+		$(".index_xm").stop().show().animate({"left":"-80px","opacity":"1"},400);
+    }
+	function QRCode_show() {   //显示
+		$(".codesWrap").stop().show().animate({"height":"496px","left":"-130px"},400);
+		/*$(".index_xm").stop().animate({"left":"0px","opacity":"0"},400,function(){
+			$(".index_xm").hide();
+		});*/
+    }
+</script>
+<!--首页二维码  关注代码 结束-->
+
+<script language="javascript" >
+// ------------------------------
+// 搜索
+function change() {
+    var searchText = '';
+    if ($("#searchText").length > 0) {
+        var searchText = $("#searchText").val();
+    }
+    var selectObj = $("#selectId");
+    // 增加搜索事件统计 2014-07-08
+    //_gaq('send', 'event', 'search', selectObj.value, searchText);
+    if (selectObj.val() == 0) {
+        $("#form2").attr("action","http://bsearch.gmw.cn/cse/search?s=6995449224882484381&q=" + encodeURI(searchText));
+    }
+	else if (selectObj.val() == 1) {
+        $("#form2").attr("action","http://search.gmw.cn/search.do?q=" + encodeURI(searchText));
+    }
+    else if (selectObj.val() == 2) {
+        $("#form2").attr("action","http://search.gmw.cn/search.do?c=g&q=" + encodeURI(searchText));
+    }
+};
+
+
+// ------------------------------
+// SSO登录begin
+
+// 获得指定名称的cookie值
+function getCookie(c_name) {
+    if (document.cookie.length > 0) {
+        c_start = document.cookie.indexOf(c_name + "=");
+        if (c_start != -1) {
+            c_start = c_start + c_name.length + 1;
+            c_end = document.cookie.indexOf(";", c_start);
+            if (c_end == -1){c_end = document.cookie.length;}
+            return unescape(document.cookie.substring(c_start, c_end));
+        }
+    }
+    return "";
+}
+
+// 判断是否已登录
+function if_login() {
+    var cookie_name = decodeURI(getCookie('Example_auth_username'));
+    if ($('#loginbar_new').length > 0) {
+        var if_loginbar_new = 1;
+    }
+    if (if_loginbar_new == 1) {
+        if (cookie_name.length > 0 && cookie_name != "null") {
+            $('#loginbar_new').html("<div id='login'>" + cookie_name + "&nbsp;&nbsp;您好!&nbsp;&nbsp;<a style='color:#FDCF48;' href='http://blog.gmw.cn/' target='_blank'>进入光明博客</a>&nbsp;&nbsp;<a href='#' onclick=\"login_in();\" target='_self'>退出</a></div>");
+        } else {
+            $('#loginbar_new').html('<input type="button" style="background:url(http://img.gmw.cn/pic/login_gmw.jpg) no-repeat;width: 60px;height:18px;border:0;margin: 5px 0px;" onclick="gotoLogin(\'http://www.gmw.cn\')">');
+        }
+    }
+}
+
+function gotoLogin(backurl){
+	window.location.href = 'http://home.gmw.cn/index.php?callback='+encodeURIComponent(backurl);
+}
+
+//登陆通信
+function login_in(y) {
+    $("#login").hide();
+    var loginbar_new_html = $('#loginbar_new').html();
+    $('#loginbar_new').html("&nbsp;<img border=0 height=20 src=\"http://home.gmw.cn/wait.gif\" />&nbsp;加载中..." + loginbar_new_html);
+    var iframe = document.createElement("iframe");
+    iframe.id = "login_id";
+    iframe.style.display = "none";
+    var login_url = "http://home.gmw.cn/www_login.php?do=logout";
+    iframe.src = login_url;
+    if (iframe.attachEvent) {
+        iframe.attachEvent("onload", function() {
+            location.reload();
+            //if_login();
+            document.body.removeChild(iframe);
+        });
+    } else {
+        iframe.onload = function() {
+            location.reload();
+            //if_login();
+            document.body.removeChild(iframe);
+        };
+    }
+    document.body.appendChild(iframe);
+}
+var cookie_name = decodeURIComponent(getCookie('Example_auth_username'));
+document.form2.searchText.size = '16'; //控制头部 搜索 文本框的长度
+
+
+if ($('#loginbar_new').length > 0) {
+    if (cookie_name.length > 0) {
+        $('#loginbar_new').html("<div id='login'>" + cookie_name + "&nbsp;&nbsp;您好!&nbsp;&nbsp;<a style='color:#FDCF48;' href='http://blog.gmw.cn/' target='_blank'>光明博客</a>&nbsp;&nbsp;<a href='http://home.gmw.cn' style='color:#FDCF48;' target='_blank'>用户统一登录平台</a>&nbsp;&nbsp;<a href='#' onclick=\"login_in();\" target='_self'>安全退出</a></div>");
+    } else {
+        $('#loginbar_new').html('<input type="button" style="background:url(http://img.gmw.cn/pic/login_gmw.jpg) no-repeat;width:60px;height:18px;border:0;margin:5px 0px;" onclick="gotoLogin(\'http://www.gmw.cn\')">');
+    }
+}
+// ------------------------------
+// 时间begin
+function initArray() {
+    this.length = initArray.arguments.length;
+    for (var i = 0; i < this.length; i++)
+    this[i + 1] = initArray.arguments[i];
+}
+
+function getCurrentDate() {
+    today = new Date();
+    var d = new initArray("星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六");
+    var mon = today.getMonth() + 1;
+    return today.getFullYear() + "年" + mon + "月" + today.getDate() + "日　" + d[today.getDay() + 1];
+}
+document.getElementById('nowtime').innerHTML = getCurrentDate();
+
+// ------------------------------
+//轮换图begin
+function getid(o) {
+    return (typeof o == "object") ? o : document.getElementById(o);
+}
+
+function getNames(obj, name, tij) {
+    var plist = getid(obj).getElementsByTagName(tij);
+    var rlist = new Array();
+    for (i = 0; i < plist.length; i++) {
+        if (plist[i].getAttribute("name") == name) {
+            rlist[rlist.length] = plist[i];
+        }
+    }
+    return rlist;
+}
+
+function fiterplay(obj, num, t, name, c1, c2) {
+    var fitlist = getNames(obj, name, t);
+    for (i = 0; i < fitlist.length; i++) {
+        if (i == num) {
+            fitlist[i].className = c1;
+        } else {
+            fitlist[i].className = c2;
+        }
+    }
+}
+
+function play(obj, num) {
+    var s = getid('simg');
+    var i = getid('info');
+    var b = getid('bimg');
+    try {
+        with(b) {
+            filters[0].Apply();
+            fiterplay(b, num, "div", "f", "dis", "undis");
+            fiterplay(s, num, "div", "f", "", "f1");
+            fiterplay(i, num, "div", "f", "dis", "undis");
+            filters[0].play();
+        }
+    } catch (e) {
+        fiterplay(b, num, "div", "f", "dis", "undis");
+        fiterplay(s, num, "div", "f", "", "f1");
+        fiterplay(i, num, "div", "f", "dis", "undis");
+    }
+}
+var autoStart = 0;
+var n = 0;
+var s = getid("simg");
+var x = getNames(s, "f", "div");
+var scnum = 1;
+
+function clearAuto() {
+    clearInterval(autoStart);
+};
+
+function setAuto() {
+    autoStart = setInterval("auto(n)", 3000)
+}
+
+function auto() {
+    n++;
+    if (n > (x.length - 1)) {
+        n = 0;
+        scnum++;
+        if (scnum > 6) {
+            clearAuto();
+        }
+    }
+    play(x[n], n);
+}
+
+function ppp() {
+    setAuto();
+}
+ppp();
+document.getElementById("bimg").onmouseover = function() {
+    clearAuto();
+}
+document.getElementById("bimg").onmouseout = function() {
+    ppp();
+}
+document.getElementById("info").onmouseover = function() {
+    clearAuto();
+}
+document.getElementById("info").onmouseout = function() {
+    ppp();
+}
+document.getElementById("simg").onmouseover = function() {
+    clearAuto();
+}
+document.getElementById("simg").onmouseout = function() {
+    ppp();
+}
+
+function selc(o, m, n) {
+    for (i = 0; i < n; i++) {
+        document.getElementById(o + 'T' + i).className = 'card_nav_hidden';
+        document.getElementById(o + 'C' + i).style.display = 'none';
+    }
+    document.getElementById(o + 'T' + m).className = 'card_nav';
+    document.getElementById(o + 'C' + m).style.display = 'block';
+}
+// ----------
+// china so
+$(function() {
+    $('.China_right p a').on('click', function() {
+        $(this).addClass('China_first searchSite').siblings().removeClass('China_first searchSite');
+    });
+    $('#China_btn').on("click", function() {
+        var txt1 = "新闻",
+            txt2 = "网页",
+            txt3 = "图片",
+            CurTxt;
+        InputTxt = $(this).prev().val();
+        $('.China_right a').each(function() {
+            if ($(this).hasClass('China_first')) {
+                CurTxt = $(this).text();
+            }
+        })
+        if (CurTxt == txt1) {
+            $('#Csearch').attr('action', 'http://news.chinaso.com/search?wd=' + InputTxt);
+        } else if (CurTxt == txt2) {
+            $('#Csearch #China_txt').attr('name', 'q');
+            $('#Csearch').attr('action', 'http://www.chinaso.com/search/pagesearch.htm?q=' + InputTxt);
+        } else if (CurTxt == txt3) {
+            $('#Csearch #China_txt').attr('name', 'q');
+            $('#Csearch').attr('action', 'http://image.chinaso.com/imagesearch.htm?q=' + InputTxt);
+        }
+    })
+});
+</script>
+<!--chinaso-->
+<!-- 谷歌 统计 2014 -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20947729-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+<!--webdig-->
+<script language="javascript">
+document.write(unescape("%3Cscript src='http://cl.webterren.com/webdig.js?z=7' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script language="javascript">
+wd_paramtracker("_wdxid=000000000000000000000000000000000000000000")
+</script>
+<!-- AFP两段式代码-公用代码 -->
+<script type="text/javascript" src="http://afpmm.alicdn.com/g/mm/afp-cdn/JS/k.js"></script>
+<!----------两会期中使用---------------------------------------------------->
+<!-- 52770682：光明网首页-一区-标题通栏1 类型：固定 尺寸：728x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52770682",format:1,mode:1,gid:1,destid:"templeft",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+<!-- 52770856：光明网首页-一区标题按钮 类型：固定 尺寸：260x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52770856",format:1,mode:1,gid:1,destid:"bannerArea260",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+<!----------两会期中使用---------------------------------------------------->
+<!-- 52768072：光明网首页-顶通一（新） 类型：固定 尺寸：1000x60-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52768072",format:1,mode:1,gid:1,destid:"index_banner01",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+<!-- 52768073：光明网首页-顶通二（新） 类型：固定 尺寸：1000x60-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52768073",format:1,mode:1,gid:1,destid:"index_banner02",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+<!-- 52772340：光明网首页-一区大通栏 类型：固定 尺寸：1000x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52772340",format:1,mode:1,gid:1,destid:"w1000ad1",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+<!-- 52770055：光明网首页-一区1/3通栏左 类型：固定 尺寸：468x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52770055",format:1,mode:1,gid:1,destid:"index_pun0101",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+<!-- 52770080：光明网首页-一区1/3通栏右 类型：固定 尺寸：260x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52770080",format:1,mode:1,gid:1,destid:"index_pun0102",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+<!-- 52768238：光明网首页-一区2/3通栏 类型：固定 尺寸：728x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52768238",format:1,mode:1,gid:1,destid:"index_pun0100",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+<!-- 52768241：光明网首页-一区按钮-右（新） 类型：固定 尺寸：260x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52768241",format:1,mode:1,gid:1,destid:"index_pun02",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+
+<!-- 52768230：光明网首页-二区2/3通栏 类型：固定 尺寸：728x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52768230",format:1,mode:1,gid:1,destid:"index_pun03",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+<!-- 52768242：光明网首页-二区按钮-右（新） 类型：固定 尺寸：260x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52768242",format:1,mode:1,gid:1,destid:"index_pun04",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+<!-- 52768233：光明网首页-三区2/3通栏 类型：固定 尺寸：728x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52768233",format:1,mode:1,gid:1,destid:"index_pun0500",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+<!-- 52768243：光明网首页-三区按钮-右（新） 类型：固定 尺寸：260x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52768243",format:1,mode:1,gid:1,destid:"index_pun06",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+<!-- 52768234：光明网首页-四区2/3通栏 类型：固定 尺寸：728x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52768234",format:1,mode:1,gid:1,destid:"index_pun07",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+<!-- 52768244：光明网首页-四区按钮-右（新） 类型：固定 尺寸：260x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52768244",format:1,mode:1,gid:1,destid:"index_pun08",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+<!-- 52768277：光明网首页-焦点图6 类型：固定 尺寸：300x214-->
+<!-- delete 20161017
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52768277",format:1,mode:1,gid:1,destid:"index_focus06",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>-->
+
+
+<!-- 52772343：光明网首页-标题大通栏 类型：固定 尺寸：1000x60-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52772343",format:1,mode:1,gid:1,destid:"index_banner04",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+<!-- 52768132：光明网首页-对联 类型：浮层 尺寸：0x0-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52768132",format:2,mode:1,gid:1,sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+<!-- 52766747：光明网首页-弹窗 类型：浮层 尺寸：0x0-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52766747",format:2,mode:1,gid:1,sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+
+<!-- 52772583：光明网首页-0区-大通栏 类型：固定 尺寸：1000x90-->
+<!--<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52772583",format:1,mode:1,gid:1,destid:"index_pun09_full",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>-->
+
+<!-- 52770088：光明网首页-0区2/3通栏 类型：固定 尺寸：728x90-->
+<!--<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52770088",format:1,mode:1,gid:1,destid:"index_pun09",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>-->
+
+
+<!-- 52770090：光明网首页-二区2/3通栏左 类型：固定 尺寸：468x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52770090",format:1,mode:1,gid:1,destid:"index_pun1101",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+<!-- 52770091：光明网首页-二区2/3通栏右 类型：固定 尺寸：260x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52770091",format:1,mode:1,gid:1,destid:"index_pun1102",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+<!-- 52770104：光明网首页-三区-2/3通栏左 类型：固定 尺寸：468x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52770104",format:1,mode:1,gid:1,destid:"index_pun0501",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+<!-- 52770103：光明网首页-三区2/3通栏右 类型：固定 尺寸：260x90-->
+<script type="text/javascript">
+_acM({aid:"mm_113716014_12970037_52770103",format:1,mode:1,gid:1,destid:"index_pun0502",sendreferer:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"4+gli1aUCm00OA", domain:"gmw.cn",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript>
+<img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=4+gli1aUCm00OA" style="display:none" height="1" width="1" alt="" />
+</noscript>
+</body>
+</html>

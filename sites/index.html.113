@@ -1,0 +1,2303 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" ><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js"><!--<![endif]-->
+  <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns/fb#">
+    <head>
+      <title>Blasting News: Let's change global information. Together.</title>
+      <meta charset="utf-8"/>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <meta name="author" content="Blasting News"/>
+      <meta name="robots" content="follow"/>
+      <meta name="revisit-after" content="1 weeks"/>
+      <meta name="description" content="Publish news and videos on Blasting News, and get paid as a real reporter. Become a member of the most independent global magazine."/>
+      <meta name="keywords" content="Blasting news, Blasting"/>
+
+      <link href="https://plus.google.com/118041016300922364370" rel="publisher"/>
+      <meta property="og:site_name" content="Blasting News.com"/>
+      <meta property="og:type" content="website"/>
+      <meta property="og:locale" content="en_GB"/>
+      <meta property="og:title" content="Blasting News: Let's change global information. Together."/>
+      <meta property="og:description" content="Publish news and videos on Blasting News, and get paid as a real reporter. Become a member of the most independent global magazine."/>
+      <meta property="og:url" content="http://www.blastingnews.com"/>
+      <meta property="og:image" content="http://www.blastingnews.com/images/Icon-1200x630.png"/>
+
+
+
+      <!--NM 05/06/2015: Rimosso Bing Yandex meta -->
+
+      <link href='https://fonts.googleapis.com/css?family=Roboto:400,700,900,300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,800' rel='stylesheet' type='text/css'>
+
+
+      <link rel="stylesheet" href="/library/blastingnews/css/blasting-news/responsive/A.www.blasting.news.home.css,qv=1.17.323.c320f540a6f34b46654d1b84d3d925ef.pagespeed.cf.MuFg0V86ph.css" type="text/css"/>
+      <script>var persistent_cookie_name='bnpl';var lgf_cookie_name='lgf';(function(){function CustomEvent(event,params){params=params||{bubbles:false,cancelable:false,detail:undefined};var evt=document.createEvent('CustomEvent');evt.initCustomEvent(event,params.bubbles,params.cancelable,params.detail);return evt;}
+CustomEvent.prototype=window.Event.prototype;window.CustomEvent=CustomEvent;})();var event_notify_fake_avail=CustomEvent('notify_fake_avail_update');var semaforo_popupfanpage=null;var currentLang=null;var loginFormEvents=function(){return true;}</script>
+
+
+      
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">_atrk_opts={atrk_acct:"qZVHm1akKd6070",domain:"blastingnews.com",dynamic:true};(function(){var as=document.createElement('script');as.type='text/javascript';as.async=true;as.src="https://d31qbv1cthcecs.cloudfront.net/atrk.js";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as,s);})();</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=qZVHm1akKd6070" style="display:none" height="1" width="1" alt=""/></noscript>
+<!-- End Alexa Certify Javascript -->
+
+
+    </head>
+
+    <body itemscope itemtype="http://schema.org/WebPage">
+      
+      <header id="header" class="header">
+
+        <div class="container">
+
+          <div class="header-left">
+            <a id="menu-mobile-trigger" class="menu-mobile-button" href="javascript:void(0)"><i class="fa fa-bars"></i></a>
+            <div class="container-brand">
+              <a class="brand" href="/" title="Blasting News"></a>
+            </div>
+          </div>
+
+          <ul class="header-right nav navbar-nav navbar-right">
+
+            <li id="login">
+              <a id="login-button" href="javascript:void(0)"> <span>Login</span> </a>
+              <div id="login-content">
+                <i class="freccia hidden-xs"></i>
+                <div id="close-login-content" class="close visible-xs visible-sm">
+                  <i class="glyphicon glyphicon-remove-circle"></i>
+                </div>
+                
+                <form id="form-login" class="form">
+                  <div id="login-box">
+                    <div class="h3">Login</div>
+
+                    <div class="checkbox">
+                      <label>
+                        <input id="persistent-signin" name="persistent-signin" type="checkbox" checked="checked">
+                          Keep me logged in                      </label>
+                    </div>
+
+                    <a id="login-facebook-login" class="btn btn-default btn-md btn-block" role="button" href="#"><span><i class="fa fa-facebook"></i></span>Log in with facebook</a>
+
+                    <fieldset>
+                      <legend>
+                        <span>or use your email</span>
+                      </legend>
+                      <div class="lineetta"></div>
+                      <div class="form-group col-md-12">
+                        <input id="login-user" name="email" placeholder="Email" required class="form-control input-md" type="email" autocomplete="off">
+                      </div>
+                      <div class="form-group col-md-12">
+                        <input id="login-password" name="password" placeholder="Password" required class="form-control input-md" type="password" autocomplete="off">
+                      </div>
+                      <div class="err" id="add_err"></div>
+
+                      <div class="form-group col-md-12 content-submit">
+                        <button type="submit" id="login-signin" class="btn btn-default btn-md btn-block submit-bottom">Log in with your email</button>
+                      </div>
+
+                      <a id="a-recover-password" href="#">Forgot your password? </a>
+
+                    </fieldset>
+                  </div>
+                </form>
+
+                <!-- form recover password -->
+                <form id="form-recover-password" class="form">
+                  <div id="recover-box">
+                    <div class="h3">Recover Password</div>
+                    <fieldset>
+                      <legend></legend>
+                      <div class="form-group col-md-12">
+                        <input id="email_recover" name="email_recover" placeholder="email" class="form-control input-md" type="email">
+                          <div id="contact_email_recover_error" class="error"></div>
+                      </div>
+                      <div id="contact_email_recover_success" class="success"></div>
+                      <div class="err"></div>
+                      <div class="form-group col-md-12 content-submit">
+                        <button type="submit" id="login-recover" class="btn btn-default btn-md btn-block submit-bottom">Recover Password</button>
+                      </div>
+                      <a id="a-form-login" href="javascript:void(0)">Login</a>
+
+                    </fieldset>
+                  </div>
+                </form>
+              </div>
+
+            </li>
+
+            <li id="logged" style="display:none;">
+              <div class="logged-user">
+                <div id="loggedAuthorImage" class="logged-button"></div>
+                <div id="welcome-msn" class="hidden-xs"><a id="logged-bottom" class="logged-button" href="javascript:void(0)"> <i class="icon-profile-name"></i> </a> </div>
+              </div>
+              
+              
+              
+                <ul id="logged-content" class="element-to-show user-content">
+                  <li class="freccia">
+                    <i></i>
+                  </li>
+
+                  <li id="follow-content" class="follow-content width-full">
+                    <div class="text"><b>Welcome to Blasting News</b></div>
+                    <div class="text">The first free and independent magazine mainly focused on social journalism.</div>
+                    <div class="text">Manage your profile from here, follow your favorite Blasters and you can also suggest your own news articles.</div>
+                  </li>
+
+                  <li id="nocountry" class="nocountry width-full">
+                    <div class="text">To manage your profile, click on “Write” and select your Country.</div>
+                  </li>
+
+                  <li class="user-write user-li no-country">
+                    
+                    <a title="" href="http://blast.blastingnews.com/news/edit/">
+                      
+                      <span id="icon-write" class="fa-stack fa-lg icon hide">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-pencil-square-o fa-stack-1x fa-inverse"></i>
+                      </span>
+                      <span id="user-text-write" class="user-text hide">Write a news article</span>
+                      
+                      
+                      <span id="icon-country" class="fa-stack fa-lg icon">
+                        <i class="fa fa-circle fa-stack-2x"></i>
+                        <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
+                      </span>
+                      <span id="user-text-country" class="user-text">Select a country</span>
+                      
+                    </a>
+                  </li>
+
+                  <li class="profile user-li no-country">
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-user fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <a href="#"></a>
+                  </li>
+
+                  <li class="user-li no-country">
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-cog fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <a id="user-text-setting-link" href="http://blaster.blastingnews.com/user/change_profile/" class="user-text">Settings</a>
+                    <p id="user-text-setting-p" class="user-text">Settings</p>
+                  </li>
+
+                  <li class="user-li no-country">
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <a id="user-text-password-link" href="http://blaster.blastingnews.com/user/change_password/" class="user-text">Change password</a>
+                    <p id="user-text-password-p" class="user-text">Change password</p>
+                  </li>
+
+                  <li>
+                    <span class="fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-sign-out fa-rotate-180 fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <a class="logout" href="javascript:void(0)">Logout</a>
+                  </li>
+
+                </ul>
+
+            </li>
+
+          </ul>
+
+
+        </div>
+      </header>
+
+      <nav id="content-menu" class="navbar-menu navbar navbar-default blasting-animation" role="navigation">
+        <div class="container">
+
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="" id="bs-example-navbar-collapse-2">
+            <ul class="nav navbar-nav" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+
+              <li itemprop="name">
+                <a itemprop="url" href="http://us.blastingnews.com">News United States</a>
+              </li>
+
+              <li itemprop="name">
+                <a itemprop="url" href="http://br.blastingnews.com">Notícias Brasil</a>
+              </li>
+
+              <li itemprop="name">
+                <a itemprop="url" href="http://es.blastingnews.com">Noticias España</a>
+              </li>
+
+              <li itemprop="name">
+                <a itemprop="url" href="http://fr.blastingnews.com">Actualités France</a>
+              </li>
+
+              <li itemprop="name">
+                <a itemprop="url" href="http://it.blastingnews.com">News Italia</a>
+              </li>
+
+              <li itemprop="name">
+                <a itemprop="url" href="http://de.blastingnews.com" rel="nofollow">News Deutschland</a>
+              </li>
+
+              <li itemprop="name">
+                <a itemprop="url" href="http://uk.blastingnews.com" rel="nofollow">News United Kingdom</a>
+              </li>
+
+              <li>
+                <a id="all-nation" href="javascript:void(0)" rel="nofollow">All</a>
+              </li>
+
+            </ul>
+          </div>
+
+
+        </div><!-- /.navbar-collapse -->
+      </nav>
+
+      
+      <div id="top-banner-background" class="top-banner-background">
+        <!--<img class="img-responsive" src="../images/blasting.news/background-top-banner.jpg" />-->
+      </div>
+
+      <div class="top-banner">
+        <div class="row">
+
+          <h1 class="title">Blasting News.<br class="visible-xs visible-sm"/> Where every voice matters.</h1>
+          <h2 class="sub-title">
+            Blasting News is the leading global social news magazine.<br/>Created by you. Curated by professionals.          </h2>
+
+          <div class="box-button">
+            <div class="box box-write box-write-unlogged ">
+              <a href="javascript:void(0)" class="btn btn-write">
+                <span>Write and earn</span>
+              </a>
+            </div>
+
+            <div class="box box-write box-write-logged hide">
+              <a href="http://blast.blastingnews.com" class="btn btn-write ">
+                <span>Write and earn</span>
+              </a>
+            </div>
+
+            <div class="box box-share">
+              <a href="http://us.blastingnews.com/social-blaster/" class="btn btn-share">
+                <span class="desktop">Share and earn</span>
+                <span class="mobile">Share</span>
+              </a>
+            </div>
+
+            <div class="box box-read">
+              <a href="javascript:void(0)" class="btn btn-read">
+                <span>Read</span>
+              </a>
+            </div>
+          </div>
+
+          <div class="box-info">
+            <div class="text-info">
+              <span class="bold">118</span> 
+              <span class="normal">most visited websites in the World</span>
+              <span class="info-tooltip" data-toggle="tooltip" data-placement="top" title="based on Alexa ranking">
+                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="256.000000pt" height="256.000000pt" viewBox="0 0 256.000000 256.000000" preserveAspectRatio="xMidYMid meet">
+                  <g transform="translate(0.000000,256.000000) scale(0.100000,-0.100000)" fill="#fff" stroke="none">
+                    <path d="M1158 2555 c-2 -1 -28 -6 -58 -9 -319 -38 -656 -241 -852 -513 -170
+                          -236 -249 -489 -243 -777 5 -271 82 -504 234 -716 80 -111 182 -217 265 -275
+                          15 -11 34 -25 41 -32 27 -26 193 -114 269 -143 162 -62 264 -82 446 -85 179
+                          -3 302 17 460 75 439 162 755 551 824 1015 17 113 13 324 -7 427 -104 513
+                          -502 911 -1015 1015 -64 13 -354 27 -364 18z m370 -126 c444 -96 797 -442 896
+                          -879 26 -115 30 -146 29 -280 -1 -533 -364 -997 -883 -1130 -106 -27 -167 -34
+                          -305 -33 -546 2 -1018 388 -1134 925 -111 520 141 1054 611 1294 130 66 275
+                          110 403 121 33 3 62 7 63 8 11 10 241 -9 320 -26z"/>
+                    <path d="M1207 1894 c-11 -11 -8 -149 2 -159 6 -6 42 -8 81 -7 l71 4 -3 81 -3
+                          82 -70 3 c-39 1 -74 0 -78 -4z"/>
+                    <path d="M1207 1523 c-4 -7 -3 -847 1 -866 1 -4 35 -7 75 -5 l72 3 1 425 c0
+                          234 -1 431 -4 438 -5 13 -138 18 -145 5z"/>
+                  </g>
+                </svg>
+              </span>
+            </div>
+
+            <!--            <div class="text-info">
+                          <span class="bold">2,269,769</span> 
+                          <span class="normal">Blasters</span>
+                          <span class="info-tooltip" data-toggle="tooltip" data-placement="top" title="blasters are our great contributors" >
+                            <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+                                 width="256.000000pt" height="256.000000pt" viewBox="0 0 256.000000 256.000000"
+                                 preserveAspectRatio="xMidYMid meet">
+                              <g transform="translate(0.000000,256.000000) scale(0.100000,-0.100000)"
+                                 fill="#fff" stroke="none">
+                                <path d="M1158 2555 c-2 -1 -28 -6 -58 -9 -319 -38 -656 -241 -852 -513 -170
+                                      -236 -249 -489 -243 -777 5 -271 82 -504 234 -716 80 -111 182 -217 265 -275
+                                      15 -11 34 -25 41 -32 27 -26 193 -114 269 -143 162 -62 264 -82 446 -85 179
+                                      -3 302 17 460 75 439 162 755 551 824 1015 17 113 13 324 -7 427 -104 513
+                                      -502 911 -1015 1015 -64 13 -354 27 -364 18z m370 -126 c444 -96 797 -442 896
+                                      -879 26 -115 30 -146 29 -280 -1 -533 -364 -997 -883 -1130 -106 -27 -167 -34
+                                      -305 -33 -546 2 -1018 388 -1134 925 -111 520 141 1054 611 1294 130 66 275
+                                      110 403 121 33 3 62 7 63 8 11 10 241 -9 320 -26z"/>
+                                <path d="M1207 1894 c-11 -11 -8 -149 2 -159 6 -6 42 -8 81 -7 l71 4 -3 81 -3
+                                      82 -70 3 c-39 1 -74 0 -78 -4z"/>
+                                <path d="M1207 1523 c-4 -7 -3 -847 1 -866 1 -4 35 -7 75 -5 l72 3 1 425 c0
+                                      234 -1 431 -4 438 -5 13 -138 18 -145 5z"/>
+                              </g>
+                            </svg>
+                          </span>
+                        </div>-->
+
+            <div class="text-info">
+              <span class="bold">248,091</span> 
+              <span class="normal desktop">news published</span>
+              <span class="normal mobile">news</span>
+              <span class="info-tooltip" data-toggle="tooltip" data-placement="top" title="number of articles published within the last year">
+                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="256.000000pt" height="256.000000pt" viewBox="0 0 256.000000 256.000000" preserveAspectRatio="xMidYMid meet">
+                  <g transform="translate(0.000000,256.000000) scale(0.100000,-0.100000)" fill="#fff" stroke="none">
+                    <path d="M1158 2555 c-2 -1 -28 -6 -58 -9 -319 -38 -656 -241 -852 -513 -170
+                          -236 -249 -489 -243 -777 5 -271 82 -504 234 -716 80 -111 182 -217 265 -275
+                          15 -11 34 -25 41 -32 27 -26 193 -114 269 -143 162 -62 264 -82 446 -85 179
+                          -3 302 17 460 75 439 162 755 551 824 1015 17 113 13 324 -7 427 -104 513
+                          -502 911 -1015 1015 -64 13 -354 27 -364 18z m370 -126 c444 -96 797 -442 896
+                          -879 26 -115 30 -146 29 -280 -1 -533 -364 -997 -883 -1130 -106 -27 -167 -34
+                          -305 -33 -546 2 -1018 388 -1134 925 -111 520 141 1054 611 1294 130 66 275
+                          110 403 121 33 3 62 7 63 8 11 10 241 -9 320 -26z"/>
+                    <path d="M1207 1894 c-11 -11 -8 -149 2 -159 6 -6 42 -8 81 -7 l71 4 -3 81 -3
+                          82 -70 3 c-39 1 -74 0 -78 -4z"/>
+                    <path d="M1207 1523 c-4 -7 -3 -847 1 -866 1 -4 35 -7 75 -5 l72 3 1 425 c0
+                          234 -1 431 -4 438 -5 13 -138 18 -145 5z"/>
+                  </g>
+                </svg>
+              </span>
+            </div>
+
+            <div class="text-info">
+              <span class="bold">
+                102 million              </span> 
+              <span class="normal">monthly readers</span>
+              <span class="info-tooltip" data-toggle="tooltip" data-placement="top" title="number of monthly unique visitors">
+                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="256.000000pt" height="256.000000pt" viewBox="0 0 256.000000 256.000000" preserveAspectRatio="xMidYMid meet">
+                  <g transform="translate(0.000000,256.000000) scale(0.100000,-0.100000)" fill="#fff" stroke="none">
+                    <path d="M1158 2555 c-2 -1 -28 -6 -58 -9 -319 -38 -656 -241 -852 -513 -170
+                          -236 -249 -489 -243 -777 5 -271 82 -504 234 -716 80 -111 182 -217 265 -275
+                          15 -11 34 -25 41 -32 27 -26 193 -114 269 -143 162 -62 264 -82 446 -85 179
+                          -3 302 17 460 75 439 162 755 551 824 1015 17 113 13 324 -7 427 -104 513
+                          -502 911 -1015 1015 -64 13 -354 27 -364 18z m370 -126 c444 -96 797 -442 896
+                          -879 26 -115 30 -146 29 -280 -1 -533 -364 -997 -883 -1130 -106 -27 -167 -34
+                          -305 -33 -546 2 -1018 388 -1134 925 -111 520 141 1054 611 1294 130 66 275
+                          110 403 121 33 3 62 7 63 8 11 10 241 -9 320 -26z"/>
+                    <path d="M1207 1894 c-11 -11 -8 -149 2 -159 6 -6 42 -8 81 -7 l71 4 -3 81 -3
+                          82 -70 3 c-39 1 -74 0 -78 -4z"/>
+                    <path d="M1207 1523 c-4 -7 -3 -847 1 -866 1 -4 35 -7 75 -5 l72 3 1 425 c0
+                          234 -1 431 -4 438 -5 13 -138 18 -145 5z"/>
+                  </g>
+                </svg>
+              </span>
+            </div>
+
+            <div class="text-info">
+              <span class="normal">Awarded by </span>
+              <span class="bold">Google</span>
+              <span class="info-tooltip" data-toggle="tooltip" data-placement="top" title="Blasting News has been chosen by the Google Innovation Fund to revolutionize information in Europe">
+                <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="256.000000pt" height="256.000000pt" viewBox="0 0 256.000000 256.000000" preserveAspectRatio="xMidYMid meet">
+                  <g transform="translate(0.000000,256.000000) scale(0.100000,-0.100000)" fill="#fff" stroke="none">
+                    <path d="M1158 2555 c-2 -1 -28 -6 -58 -9 -319 -38 -656 -241 -852 -513 -170
+                          -236 -249 -489 -243 -777 5 -271 82 -504 234 -716 80 -111 182 -217 265 -275
+                          15 -11 34 -25 41 -32 27 -26 193 -114 269 -143 162 -62 264 -82 446 -85 179
+                          -3 302 17 460 75 439 162 755 551 824 1015 17 113 13 324 -7 427 -104 513
+                          -502 911 -1015 1015 -64 13 -354 27 -364 18z m370 -126 c444 -96 797 -442 896
+                          -879 26 -115 30 -146 29 -280 -1 -533 -364 -997 -883 -1130 -106 -27 -167 -34
+                          -305 -33 -546 2 -1018 388 -1134 925 -111 520 141 1054 611 1294 130 66 275
+                          110 403 121 33 3 62 7 63 8 11 10 241 -9 320 -26z"/>
+                    <path d="M1207 1894 c-11 -11 -8 -149 2 -159 6 -6 42 -8 81 -7 l71 4 -3 81 -3
+                          82 -70 3 c-39 1 -74 0 -78 -4z"/>
+                    <path d="M1207 1523 c-4 -7 -3 -847 1 -866 1 -4 35 -7 75 -5 l72 3 1 425 c0
+                          234 -1 431 -4 438 -5 13 -138 18 -145 5z"/>
+                  </g>
+                </svg>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="box-home-page-fe">
+
+        <div class="box-text">
+          <div class="text">
+            Read the latest news from:
+          </div>
+          <div class="nation">
+            <div class="dropdown drop-padding nation-box" role="presentation">
+              <a class="dropdown-toggle nation-link" aria-expanded="false" role="button" aria-haspopup="true" data-toggle="dropdown" href="#">
+                <span id="country-selected">United States</span>
+                <i class="fa fa-angle-down"></i>
+              </a>
+              <div class="dropdown-menu mCustomScrollbar nation-dropdown" role="menu" aria-labelledby="nation">
+                <ul id="sites-list" class="sites-list">
+                                        <li class="sites-list-li" data-sid="54">Argentina</li>
+                                            <li class="sites-list-li" data-sid="55">Australia</li>
+                                            <li class="sites-list-li" data-sid="52">Brasil</li>
+                                            <li class="sites-list-li" data-sid="34">Deutschland</li>
+                                            <li class="sites-list-li" data-sid="49">España</li>
+                                            <li class="sites-list-li" data-sid="33">France</li>
+                                            <li class="sites-list-li" data-sid="23">Italia</li>
+                                            <li class="sites-list-li" data-sid="53">México</li>
+                                            <li class="sites-list-li" data-sid="42">Polska</li>
+                                            <li class="sites-list-li" data-sid="43">Portugal</li>
+                                            <li class="sites-list-li" data-sid="46">Romania</li>
+                                            <li class="sites-list-li" data-sid="44">United Kingdom</li>
+                                            <li class="sites-list-li" data-sid="56">United States</li>
+                                      </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div id="box-fe-hp" class="box-fe-hp">
+          <div class="box-loader">
+            <div class="loader">
+              <i class="fa fa-circle-o-notch fa-spin fa-fw" aria-hidden="true"></i>
+            </div>
+          </div>
+
+          <div id="fe-hp" class="fe-hp">
+            
+
+
+
+
+    <div id="content-page" class="container page-home">
+
+      
+
+
+      
+
+  <div class="top-news-full-screen">
+
+    <div class="container-top-news-full-screen">
+      <div class="row">
+        <div class="col-sm-12">
+
+          <div class="content-top-news">
+
+            <div class="content-image">
+              <figure class="figure" id="figure-top-news">
+                <img class="img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/26/978x420/b_978x420/g7-meeting-photo-credit-mariocutroneo_1350839.jpg" alt="The charming Italian town that adores President Trump"/>
+              </figure>
+            </div>
+
+            <div class="top-news-full-screen-title">
+
+              <div class="content-news">
+
+                <h2 class="title-news">
+                  <a id="link-title-top-news" href="http://us.blastingnews.com/news/2017/05/the-charming-italian-town-that-adores-president-trump-001729001.html">The charming Italian town that adores President Trump</a>
+                </h2>
+
+              </div>
+
+              <div class="content-other">
+                <div class="other-news">
+                                      <a id="support-1" href="http://us.blastingnews.com/news/2017/05/trump-likes-italy-but-his-current-and-former-wives-adore-it-001729079.html"><span class="evidence">Wives ahoy /</span> Trump likes Italy, but his current and former wives adore it</a>
+                    <a id="support-2" href="http://us.blastingnews.com/news/2017/05/heightened-security-at-the-g-7-meeting-of-world-leaders-in-italy-001729039.html"><span class="evidence">Security / </span> Heightened security at the G-7 meeting of world leaders in Italy</a>
+                                                        <div class="content-media">
+
+                                            <div class="box-media">
+                          <a href="http://us.blastingnews.com/news/2017/05/photo/photogallery-the-charming-italian-town-that-adores-president-trump-1350839.html">
+                            <span class="fa-stack fa-lg">
+                              <i class="fa fa-circle fa-stack-2x"></i>
+                              <i class="fa fa-camera fa-stack-1x fa-inverse"></i>
+                            </span>
+                          </a>
+                        </div>
+                                            
+                  </div>
+
+                </div>
+              </div>
+
+
+            </div>
+            <div class="author">
+              <figure class="figure-author hidden-xs hidden-sm">
+                <img src="http://static2.blastingnews.com/media/authors/ba_30x30/profile/4/175/profile_4175979_1487182755.jpg" class="img-responsive img-circle" alt="Emma Vulet">
+              </figure>
+
+              <div class="info-author">
+                <time class="time hidden-xs hidden-sm" datetime="2017-05-26">26 May 2017</time>
+                <div class="name-author">
+                  <a href="http://us.blastingnews.com/editorial-staff/emma-vulet/">
+                    <span>Emma Vulet</span>
+                  </a>
+                </div>
+                              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+      <div id="content-home-page">
+
+        <div class="row">
+          <div class="col-sm-12">
+
+            
+  <div class="content-blasting-tv-channel">
+    <div class="blasting-tv-channel-head">
+      <div class="title-section">
+
+      </div>
+
+      <ul class="menu-video">
+                  <li>
+            <a data-slugchannel="tv-gossip" class="channels tv-gossip active" href="#">
+              <i class="fa fa-diamond icon"></i>
+              <span class="text">Showbiz & Tv</span>
+            </a>
+          </li>
+          
+        
+
+      </ul>
+
+          </div>
+
+          <div class="box-video tv-gossip active">
+        <div class="video-big">
+          <a href="http://us.blastingnews.com/showbiz-tv/2017/05/video/the-walking-dead-the-latest-news-and-videos-on-blasting-news-004623721.html">
+
+            <div class="content-title-video ">
+              <div class="title-video">The Walking Dead: the latest news and videos on Blasting News</div>
+              <div class="sub-title-video hidden-xs">Read the latest news and watch the best videos about The Walking Dead on Blasting News</div>
+              <div class="shadow"></div>
+            </div>
+
+            <figure class="figure">
+                                          <img class="img-responsive" alt="The Walking Dead: the latest news and videos on Blasting News" src="http://static2.blastingnews.com/p/4/2017/05/26/v_743x350/879bee04-56fb-4928-b2e4-3b8c7882efbd.jpg"/>
+                                            <span>
+                  <i class="fa fa-play"></i>
+                </span>
+                          </figure>
+
+          </a>
+        </div>
+        
+        <div id="carousel-blasting-tv-channel-tv-gossip" class="carousel slide carousel-blasting-tv-channel" data-ride="carousel" data-interval="false">
+
+          <div class="carousel-inner" role="listbox">
+                          <div class="item item-0 active">
+                <a class="link-video videolinkitem" href="http://us.blastingnews.com/showbiz-tv/2017/05/video/the-walking-dead-the-latest-news-and-videos-on-blasting-news-004623721.html" data-videoid="4623721" data-mp4="http://video.blastingnews.com/p/4/2017/05/26/73027d0c-b700-4918-9d5d-de3c4bd3dac3.mp4">
+                  <figure class="figure">
+                                                            <img class="img-responsive img-video" title="The Walking Dead: the latest news and videos on Blasting News" alt="The Walking Dead: the latest news and videos on Blasting News" src="http://static2.blastingnews.com/p/4/2017/05/26/v_318x198/879bee04-56fb-4928-b2e4-3b8c7882efbd.jpg"/>
+                    
+
+                    <span>
+                      <i class="fa fa-play"></i>
+                    </span>
+
+                  </figure>
+                  <span class="content-title-video">
+                    <span class="title-video">The Walking Dead: the latest news and videos on Blasting News</span>
+                  </span>
+                </a>
+              </div>
+                          <div class="item item-1">
+                <a class="link-video videolinkitem" href="http://us.blastingnews.com/showbiz-tv/2017/05/video/kim-kardashian-the-latest-news-and-videos-on-blasting-news-004623715.html" data-videoid="4623715" data-mp4="http://video.blastingnews.com/p/4/2017/05/26/4b6ee335-fb35-4d0c-ba64-70903cae046a.mp4">
+                  <figure class="figure">
+                                                              <img class="img-responsive img-video lazy" title="Kim Kardashian: the latest news and videos on Blasting News" alt="Kim Kardashian: the latest news and videos on Blasting News" data-original="http://static2.blastingnews.com/p/4/2017/05/26/v_318x198/e367ac7a-2a1b-40e1-ad3a-6ee5649280e6.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                      <noscript>
+                                        <img class="img-responsive img-video" title="Kim Kardashian: the latest news and videos on Blasting News" alt="Kim Kardashian: the latest news and videos on Blasting News" src="http://static2.blastingnews.com/p/4/2017/05/26/v_318x198/e367ac7a-2a1b-40e1-ad3a-6ee5649280e6.jpg"/>
+                                          </noscript>
+                      
+
+                    <span>
+                      <i class="fa fa-play"></i>
+                    </span>
+
+                  </figure>
+                  <span class="content-title-video">
+                    <span class="title-video">Kim Kardashian: the latest news and videos on Blasting News</span>
+                  </span>
+                </a>
+              </div>
+                          <div class="item item-2">
+                <a class="link-video videolinkitem" href="http://us.blastingnews.com/showbiz-tv/2017/05/video/rumors-run-wild-that-matt-brown-of-alaskan-bush-people-was-injured-004623695.html" data-videoid="4623695" data-mp4="http://video.blastingnews.com/p/4/2017/05/25/0766de77-f6c1-4772-9a5f-006f96d89b02.mp4">
+                  <figure class="figure">
+                                                              <img class="img-responsive img-video lazy" title="Rumors run wild that Matt Brown of 'Alaskan Bush People' was injured" alt="Rumors run wild that Matt Brown of 'Alaskan Bush People' was injured" data-original="http://static2.blastingnews.com/p/4/2017/05/25/v_318x198/ef576afa-c86f-4bef-88af-d9da3f8926f9.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                      <noscript>
+                                        <img class="img-responsive img-video" title="Rumors run wild that Matt Brown of 'Alaskan Bush People' was injured" alt="Rumors run wild that Matt Brown of 'Alaskan Bush People' was injured" src="http://static2.blastingnews.com/p/4/2017/05/25/v_318x198/ef576afa-c86f-4bef-88af-d9da3f8926f9.jpg"/>
+                                          </noscript>
+                      
+
+                    <span>
+                      <i class="fa fa-play"></i>
+                    </span>
+
+                  </figure>
+                  <span class="content-title-video">
+                    <span class="title-video">Rumors run wild that Matt Brown of 'Alaskan Bush People' was injured</span>
+                  </span>
+                </a>
+              </div>
+                          <div class="item item-3">
+                <a class="link-video videolinkitem" href="http://us.blastingnews.com/showbiz-tv/2017/05/video/the-bachelor-the-latest-news-and-videos-on-blasting-news-004623671.html" data-videoid="4623671" data-mp4="http://video.blastingnews.com/p/4/2017/05/24/e88ef574-c6d0-408e-a4f3-d46ef87e6de1.mp4">
+                  <figure class="figure">
+                                                              <img class="img-responsive img-video lazy" title="'The Bachelor': the latest news and videos on Blasting News" alt="'The Bachelor': the latest news and videos on Blasting News" data-original="http://static2.blastingnews.com/p/4/2017/05/24/v_318x198/12d3ef67-27bb-418c-9d76-f6101353dc46.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                      <noscript>
+                                        <img class="img-responsive img-video" title="'The Bachelor': the latest news and videos on Blasting News" alt="'The Bachelor': the latest news and videos on Blasting News" src="http://static2.blastingnews.com/p/4/2017/05/24/v_318x198/12d3ef67-27bb-418c-9d76-f6101353dc46.jpg"/>
+                                          </noscript>
+                      
+
+                    <span>
+                      <i class="fa fa-play"></i>
+                    </span>
+
+                  </figure>
+                  <span class="content-title-video">
+                    <span class="title-video">'The Bachelor': the latest news and videos on Blasting News</span>
+                  </span>
+                </a>
+              </div>
+                          <div class="item item-4">
+                <a class="link-video videolinkitem" href="http://us.blastingnews.com/showbiz-tv/2017/05/video/dancing-with-the-stars-the-latest-news-and-videos-on-blasting-news-004623667.html" data-videoid="4623667" data-mp4="http://video.blastingnews.com/p/4/2017/05/24/6697be95-3f02-4ca6-aac3-d273fe103bbb.mp4">
+                  <figure class="figure">
+                                                              <img class="img-responsive img-video lazy" title="'Dancing with the Stars': the latest news and videos on Blasting News" alt="'Dancing with the Stars': the latest news and videos on Blasting News" data-original="http://static2.blastingnews.com/p/4/2017/05/24/v_318x198/c3274957-9cf8-4a2c-a48a-9278745e72bd.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                      <noscript>
+                                        <img class="img-responsive img-video" title="'Dancing with the Stars': the latest news and videos on Blasting News" alt="'Dancing with the Stars': the latest news and videos on Blasting News" src="http://static2.blastingnews.com/p/4/2017/05/24/v_318x198/c3274957-9cf8-4a2c-a48a-9278745e72bd.jpg"/>
+                                          </noscript>
+                      
+
+                    <span>
+                      <i class="fa fa-play"></i>
+                    </span>
+
+                  </figure>
+                  <span class="content-title-video">
+                    <span class="title-video">'Dancing with the Stars': the latest news and videos on Blasting News</span>
+                  </span>
+                </a>
+              </div>
+                          <div class="item item-5">
+                <a class="link-video videolinkitem" href="http://us.blastingnews.com/showbiz-tv/2017/05/video/caroline-manzo-speaks-out-about-dina-manzo-robbery-as-crime-scene-photos-surface-004623337.html" data-videoid="4623337" data-mp4="http://video.blastingnews.com/p/4/2017/05/18/f8d2108e-363d-4650-8ffc-918e9459509a.mp4">
+                  <figure class="figure">
+                                                              <img class="img-responsive img-video lazy" title="Caroline Manzo speaks out about Dina Manzo robbery as crime scene photos surface" alt="Caroline Manzo speaks out about Dina Manzo robbery as crime scene photos surface" data-original="http://static2.blastingnews.com/p/4/2017/05/18/v_318x198/f40c5ff3-f4f5-4589-917e-b76f41563d95.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                      <noscript>
+                                        <img class="img-responsive img-video" title="Caroline Manzo speaks out about Dina Manzo robbery as crime scene photos surface" alt="Caroline Manzo speaks out about Dina Manzo robbery as crime scene photos surface" src="http://static2.blastingnews.com/p/4/2017/05/18/v_318x198/f40c5ff3-f4f5-4589-917e-b76f41563d95.jpg"/>
+                                          </noscript>
+                      
+
+                    <span>
+                      <i class="fa fa-play"></i>
+                    </span>
+
+                  </figure>
+                  <span class="content-title-video">
+                    <span class="title-video">Caroline Manzo speaks out about Dina Manzo robbery as crime scene photos surface</span>
+                  </span>
+                </a>
+              </div>
+                          <div class="item item-6">
+                <a class="link-video videolinkitem" href="http://us.blastingnews.com/showbiz-tv/2017/05/video/jill-dillard-gives-scary-update-as-she-discusses-good-friend-being-murdered-004623301.html" data-videoid="4623301" data-mp4="http://video.blastingnews.com/p/4/2017/05/17/bacbbad5-502b-44ce-a3b6-e1d8a5d8a506.mp4">
+                  <figure class="figure">
+                                                              <img class="img-responsive img-video lazy" title="Jill Dillard gives scary update as she discusses good friend being murdered" alt="Jill Dillard gives scary update as she discusses good friend being murdered" data-original="http://static2.blastingnews.com/p/4/2017/05/17/v_318x198/41ff1c39-e9dd-46cd-8181-0941484d360d.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                      <noscript>
+                                        <img class="img-responsive img-video" title="Jill Dillard gives scary update as she discusses good friend being murdered" alt="Jill Dillard gives scary update as she discusses good friend being murdered" src="http://static2.blastingnews.com/p/4/2017/05/17/v_318x198/41ff1c39-e9dd-46cd-8181-0941484d360d.jpg"/>
+                                          </noscript>
+                      
+
+                    <span>
+                      <i class="fa fa-play"></i>
+                    </span>
+
+                  </figure>
+                  <span class="content-title-video">
+                    <span class="title-video">Jill Dillard gives scary update as she discusses good friend being murdered</span>
+                  </span>
+                </a>
+              </div>
+                          <div class="item item-7">
+                <a class="link-video videolinkitem" href="http://us.blastingnews.com/showbiz-tv/2017/05/video/mystic-team-wins-by-capturing-116-million-plant-type-pokemon-004623205.html" data-videoid="4623205" data-mp4="http://video.blastingnews.com/p/4/2017/05/16/0a9a54be-c713-4d5b-9d85-b93a63bc5b7f.mp4">
+                  <figure class="figure">
+                                                              <img class="img-responsive img-video lazy" title="Mystic team wins by capturing 116 million plant-type Pokémon" alt="Mystic team wins by capturing 116 million plant-type Pokémon" data-original="http://static2.blastingnews.com/p/4/2017/05/16/v_318x198/7a6d4623-e1d5-424c-8b71-7277c3cc6a7d.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                      <noscript>
+                                        <img class="img-responsive img-video" title="Mystic team wins by capturing 116 million plant-type Pokémon" alt="Mystic team wins by capturing 116 million plant-type Pokémon" src="http://static2.blastingnews.com/p/4/2017/05/16/v_318x198/7a6d4623-e1d5-424c-8b71-7277c3cc6a7d.jpg"/>
+                                          </noscript>
+                      
+
+                    <span>
+                      <i class="fa fa-play"></i>
+                    </span>
+
+                  </figure>
+                  <span class="content-title-video">
+                    <span class="title-video">Mystic team wins by capturing 116 million plant-type Pokémon</span>
+                  </span>
+                </a>
+              </div>
+                          <div class="item item-8">
+                <a class="link-video videolinkitem" href="http://us.blastingnews.com/showbiz-tv/2017/05/video/source-close-to-ben-higgins-lauren-bushnell-reveals-why-they-split-004623141.html" data-videoid="4623141" data-mp4="http://video.blastingnews.com/p/4/2017/05/16/e1263b1b-6483-4aa5-9034-a5bda627f4dd.mp4">
+                  <figure class="figure">
+                                                              <img class="img-responsive img-video lazy" title="Source close to Ben Higgins, Lauren Bushnell reveals why they split" alt="Source close to Ben Higgins, Lauren Bushnell reveals why they split" data-original="http://static2.blastingnews.com/p/4/2017/05/16/v_318x198/1f4b7f4a-3625-445d-a3e7-e3549962daab.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                      <noscript>
+                                        <img class="img-responsive img-video" title="Source close to Ben Higgins, Lauren Bushnell reveals why they split" alt="Source close to Ben Higgins, Lauren Bushnell reveals why they split" src="http://static2.blastingnews.com/p/4/2017/05/16/v_318x198/1f4b7f4a-3625-445d-a3e7-e3549962daab.jpg"/>
+                                          </noscript>
+                      
+
+                    <span>
+                      <i class="fa fa-play"></i>
+                    </span>
+
+                  </figure>
+                  <span class="content-title-video">
+                    <span class="title-video">Source close to Ben Higgins, Lauren Bushnell reveals why they split</span>
+                  </span>
+                </a>
+              </div>
+                          <div class="item item-9">
+                <a class="link-video videolinkitem" href="http://us.blastingnews.com/showbiz-tv/2017/05/video/ann-coulter-betrays-donald-trump-finally-admits-presidency-is-a-nightmare-004623137.html" data-videoid="4623137" data-mp4="http://video.blastingnews.com/p/4/2017/05/15/a23ac9d1-28b8-4397-bb02-2976cf297eac.mp4">
+                  <figure class="figure">
+                                                              <img class="img-responsive img-video lazy" title="Ann Coulter betrays Donald Trump, finally admits presidency is a 'nightmare'" alt="Ann Coulter betrays Donald Trump, finally admits presidency is a 'nightmare'" data-original="http://static2.blastingnews.com/p/4/2017/05/15/v_318x198/ac88001b-c4c7-4b69-a265-34d4515ed837.jpg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                      <noscript>
+                                        <img class="img-responsive img-video" title="Ann Coulter betrays Donald Trump, finally admits presidency is a 'nightmare'" alt="Ann Coulter betrays Donald Trump, finally admits presidency is a 'nightmare'" src="http://static2.blastingnews.com/p/4/2017/05/15/v_318x198/ac88001b-c4c7-4b69-a265-34d4515ed837.jpg"/>
+                                          </noscript>
+                      
+
+                    <span>
+                      <i class="fa fa-play"></i>
+                    </span>
+
+                  </figure>
+                  <span class="content-title-video">
+                    <span class="title-video">Ann Coulter betrays Donald Trump, finally admits presidency is a 'nightmare'</span>
+                  </span>
+                </a>
+              </div>
+                      </div>
+
+          <!-- Controls -->
+          <a class="left carousel-control" href="#carousel-blasting-tv-channel-tv-gossip" role="button" data-slide="prev">
+            <span class="fa fa-angle-left  left" aria-hidden="true"></span>
+          </a>
+          <a class="right carousel-control" href="#carousel-blasting-tv-channel-tv-gossip" role="button" data-slide="next">
+            <span class="fa fa-angle-right right" aria-hidden="true"></span>
+          </a>
+        </div>
+
+      </div>
+    
+  </div>
+
+            <div class="column-left">
+
+              <ul>
+                                    <li class="first">
+                      <a href="http://us.blastingnews.com/news" class="category">News</a>
+                      <h2>
+                        <a class="link-title" href="http://us.blastingnews.com/news/2017/05/president-trumps-budget-proposal-fails-to-convince-economists-001666059.html">President Trump's budget proposal fails to convince economists</a>
+                      </h2>
+                      <figure class="figure">
+                                                <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/1/660x290/b_482x212/article-page-38-national-review-nationalreviewcom_1346309.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                        <noscript>
+                          <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/1/660x290/b_482x212/article-page-38-national-review-nationalreviewcom_1346309.jpg" alt=""/>
+                        </noscript>
+                      </figure>
+                      <div class="sub-title">Economists from both sides of the political spectrum cast doubt over the feasibility of proposed US budget</div>
+                      <a class="author" href="http://us.blastingnews.com/editorial-staff/olivia-lynch/">Olivia Lynch</a>
+                    </li>
+                    
+                    <li>
+                      <div class="content-figure-small">
+                        <figure class="figure-small">
+                                                    <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/25/290x290/b_120x95/newsweek-news-analysis-politics-business-technology-newsweekcom_1350289.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                          <noscript>
+                            <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/25/290x290/b_120x95/newsweek-news-analysis-politics-business-technology-newsweekcom_1350289.jpg" alt=""/>
+                          </noscript>
+                        </figure>
+                      </div>
+                      <div class="content-news content-about">
+                        <a href="http://us.blastingnews.com/news" class="category">News</a>
+                        <h2>
+                          <a href="http://us.blastingnews.com/news/2017/05/greg-gianfort-body-slams-montana-special-congressional-election-001727245.html" class="link-title">Greg Gianfort body slams Montana special congressional election</a>
+                        </h2>
+                        <a class="author" href="http://us.blastingnews.com/editorial-staff/mark-whittington/">Mark Whittington</a>
+                      </div>
+                    </li>
+                                        <li>
+                      <div class="content-figure-small">
+                        <figure class="figure-small">
+                                                    <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/26/290x290/b_120x95/sourced-from-blasting-news-library_1349937.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                          <noscript>
+                            <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/26/290x290/b_120x95/sourced-from-blasting-news-library_1349937.jpg" alt=""/>
+                          </noscript>
+                        </figure>
+                      </div>
+                      <div class="content-news content-about">
+                        <a href="http://us.blastingnews.com/news" class="category">News</a>
+                        <h2>
+                          <a href="http://us.blastingnews.com/news/2017/05/jared-kushner-is-under-fbi-scanner-over-his-links-to-russia-001727899.html" class="link-title">Jared Kushner is under FBI scanner over his links to Russia</a>
+                        </h2>
+                        <a class="author" href="https://us.blastingnews.com/editorial-staff/soham-samaddar/">Writer At Large</a>
+                      </div>
+                    </li>
+                                        <li class="last">
+                      <div class="content-news content-about">
+                        <a href="http://us.blastingnews.com/news" class="category">News</a>
+                        <h2>
+                          <a href="http://us.blastingnews.com/news/2017/05/michelle-obama-looking-her-best-with-her-post-white-house-life-001722035.html" class="link-title">Michelle Obama looking her best with her post-White House life</a>
+                        </h2>
+                        <a class="author" href="http://us.blastingnews.com/editorial-staff/love-mcbelle/">S.D.Dawn</a>
+                      </div>
+                    </li>
+                                        <li class="first">
+                      <a href="http://us.blastingnews.com/world" class="category">World</a>
+                      <h2>
+                        <a class="link-title" href="http://us.blastingnews.com/world/2017/05/britain-put-on-high-alert-after-the-manchester-bombing-by-the-isis-001722511.html">Britain put on high alert after the Manchester bombing by the ISIS</a>
+                      </h2>
+                      <figure class="figure">
+                                                <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/24/660x290/b_482x212/armed-cops-patrol-the-streets-of-cities-across-the-uk-after-isis-thesuncouk_1345901.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                        <noscript>
+                          <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/24/660x290/b_482x212/armed-cops-patrol-the-streets-of-cities-across-the-uk-after-isis-thesuncouk_1345901.jpg" alt=""/>
+                        </noscript>
+                      </figure>
+                      <div class="sub-title">ISIS has claimed responsibility for the suicide bombing in Manchester that killed 22 people.</div>
+                      <a class="author" href="http://us.blastingnews.com/editorial-staff/prabir-ghose/">Prabir Ghose</a>
+                    </li>
+                    
+                    <li>
+                      <div class="content-figure-small">
+                        <figure class="figure-small">
+                                                    <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/25/290x290/b_120x95/it-trailer-beware-this-new-look-at-stephen-king-film-ewcom_1348697.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                          <noscript>
+                            <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/25/290x290/b_120x95/it-trailer-beware-this-new-look-at-stephen-king-film-ewcom_1348697.jpg" alt=""/>
+                          </noscript>
+                        </figure>
+                      </div>
+                      <div class="content-news content-about">
+                        <a href="http://us.blastingnews.com/showbiz-tv" class="category">Showbiz & Tv</a>
+                        <h2>
+                          <a href="http://us.blastingnews.com/showbiz-tv/2017/05/beware-of-stephen-kings-it-what-to-watch-out-for-001725869.html" class="link-title">Beware of Stephen King's 'IT' what to watch out for</a>
+                        </h2>
+                        <a class="author" href="http://us.blastingnews.com/editorial-staff/joann-scheffler/">Joanna</a>
+                      </div>
+                    </li>
+                                        <li>
+                      <div class="content-figure-small">
+                        <figure class="figure-small">
+                                                    <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/25/290x290/b_120x95/spider-man-homecoming-trailer-not-agents-of-shield-teaser-cosmicbooknewscom_1348493.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                          <noscript>
+                            <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/25/290x290/b_120x95/spider-man-homecoming-trailer-not-agents-of-shield-teaser-cosmicbooknewscom_1348493.jpg" alt=""/>
+                          </noscript>
+                        </figure>
+                      </div>
+                      <div class="content-news content-about">
+                        <a href="http://us.blastingnews.com/showbiz-tv" class="category">Showbiz & Tv</a>
+                        <h2>
+                          <a href="http://us.blastingnews.com/showbiz-tv/2017/05/the-new-spider-man-movie-gets-a-teaser-trailer-001725969.html" class="link-title">The new ‘Spider-Man’ movie gets a teaser trailer</a>
+                        </h2>
+                        <a class="author" href="http://us.blastingnews.com/editorial-staff/julia-morgan/">Julia Morgan</a>
+                      </div>
+                    </li>
+                                        <li class="last">
+                      <div class="content-news content-about">
+                        <a href="http://us.blastingnews.com/news" class="category">News</a>
+                        <h2>
+                          <a href="http://us.blastingnews.com/news/2017/05/gop-candidate-assaults-reporter-over-trumpcare-question-audio-leaked-report-001724825.html" class="link-title">GOP candidate assaults reporter over 'TrumpCare' question, audio leaked, report</a>
+                        </h2>
+                        <a class="author" href="http://us.blastingnews.com/editorial-staff/robert-sobel-robert-sobel/">Robert Sobel</a>
+                      </div>
+                    </li>
+                                        <li class="first">
+                      <a href="http://us.blastingnews.com/sports" class="category">Sports</a>
+                      <h2>
+                        <a class="link-title" href="http://us.blastingnews.com/sports/2017/05/simona-halep-in-danger-to-miss-the-french-open-due-to-injury-001722925.html">Simona Halep in danger to miss the French Open due to injury</a>
+                      </h2>
+                      <figure class="figure">
+                                                <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/24/660x290/b_482x212/wta-rome-simona-halep-books-kiki-bertens-semi-final-sporting-life-sportinglifecom_1346239.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                        <noscript>
+                          <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/24/660x290/b_482x212/wta-rome-simona-halep-books-kiki-bertens-semi-final-sporting-life-sportinglifecom_1346239.jpg" alt=""/>
+                        </noscript>
+                      </figure>
+                      <div class="sub-title">The Romanian tennis star is considered one of the top contenders of the French Open.</div>
+                      <a class="author" href="http://us.blastingnews.com/editorial-staff/anton-cristi/">Christian F.</a>
+                    </li>
+                    
+                    <li>
+                      <div class="content-figure-small">
+                        <figure class="figure-small">
+                                                    <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/26/290x290/b_120x95/lebron-james-passes-michael-jordan-on-all-time-postseason-steals-list-fanragsportscom_1349865.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                          <noscript>
+                            <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/26/290x290/b_120x95/lebron-james-passes-michael-jordan-on-all-time-postseason-steals-list-fanragsportscom_1349865.jpg" alt=""/>
+                          </noscript>
+                        </figure>
+                      </div>
+                      <div class="content-news content-about">
+                        <a href="http://us.blastingnews.com/sports" class="category">Sports</a>
+                        <h2>
+                          <a href="http://us.blastingnews.com/sports/2017/05/lebron-james-passes-michael-jordan-on-the-all-time-playoff-scoring-list-001727817.html" class="link-title">LeBron James passes Michael Jordan on the all-time playoff scoring list</a>
+                        </h2>
+                        <a class="author" href="http://us.blastingnews.com/editorial-staff/vahan-shakhpazyan/">Vahan Shakhpazyan</a>
+                      </div>
+                    </li>
+                                        <li>
+                      <div class="content-figure-small">
+                        <figure class="figure-small">
+                                                    <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/18/290x290/b_120x95/warriors-sweep-spurs-advance-to-nba-finals-for-third-straight-sportsnetca_1344129.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                          <noscript>
+                            <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/18/290x290/b_120x95/warriors-sweep-spurs-advance-to-nba-finals-for-third-straight-sportsnetca_1344129.jpg" alt=""/>
+                          </noscript>
+                        </figure>
+                      </div>
+                      <div class="content-news content-about">
+                        <a href="http://us.blastingnews.com/sports" class="category">Sports</a>
+                        <h2>
+                          <a href="http://us.blastingnews.com/sports/2017/05/warriors-sweep-the-spurs-advance-to-the-nba-finals-001709039.html" class="link-title">Warriors sweep the Spurs, advance to the NBA finals</a>
+                        </h2>
+                        <a class="author" href="http://us.blastingnews.com/editorial-staff/riad-mesic/">Riad Mešić</a>
+                      </div>
+                    </li>
+                                  </ul>
+            </div>
+            
+
+            <div class="column-center">
+              
+              
+              
+                              <div class="content-section">
+                  <div class="title-section">
+                    Showbiz & Tv                  </div>
+                  <ul>
+                                          <li class="">
+                        <div class="content-video content-about">
+                          <a href="http://us.blastingnews.com/showbiz-tv/" class="category">Showbiz & Tv</a>
+                          <h2>
+                            <a href="http://us.blastingnews.com/showbiz-tv/2017/05/video/frieza-will-be-recruited-by-goku-to-participate-in-the-power-tournament-004623057.html" class="link-title">Frieza will be recruited by Goku to participate in the power tournament</a>
+                          </h2>
+                        </div>
+                        <div class="content-figure-small">
+                          <figure class="figure-small figure-video">
+                            <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/p/4/2017/05/12/v_120x95/9f2843a8-cca4-482c-81f6-229ecfbd09eb.jpg" alt="Frieza will be recruited by Goku to participate in the power tournament" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="link-figure img-responsive" src="http://static2.blastingnews.com/p/4/2017/05/12/v_120x95/9f2843a8-cca4-482c-81f6-229ecfbd09eb.jpg" alt="Frieza will be recruited by Goku to participate in the power tournament"/>
+                            </noscript>
+                            <span class="content-play">
+                              <i class="fa fa-play"></i>
+                            </span>
+                          </figure>
+                        </div>
+                      </li>
+                                            <li class="">
+                        <div class="content-video content-about">
+                          <a href="http://us.blastingnews.com/showbiz-tv/" class="category">Showbiz & Tv</a>
+                          <h2>
+                            <a href="http://us.blastingnews.com/showbiz-tv/2017/05/video/russian-youtuber-was-sentenced-to-prison-for-playing-go-pokemon-inside-a-church-004623053.html" class="link-title">Russian Youtuber was sentenced to prison for Playing GO Pokémon Inside a Church</a>
+                          </h2>
+                        </div>
+                        <div class="content-figure-small">
+                          <figure class="figure-small figure-video">
+                            <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/p/4/2017/05/12/v_120x95/a888eb90-c654-4d44-bcb9-486209925854.jpg" alt="Russian Youtuber was sentenced to prison for Playing GO Pokémon Inside a Church" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="link-figure img-responsive" src="http://static2.blastingnews.com/p/4/2017/05/12/v_120x95/a888eb90-c654-4d44-bcb9-486209925854.jpg" alt="Russian Youtuber was sentenced to prison for Playing GO Pokémon Inside a Church"/>
+                            </noscript>
+                            <span class="content-play">
+                              <i class="fa fa-play"></i>
+                            </span>
+                          </figure>
+                        </div>
+                      </li>
+                                            <li class="mix">
+                        <div class="content-video content-about">
+                          <a href="http://us.blastingnews.com/showbiz-tv/" class="category">Showbiz & Tv</a>
+                          <h2>
+                            <a href="http://us.blastingnews.com/showbiz-tv/2017/05/video/roloff-baby-zach-and-tori-pick-a-name-for-their-baby-boy-004623045.html" class="link-title">Roloff baby: Zach and Tori pick a name for their baby boy</a>
+                          </h2>
+                        </div>
+                        <div class="content-figure-small">
+                          <figure class="figure-small figure-video">
+                            <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/p/4/2017/05/12/v_300x169/33c65f63-230b-4830-838a-12f728c708a5.jpg" alt="Roloff baby: Zach and Tori pick a name for their baby boy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="link-figure img-responsive" src="http://static2.blastingnews.com/p/4/2017/05/12/v_300x169/33c65f63-230b-4830-838a-12f728c708a5.jpg" alt="Roloff baby: Zach and Tori pick a name for their baby boy"/>
+                            </noscript>
+                            <span class="content-play">
+                              <i class="fa fa-play"></i>
+                            </span>
+                          </figure>
+                        </div>
+                      </li>
+                                            <li class="mix last-random ">
+                        <div class="content-video content-about">
+                          <a href="http://us.blastingnews.com/showbiz-tv/" class="category">Showbiz & Tv</a>
+                          <h2>
+                            <a href="http://us.blastingnews.com/showbiz-tv/2017/05/video/star-wars-the-last-jedi-hasbro-leaks-supreme-leader-snoke-s-real-identity-004622887.html" class="link-title">‘Star Wars: The Last Jedi’ - Hasbro leaks Supreme Leader Snoke’s real identity</a>
+                          </h2>
+                        </div>
+                        <div class="content-figure-small">
+                          <figure class="figure-small figure-video">
+                            <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/p/4/2017/05/11/v_300x169/0167ff3b-3349-416b-8a5f-69d88d72bb43.jpg" alt="‘Star Wars: The Last Jedi’ - Hasbro leaks Supreme Leader Snoke’s real identity" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="link-figure img-responsive" src="http://static2.blastingnews.com/p/4/2017/05/11/v_300x169/0167ff3b-3349-416b-8a5f-69d88d72bb43.jpg" alt="‘Star Wars: The Last Jedi’ - Hasbro leaks Supreme Leader Snoke’s real identity"/>
+                            </noscript>
+                            <span class="content-play">
+                              <i class="fa fa-play"></i>
+                            </span>
+                          </figure>
+                        </div>
+                      </li>
+                                            <li class="">
+                        <div class="content-video content-about">
+                          <a href="http://us.blastingnews.com/showbiz-tv/" class="category">Showbiz & Tv</a>
+                          <h2>
+                            <a href="http://us.blastingnews.com/showbiz-tv/2017/05/rumors-run-wild-that-matt-brown-of-alaskan-bush-people-was-injured-001724471.html" class="link-title">Rumors run wild that Matt Brown of 'Alaskan Bush People' was injured</a>
+                          </h2>
+                        </div>
+                        <div class="content-figure-small">
+                          <figure class="figure-small">
+                            <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/24/290x290/b_120x95/alaskan-bush-people-fanclub-alaskan-bush-people-pinterest-pinterestcom_1347369.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/24/290x290/b_120x95/alaskan-bush-people-fanclub-alaskan-bush-people-pinterest-pinterestcom_1347369.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                        </div>
+                      </li>
+                                            <li class="">
+                        <div class="content-video content-about">
+                          <a href="http://us.blastingnews.com/showbiz-tv/" class="category">Showbiz & Tv</a>
+                          <h2>
+                            <a href="http://us.blastingnews.com/showbiz-tv/2017/05/did-jana-duggar-find-love-with-a-family-friend-looks-that-way-001684095.html" class="link-title">Did Jana Duggar find love with a family friend? Looks that way!</a>
+                          </h2>
+                        </div>
+                        <div class="content-figure-small">
+                          <figure class="figure-small">
+                            <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/8/290x290/b_120x95/duggar-family-accused-of-using-facebook-to-find-virtuous-jana-inquisitrcom_1316783.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/8/290x290/b_120x95/duggar-family-accused-of-using-facebook-to-find-virtuous-jana-inquisitrcom_1316783.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                        </div>
+                      </li>
+                                            <li class="mix">
+                        <div class="content-video content-about">
+                          <a href="http://us.blastingnews.com/showbiz-tv/" class="category">Showbiz & Tv</a>
+                          <h2>
+                            <a href="http://us.blastingnews.com/showbiz-tv/2017/04/jana-duggar-and-tim-tebow-rumors-swirl-again-001663427.html" class="link-title">Jana Duggar and Tim Tebow rumors swirl again</a>
+                          </h2>
+                        </div>
+                        <div class="content-figure-small">
+                          <figure class="figure-small">
+                            <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/4/30/660x290/b_300x132/jana-duggar-photo-via-bn-library_1301455.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/4/30/660x290/b_300x132/jana-duggar-photo-via-bn-library_1301455.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                        </div>
+                      </li>
+                                            <li class="mix last-random ">
+                        <div class="content-video content-about">
+                          <a href="http://us.blastingnews.com/showbiz-tv/" class="category">Showbiz & Tv</a>
+                          <h2>
+                            <a href="http://us.blastingnews.com/showbiz-tv/2017/05/big-brother-18-natalie-negrotti-makes-waves-again-with-another-charity-scandal-001715331.html" class="link-title">'Big Brother 18' Natalie Negrotti Makes Waves Again With Another Charity Scandal</a>
+                          </h2>
+                        </div>
+                        <div class="content-figure-small">
+                          <figure class="figure-small">
+                            <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/21/660x290/b_300x132/natalie-negrotti-natalianegrotti-twitter-twittercom_1340481.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/21/660x290/b_300x132/natalie-negrotti-natalianegrotti-twitter-twittercom_1340481.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                        </div>
+                      </li>
+                      
+                  </ul>
+
+                </div>
+              
+                              <div class="content-section people-lifestyle hidden-xs hidden-sm">
+                  <div class="title-section">
+                    Entertainment                  </div>
+                  <ul>
+                                          <li class="">
+                        <div class="content-video content-about">
+                          <a href="http://us.blastingnews.com/sports/" class="category">Sports</a>
+                          <h2>
+                            <a href="http://us.blastingnews.com/sports/2017/05/josh-mcroberts-will-exercise-his-player-option-and-stay-in-miami-001721641.html " class="link-title">Josh McRoberts will exercise his player option and stay in Miami</a>
+                          </h2>
+                        </div>
+                        <div class="content-figure-small">
+                          <figure class="figure-small">
+                            <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/23/290x290/b_120x95/josh-mcroberts-will-stay-in-miami-bleacherreportcom_1345237.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/23/290x290/b_120x95/josh-mcroberts-will-stay-in-miami-bleacherreportcom_1345237.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                        </div>
+                      </li>
+                                            <li class="">
+                        <div class="content-video content-about">
+                          <a href="http://us.blastingnews.com/sports/" class="category">Sports</a>
+                          <h2>
+                            <a href="http://us.blastingnews.com/sports/2017/05/nba-rumors-why-the-lakers-emerge-as-top-choice-for-chris-bosh-001724353.html " class="link-title">NBA Rumors: Why the Lakers emerge as top choice for Chris Bosh</a>
+                          </h2>
+                        </div>
+                        <div class="content-figure-small">
+                          <figure class="figure-small">
+                            <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/24/290x290/b_120x95/nba-trade-rumors-chris-bosh-might-end-up-back-to-raptors-as-all-asiastarzcom_1347835.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/24/290x290/b_120x95/nba-trade-rumors-chris-bosh-might-end-up-back-to-raptors-as-all-asiastarzcom_1347835.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                        </div>
+                      </li>
+                                            <li class="foto-big mix ">
+                        <div class="content-video content-about">
+                          <a href="http://us.blastingnews.com/sports/" class="category">Sports</a>
+                          <h2>
+                            <a href="http://us.blastingnews.com/sports/2017/05/spurs-pursuit-of-chris-paul-means-goodbye-for-patty-mills-jonathon-simmons-001724207.html " class="link-title">Spurs’ pursuit of Chris Paul means goodbye for Patty Mills, Jonathon Simmons</a>
+                          </h2>
+                        </div>
+                        <div class="content-figure-small">
+                          <figure class="figure-small">
+                            <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/24/660x290/b_300x132/understanding-chris-pauls-hand-fracture-hardwood-paroxysm-hardwoodparoxysmcom_1347205.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/24/660x290/b_300x132/understanding-chris-pauls-hand-fracture-hardwood-paroxysm-hardwoodparoxysmcom_1347205.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                        </div>
+                      </li>
+                                            <li class="foto-big mix last-random ">
+                        <div class="content-video content-about">
+                          <a href="http://us.blastingnews.com/sports/" class="category">Sports</a>
+                          <h2>
+                            <a href="http://us.blastingnews.com/sports/2017/05/tyronn-lue-says-defending-the-celtics-is-harder-than-defending-the-warriors-001725387.html " class="link-title">Tyronn Lue says defending the Celtics is harder than defending the Warriors</a>
+                          </h2>
+                        </div>
+                        <div class="content-figure-small">
+                          <figure class="figure-small">
+                            <img class="link-figure img-responsive lazy" data-original="http://static2.blastingnews.com/media/photogallery/2017/5/25/660x290/b_300x132/whats-rnbas-opinion-of-tyronn-lue-now-nba-redditcom_1348033.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="link-figure img-responsive" src="http://static2.blastingnews.com/media/photogallery/2017/5/25/660x290/b_300x132/whats-rnbas-opinion-of-tyronn-lue-now-nba-redditcom_1348033.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                        </div>
+                      </li>
+                                        </ul>
+
+                </div>
+              
+              
+                          </div>
+
+            <div class="column-right">
+                              <div class="content-section">
+                  <div class="title-section">
+                    World News                  </div>
+                  <div class="custom-nation">
+                    <a href="#">scegli qui i tuoi paesi preferiti >></a>
+                  </div>
+                  <ul>
+                                          <li>
+                        <div class="name-nation">
+                          <a href="http://http://it.blastingnews.com">Italia</a>
+                        </div>
+                        <a class="title" href="http://it.blastingnews.com/cronaca/2017/05/donald-trump-in-sicilia-si-apre-il-g7-001727487.html">
+                          Donald Trump in Sicilia, si apre il G7                        </a>
+                        <a class="author" href="http://it.blastingnews.com/redazione/nicola-digiugno/">N. Digiugno</a>
+                      </li>
+                                          <li>
+                        <div class="name-nation">
+                          <a href="http://http://uk.blastingnews.com">United Kingdom</a>
+                        </div>
+                        <a class="title" href="http://uk.blastingnews.com/politics/2017/05/manchester-arena-attack-another-possible-accomplice-has-been-arrested-001728393.html">
+                          Manchester Arena attack: another possible accomplice has been arrested                        </a>
+                        <a class="author" href="http://uk.blastingnews.com/editorial-staff/ben-sherlock/">B. Sherlock</a>
+                      </li>
+                                          <li>
+                        <div class="name-nation">
+                          <a href="http://http://es.blastingnews.com">España</a>
+                        </div>
+                        <a class="title" href="http://es.blastingnews.com/sociedad/2017/05/comienza-la-feria-del-libro-de-madrid-001727241.html">
+                          Comienza la Feria del Libro de Madrid                        </a>
+                        <a class="author" href="http://es.blastingnews.com/redaccion/laura-bech/">L. Bech</a>
+                      </li>
+                                          <li>
+                        <div class="name-nation">
+                          <a href="http://http://fr.blastingnews.com">France</a>
+                        </div>
+                        <a class="title" href="http://fr.blastingnews.com/societe/2017/05/seine-et-marne-braquage-et-prise-dotages-dans-un-supermarche-001728353.html">
+                          Seine-et-Marne : Braquage et prise d'otages dans un supermarché                        </a>
+                        <a class="author" href="http://fr.blastingnews.com/equipe-editoriale/sophie-bongart/">S. B.</a>
+                      </li>
+                                          <li>
+                        <div class="name-nation">
+                          <a href="http://http://pt.blastingnews.com">Portugal</a>
+                        </div>
+                        <a class="title" href="http://pt.blastingnews.com/opiniao/2017/05/agentes-da-psp-da-cruz-de-pau-sao-agredidos-com-garrafas-e-espancados-001724051.html">
+                          Agentes da PSP da Cruz de Pau são agredidos com garrafas e espancados                        </a>
+                        <a class="author" href="http://pt.blastingnews.com/equipe-editorial/gi-maria/">G. Maria</a>
+                      </li>
+                                          <li>
+                        <div class="name-nation">
+                          <a href="http://http://br.blastingnews.com">Brasil</a>
+                        </div>
+                        <a class="title" href="http://br.blastingnews.com/politica/2017/05/nomes-ja-comecam-a-aparecer-apos-possivel-queda-de-temer-e-eleicao-indireta-001727789.html">
+                          Nomes já começam a aparecer após possível queda de Temer e eleição indireta                        </a>
+                        <a class="author" href="http://br.blastingnews.com/equipe-editorial/dentro-da-politica/">J. V. R. -. DentrodaPolítica</a>
+                      </li>
+                                          <li>
+                        <div class="name-nation">
+                          <a href="http://http://pl.blastingnews.com">Polska</a>
+                        </div>
+                        <a class="title" href="http://pl.blastingnews.com/felietony/2017/05/tusk-tower-czyli-jak-sie-donek-zblaznil-podczas-szczytu-nato-wideo-001726853.html">
+                          Tusk Tower, czyli jak się Donek ZBŁAŹNIŁ podczas szczytu NATO [WIDEO]                        </a>
+                        <a class="author" href="http://pl.blastingnews.com/staff/jolanta-pyrek-ksiezyk/">Nietereska</a>
+                      </li>
+                                          <li>
+                        <div class="name-nation">
+                          <a href="http://http://de.blastingnews.com">Deutschland</a>
+                        </div>
+                        <a class="title" href="http://de.blastingnews.com/politik/2017/05/erhielt-die-deutsche-bank-uber-trump-russisches-geld-001722727.html">
+                          Erhielt die Deutsche Bank über Trump russisches Geld?                        </a>
+                        <a class="author" href="http://de.blastingnews.com/redaktion/sigrid-schulz/">S. Schulz</a>
+                      </li>
+                                          <li>
+                        <div class="name-nation">
+                          <a href="http://http://ro.blastingnews.com">Romania</a>
+                        </div>
+                        <a class="title" href="http://ro.blastingnews.com/showbiz-tv/2017/05/anunt-de-ultima-ora-despre-starea-denisei-manelista-reactia-tatalui-artistei-001723573.html">
+                          Anunț de ultimă oră despre starea Denisei Manelista. Reacția tatălui artistei                        </a>
+                        <a class="author" href="http://ro.blastingnews.com/personalul-editorial/iulia-alexianu/">Monica</a>
+                      </li>
+                    
+                  </ul>
+                </div>
+              
+                              <div class="content-section firme">
+                  <div class="title-section">
+                    Our Wall of Fame                  </div>
+                  <ul>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/chrissie-williams-chrissie-williams/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/1/25/profile_1025649_1485788834.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/1/25/profile_1025649_1485788834.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Chrissie Williams</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/news/2017/05/billy-bush-bush-opens-up-about-donald-trump-and-the-infamous-tape-001720699.html" class="title-article">Billy Bush opens up about Donald Trump and the infamous tape</a>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/emma-vulet/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/4/175/profile_4175979_1487182755.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/4/175/profile_4175979_1487182755.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Emma Vulet</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/news/2017/05/the-charming-italian-town-that-adores-president-trump-001729001.html" class="title-article">The charming Italian town that adores President Trump</a>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/giovanni-gianni-pezzano/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/3/242/profile_3242735_1481962772.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/3/242/profile_3242735_1481962772.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Giovanni (Gianni) Pezzano</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/opinion/2017/04/international-opinion-is-part-of-politics-and-news-001628849.html" class="title-article">International opinion is part of politics and news</a>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/michael-dozierphd/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/82/profile_2082521_1468952178.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/82/profile_2082521_1468952178.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Michael Dozierphd</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/news/2016/07/as-the-world-mourns-another-terrorist-attack-in-france-isis-celebrates-in-the-aftermath-001024757.html" class="title-article">As the world mourns another terrorist attack in France ISIS celebrates in the aftermath</a>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/robert-sobel/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://srs.blastingnews.com/images/blasting.news/sm-user.png" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://srs.blastingnews.com/images/blasting.news/sm-user.png" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Robert Sobel</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/news/2016/09/new-york-city-rocked-details-on-ahmad-rahami-and-the-bombing-in-manhattan-001133121.html" class="title-article">New York City rocked: details on Ahmad Rahami and the bombing in Manhattan</a>
+                      </li>
+                    
+                  </ul>
+                </div>
+              
+                              <div class="content-section firme">
+                  <div class="title-section">
+                    GLOBAL WALL OF FAME                  </div>
+                  <ul>
+                                          <li>
+                        <a href="http://it.blastingnews.com/redazione/pietro-giunti/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/0/524/profile_524967_1431000407.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/0/524/profile_524967_1431000407.jpg" alt=""/>
+                            </noscript>
+                            <i class="flag it"></i>
+                          </figure>
+                          <span class="name">Pietro  Giunti</span>
+                        </a>
+                        <a href="http://it.blastingnews.com/politica/2017/05/elezioni-renzi-corteggia-tutti-m5s-fuori-dai-comuni-001723899.html" class="title-article">Elezioni, Renzi corteggia tutti. M5S fuori dai Comuni</a>
+                      </li>
+                                          <li>
+                        <a href="http://fr.blastingnews.com/equipe-editoriale/julien-chorto/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/65/profile_2065809_1486081237.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/65/profile_2065809_1486081237.jpg" alt=""/>
+                            </noscript>
+                            <i class="flag fr"></i>
+                          </figure>
+                          <span class="name">Julien Chorto</span>
+                        </a>
+                        <a href="http://fr.blastingnews.com/politique/2017/05/richard-ferrand-un-ministre-dans-la-tourmente-001725197.html" class="title-article">Richard Ferrand, un ministre dans la tourmente...</a>
+                      </li>
+                                          <li>
+                        <a href="http://de.blastingnews.com/redaktion/stefan-schmidt/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/3/331/profile_3331141_1480901003.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/3/331/profile_3331141_1480901003.jpg" alt=""/>
+                            </noscript>
+                            <i class="flag de"></i>
+                          </figure>
+                          <span class="name">Team Politik</span>
+                        </a>
+                        <a href="http://de.blastingnews.com/meinung/2017/05/schluss-das-team-politik-zieht-um-uns-sagt-danke-001677451.html" class="title-article">Schluss! Das Team Politik zieht um und sagt Danke.</a>
+                      </li>
+                                          <li>
+                        <a href="http://pl.blastingnews.com/staff/cezary-witkowski/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/0/671/profile_671773_1444478770.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/0/671/profile_671773_1444478770.jpg" alt=""/>
+                            </noscript>
+                            <i class="flag pl"></i>
+                          </figure>
+                          <span class="name">Cezary Witkiewicz</span>
+                        </a>
+                        <a href="http://pl.blastingnews.com/europa/2016/07/doszlo-do-zamachu-terrorystycznego-w-nicei-zginely-co-najmniej-84-osoby-wideo-001016275.html" class="title-article">Doszło do zamachu terrorystycznego w Nicei. Zginęły co najmniej 84 osoby [WIDEO]</a>
+                      </li>
+                                          <li>
+                        <a href="http://pt.blastingnews.com/equipe-editorial/ricardo-santos-1-2/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/0/415/profile_415367_1426170073.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/0/415/profile_415367_1426170073.jpg" alt=""/>
+                            </noscript>
+                            <i class="flag pt"></i>
+                          </figure>
+                          <span class="name">Ricardo Santos</span>
+                        </a>
+                        <a href="http://pt.blastingnews.com/lazer/2017/03/btl-a-feira-ligada-ao-turismo-esteve-mais-uma-vez-em-destaque-001560937.html" class="title-article">BTL: A feira ligada ao turismo esteve mais uma vez em destaque</a>
+                      </li>
+                                      </ul>
+                </div>
+                                            <div class="content-section rubriche">
+                  <div class="title-section">
+                    Opinion <br/> pages                  </div>
+                  <ul>
+                                          <li class="last">
+                        <a href="http://us.blastingnews.com/lifestyle/2017/05/shen-yun-at-newarks-njpac-will-thrill-you-till-may-7-001671179.html">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/1/810/profile_1810897_1464200109.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/1/810/profile_1810897_1464200109.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="rubrica">Everything Music and Theatre</span>
+                          <span class="description">Shen Yun at Newark’s NJPAC will thrill you, till May 7</span>
+                        </a>
+                        <a class="author" href="http://us.blastingnews.com/editorial-staff/richard-carter/">Richard Carter</a>
+                      </li>
+                                        </ul>
+                </div>
+                                <div class="content-section firme-piu-lette">
+                  <div class="title-section">
+                    Most read authors                  </div>
+                  <ul>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/robert-sobel-robert-sobel/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/0/990/profile_990749_1451960177.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/0/990/profile_990749_1451960177.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Robert Sobel</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/showbiz-tv/2017/04/fox-news-host-destroyed-on-twitter-for-making-oral-sex-remark-about-ivanka-trump-001654217.html" class="title-article">Fox News host destroyed on Twitter for making oral sex remark about Ivanka Trump</a>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/mandy-robinson/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/1/505/profile_1505583_1458593342.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/1/505/profile_1505583_1458593342.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Mandy Robinson</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/showbiz-tv/2017/04/josh-duggar-still-in-rehab-for-sex-therapy-two-years-after-scandal-001653779.html" class="title-article">Josh Duggar still in counseling for sex therapy two years after scandal</a>
+                      </li>
+                                          <li>
+                        <a href="https://us.blastingnews.com/editorial-staff/mitchell-oakes/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/4/309/profile_4309075_1487862845.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/4/309/profile_4309075_1487862845.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Mitchell Oakes</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/sports/2017/04/ranking-the-top-five-small-forwards-in-the-nba-001655849.html" class="title-article">Ranking the top five small forwards in the NBA</a>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/leidy-gutierrez/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/406/profile_2406871_1474774895.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/406/profile_2406871_1474774895.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Joselin Gutierrez</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/showbiz-tv/2017/05/russian-youtuber-was-sentenced-to-prison-for-playing-go-pokemon-inside-a-church-001693931.html" class="title-article">Russian Youtuber was sentenced to prison for Playing Pokémon GO inside a church</a>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/asmir-pekmic/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/4/367/profile_4367671_1488672754.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/4/367/profile_4367671_1488672754.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Asmir Pekmic</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/sports/2017/04/dwyane-wade-had-a-big-game-against-boston-but-chicago-bulls-lost-001656055.html" class="title-article">Dwyane Wade had a big game against Boston, but Chicago Bulls lost</a>
+                      </li>
+                                          <li>
+                        <a href="https://us.blastingnews.com/editorial-staff/sergida-dolores-baez/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/149/profile_2149211_1472789627.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/149/profile_2149211_1472789627.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Sergida Dolores Baez</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/showbiz-tv/2017/04/pokemon-go-a-new-change-confirmed-by-niantic-001645815.html" class="title-article">'Pokémon GO': a new change confirmed by Niantic</a>
+                      </li>
+                                          <li>
+                        <a href="https://us.blastingnews.com/editorial-staff/tiffany-bailey/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/70/profile_2070385_1491067200.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/70/profile_2070385_1491067200.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Tiffany Bailey</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/showbiz-tv/2017/04/bethenny-frankel-going-to-trial-with-jason-hoppy-001654101.html" class="title-article">Bethenny Frankel going to trial with Jason Hoppy</a>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/risa-b-foster/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/3/790/profile_3790257_1483440389.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/3/790/profile_3790257_1483440389.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Risa B. Foster</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/news/2017/04/1008-individuals-shot-in-chicago-in-less-than-four-months-001653633.html" class="title-article">1,008 individuals shot in Chicago in less than four months</a>
+                      </li>
+                                          <li>
+                        <a href="https://us.blastingnews.com/editorial-staff/oliver-vandervoort/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/0/658/profile_658919_1486741316.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/0/658/profile_658919_1486741316.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">William Atticus</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/sports/2017/04/two-nebraska-football-graduate-transfers-announce-their-destinations-001618843.html" class="title-article">Two Nebraska football graduate transfers announce their destinations</a>
+                      </li>
+                                      </ul>
+                </div>
+              
+                              <div class="content-section firme-piu-votate">
+                  <div class="title-section">
+                    Top Rated <br/>News                  </div>
+                  <ul>
+                                          <li>
+                        <a href="https://us.blastingnews.com/editorial-staff/james-ledbetter/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/39/profile_2039983_1485974431.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/39/profile_2039983_1485974431.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">James Ledbetter</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/opinion/2017/05/micheal-flynns-right-to-plea-the-5th-001719623.html" class="title-article">Micheal Flynn's right to plea the 5th</a>
+                        <span class="rating">
+                          <i class="fa fa-star yellow " data-rate="1"></i>
+                          <i class="fa fa-star yellow " data-rate="2"></i>
+                          <i class="fa fa-star yellow " data-rate="3"></i>
+                          <i class="fa fa-star yellow " data-rate="4"></i>
+                          <i class="fa fa-star last  yellow " data-rate="5"></i>
+                        </span>
+                        <span class="number-vote">3 votes</span>
+                      </li>
+                                          <li>
+                        <a href="https://us.blastingnews.com/editorial-staff/james-ledbetter/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/39/profile_2039983_1485974431.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/39/profile_2039983_1485974431.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">James Ledbetter</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/opinion/2017/05/new-york-times-latest-bombshell-on-russia-collusion-001725285.html" class="title-article">New York Times latest ‘bombshell’ on Russia collusion</a>
+                        <span class="rating">
+                          <i class="fa fa-star yellow " data-rate="1"></i>
+                          <i class="fa fa-star yellow " data-rate="2"></i>
+                          <i class="fa fa-star yellow " data-rate="3"></i>
+                          <i class="fa fa-star yellow " data-rate="4"></i>
+                          <i class="fa fa-star last  yellow " data-rate="5"></i>
+                        </span>
+                        <span class="number-vote">3 votes</span>
+                      </li>
+                                          <li>
+                        <a href="https://us.blastingnews.com/editorial-staff/james-ledbetter/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/39/profile_2039983_1485974431.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/39/profile_2039983_1485974431.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">James Ledbetter</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/opinion/2017/05/anthony-wiener-enters-a-guilty-plea-for-only-21-to-27-months-001717191.html" class="title-article">Anthony Wiener enters a guilty plea for only 21 to 27 months</a>
+                        <span class="rating">
+                          <i class="fa fa-star yellow " data-rate="1"></i>
+                          <i class="fa fa-star yellow " data-rate="2"></i>
+                          <i class="fa fa-star yellow " data-rate="3"></i>
+                          <i class="fa fa-star yellow " data-rate="4"></i>
+                          <i class="fa fa-star last  yellow " data-rate="5"></i>
+                        </span>
+                        <span class="number-vote">3 votes</span>
+                      </li>
+                                          <li>
+                        <a href="https://us.blastingnews.com/editorial-staff/james-ledbetter/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/39/profile_2039983_1485974431.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/2/39/profile_2039983_1485974431.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">James Ledbetter</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/opinion/2017/05/europes-denial-of-islamic-terrorism-threat-perplexes-security-specialists-001722433.html" class="title-article">Europe’s denial of 'Islamic terrorism threat' perplexes security specialists</a>
+                        <span class="rating">
+                          <i class="fa fa-star yellow " data-rate="1"></i>
+                          <i class="fa fa-star yellow " data-rate="2"></i>
+                          <i class="fa fa-star yellow " data-rate="3"></i>
+                          <i class="fa fa-star yellow " data-rate="4"></i>
+                          <i class="fa fa-star last  yellow " data-rate="5"></i>
+                        </span>
+                        <span class="number-vote">3 votes</span>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/chrissie-williams-chrissie-williams/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/1/25/profile_1025649_1485788834.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/1/25/profile_1025649_1485788834.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Chrissie Williams</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/opinion/2017/05/president-trump-is-confused-on-what-loyalty-really-means-001720913.html" class="title-article">President Trump is confused on what loyalty really means</a>
+                        <span class="rating">
+                          <i class="fa fa-star yellow " data-rate="1"></i>
+                          <i class="fa fa-star yellow " data-rate="2"></i>
+                          <i class="fa fa-star yellow " data-rate="3"></i>
+                          <i class="fa fa-star yellow " data-rate="4"></i>
+                          <i class="fa fa-star last  yellow " data-rate="5"></i>
+                        </span>
+                        <span class="number-vote">2 votes</span>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/anton-cristi/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/0/912/profile_912859_1482246215.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/0/912/profile_912859_1482246215.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Christian F.</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/sports/2017/05/rafael-nadal-as-the-main-favourite-to-win-2017-french-open-001667227.html" class="title-article">Rafael Nadal as the main favourite to win 2017 French Open</a>
+                        <span class="rating">
+                          <i class="fa fa-star yellow " data-rate="1"></i>
+                          <i class="fa fa-star yellow " data-rate="2"></i>
+                          <i class="fa fa-star yellow " data-rate="3"></i>
+                          <i class="fa fa-star yellow " data-rate="4"></i>
+                          <i class="fa fa-star last  yellow " data-rate="5"></i>
+                        </span>
+                        <span class="number-vote">2 votes</span>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/asmir-pekmic/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/4/367/profile_4367671_1488672754.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/4/367/profile_4367671_1488672754.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Asmir Pekmic</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/sports/2017/05/brad-stevens-comments-about-lebron-james-poor-performance-001717511.html" class="title-article">Brad Stevens comments about LeBron James' poor performance</a>
+                        <span class="rating">
+                          <i class="fa fa-star yellow " data-rate="1"></i>
+                          <i class="fa fa-star yellow " data-rate="2"></i>
+                          <i class="fa fa-star yellow " data-rate="3"></i>
+                          <i class="fa fa-star yellow " data-rate="4"></i>
+                          <i class="fa fa-star last  yellow " data-rate="5"></i>
+                        </span>
+                        <span class="number-vote">2 votes</span>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/chrissie-williams-chrissie-williams/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/1/25/profile_1025649_1485788834.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/1/25/profile_1025649_1485788834.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Chrissie Williams</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/showbiz-tv/2017/05/greys-anatomy-spoilers-megans-arrival-causes-chaos-for-owen-and-riggs-001721197.html" class="title-article">'Grey's Anatomy' spoilers: Megan's arrival causes chaos for Owen and Riggs</a>
+                        <span class="rating">
+                          <i class="fa fa-star yellow " data-rate="1"></i>
+                          <i class="fa fa-star yellow " data-rate="2"></i>
+                          <i class="fa fa-star yellow " data-rate="3"></i>
+                          <i class="fa fa-star yellow " data-rate="4"></i>
+                          <i class="fa fa-star last  yellow " data-rate="5"></i>
+                        </span>
+                        <span class="number-vote">2 votes</span>
+                      </li>
+                                          <li>
+                        <a href="http://us.blastingnews.com/editorial-staff/andria-nazdrowie/">
+                          <figure class="figure">
+                            <img class="img-circle lazy" data-original="http://static2.blastingnews.com/media/authors/ba_60x60/profile/3/328/profile_3328963_1491103509.jpg" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQI12P4cgYAArcBwRCJOM8AAAAASUVORK5CYII="/>
+                            <noscript>
+                              <img class="img-circle" src="http://static2.blastingnews.com/media/authors/ba_60x60/profile/3/328/profile_3328963_1491103509.jpg" alt=""/>
+                            </noscript>
+                          </figure>
+                          <span class="name">Cheryl P</span>
+                        </a>
+                        <a href="http://us.blastingnews.com/showbiz-tv/2017/05/bachelorette-spoilers-rachel-lindsays-final-pick-revealed-by-reality-steve-001715975.html" class="title-article">'Bachelorette' spoilers: Rachel Lindsay's final pick revealed by Reality Steve</a>
+                        <span class="rating">
+                          <i class="fa fa-star yellow " data-rate="1"></i>
+                          <i class="fa fa-star yellow " data-rate="2"></i>
+                          <i class="fa fa-star yellow " data-rate="3"></i>
+                          <i class="fa fa-star yellow " data-rate="4"></i>
+                          <i class="fa fa-star last  yellow " data-rate="5"></i>
+                        </span>
+                        <span class="number-vote">2 votes</span>
+                      </li>
+                                      </ul>
+                </div>
+              
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container-button-read">
+      <div class="container ">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="button-read-more">
+                <a href="http://us.blastingnews.com">Read more news</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+          </div>
+
+          <div class="gradient"></div>
+        </div>
+
+      </div>
+
+
+      
+
+      
+      <div class="medium">
+        
+        <!--        <div class="content-slogan">
+                  <div class="box-slogan">
+                                <div class="text-slogan">
+                                  <span class="big">+</span>
+                                  <br/>
+                                  <span class="upper">blaster all around the world</span> 
+                                  <br/>
+                                  <span class="big big-news"> </span>
+                                  <br/>
+                                  <span>news published in the last seven days</span>
+                    
+                                </div>
+                  </div>
+                  <div class="box-slogan-big">
+                    <div class="text-slogan-big">we are <br class="visible-xs">in <span></span> countries</div>
+                  </div>
+                </div>-->
+        <!--        <div class="content-button-join-us">
+                  <div class="box-button-join-us">
+        
+                    <button id="button-join-us" class="btn btn-default btn-md btn-block submit-bottom active" type="submit">
+                      Join us
+                    </button>
+        
+                    <div id="logo-bottom" class="">
+                      blastingnews
+                    </div>
+        
+                  </div>
+                </div>-->
+
+      </div>
+
+
+      <div class="bottom">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-sm-12">     
+
+              <div id="tab" class="hidden-xs">
+                <div class="menu-tab">
+                  <ul class="nav nav-tabs tabs-left">
+                    <li class="active"><a href="#whi-join-us" data-toggle="tab">Why join us</a></li>
+                    <li><a id="compensation-desktop" href="#compensation" data-toggle="tab">Compensation</a></li>
+                    <li><a href="#mission-e-values" data-toggle="tab">Mission & Values</a></li>
+                    <li><a id="location-desktop" href="#location" data-toggle="tab">Locations</a></li>
+                    <li><a href="#editorial-guidelines" data-toggle="tab">Editorial guidelines</a></li>
+                    <li><a href="#for-europe" data-toggle="tab">For Europe</a></li>
+                  </ul>
+                </div>
+
+                <div class="show-tab">
+                  <div class="tab-content">
+                    <div class="tab-pane active" id="whi-join-us">
+                      <p>Blasting News is a fully independent magazine based on the principle of social journalism and powered by the voices of thousands of people called Blasters.  </p><p>Anyone can become a Blaster: you don’t need to have a license card or a gold plate, you don’t need to «get into the circle of journalism». However, Blasting News does not accept a compromise on quality: you will be required to write insightful news, and become an expert on your area of interest, therefore adding values to our brilliant community.</p><p>By joining Blasting News you can:</p><p><b>1. Become a real reporter.</b></p><p><b>2. Become an expert in a particular field.</b><br/>Blasting News promotes high-quality information written by individuals showing a high level of expertise, authority and trustworthiness in their areas of interest. </p><p><b>3. Talk to a global audience of +102 million people.</b></p><p><b>4. Leverage on Blasting News social network.</b></p><p><b>5. Get paid out of your articles.</b><br/>The compensation is based on the number of readers of your news. The higher quality your news will be, the more readers you will reach and the greater will be your income.</p>
+                    </div>
+
+                    <div class="tab-pane" id="compensation">
+                      <div id="tbnCount">
+                        <p>Have you ever dreamed of writing like a true reporter and being rewarded for your stories? You can start writing now, and <b>the more readers you reach, the more money you earn</b>.</p><p><b>Calculate your earnings on Blasting News</b></p><p>Fill in the table and find out how much you will earn.</p><p>The fee is calculated on the basis of the number readers (unique visitors) reached within 30 days from the day of publication of each content.</p>
+                        <h3>Pricing Policy</h3>
+                        <!-- form -->
+                        <form name="tbnCount">
+                          <div>
+                            <label>Country</label>
+                            <select id="countries" name="coutry"></select>
+                          </div>
+
+                          <div>
+                            <label>Article category</label>
+                            <select id="newsCats" name="category"></select>
+                          </div>
+
+                          <div class="normal_rates normal-rates">
+                            <div class="traffic">
+                              <label>Unique views within 30 days</label>
+                              <input type="text" name="views" id="newsViews" style="padding-right:5px !important;"/>
+                            </div>
+
+                            <div class="traffic">
+                              <label>Unique views within 30 days from Social<!--br><span class="text-small">(e.g. News Shared on Facebook)</span--></label>
+                              <input type="text" name="views" id="newsViewsSocial" style="padding-right:5px !important;"/>
+                            </div>
+                          </div>
+                          
+                          <div class="no_country_rates" style="display:none;">
+                            <div class="country_traffic">
+                              <div class="traffic">
+                                <span class="text">Traffic from </span>
+                                <span id="country_name">world</span>
+                              </div>
+
+                              <div class="type-traffic">
+                                <label>Social<!--br><span class="text-small">(e.g. News Shared on Facebook)</span--></label>
+                                <input type="text" name="views" id="newsViewsSocialNormal" style="padding-right:5px !important;"/>
+                              </div>
+
+                              <div class="type-traffic">
+                                <label>Generic</label>
+                                <input type="text" name="views" id="newsViewsNormal" style="padding-right:5px !important;"/>
+                              </div>
+
+                            </div>
+
+                            <div class="no_country_traffic no-country-fraffic">
+                              <div class="traffic">
+                                <span class="text">Traffic from "rest of the world"</span>
+                              </div>
+
+                              <div class="type-traffic">
+                                <label>Social<!--br><span class="text-small">(e.g. News Shared on Facebook)</span--></label>
+                                <input type="text" name="views_no_country" id="newsViewsSocialNoCountry" style="padding-right:5px !important;"/>
+                              </div>
+
+                              <div class="type-traffic">
+                                <label>Generic</label>
+                                <input type="text" name="views_no_country" id="newsViewsNoCountry" style="padding-right:5px !important;"/>
+                              </div>
+
+                            </div>
+                          </div>
+
+                          <div>
+                            <input id="calculateRates" type="button" value="Calculate"/>
+                          </div>
+
+                          <div class="last">
+                            <label>How much you can earn?</label>
+                            <input type="text" name="count" value="0.00 &euro;" class="inputCount" id="ratesAmount" readonly />
+                          </div>
+
+                        </form>
+                        <!-- /form -->
+                        <!--<p id="visual">* To start earning money your content must reach at least 150 unique visitors</p>-->
+                        <h3 class="extrabonus" style="display: none;">Extrabonus!</h3>
+                        <p id="extrabonus" class="extrabonus" style="display: none;">Blasters who are able to earn over 800€ within a month, will be rewarded with a 10% Extrabonus on the total revenues of that month. Test your writing skills now: engage your audience!</p>
+                      </div>
+
+                    </div>
+
+                    <div class="tab-pane" id="mission-e-values">
+                      <p>Blasting News has an ambitious plan: to make our world a better place contributing to forming a truly independent public opinion.</p><p><b>Blasting News' mission is:</b></p><p><b>- giving Blasters an international platform to make their voices stand up.</b></p><p><b>- giving Readers from around the world an independent, authoritative, trustworthy, international news magazine</b> that is fully personalized and based on each reader’s interests.</p><p>Blasting News' core values are:</p><p><b>100% Independent</b><br/>Blasting News encourages a plurality of points of view. Blasting News fosters George Whitefield’s principle “We’ll just have to agree to disagree”.</p><p><b>100% Democratic</b><br/>Blasting News does not have any central editorial office. Quality is not a matter of «Hey, I work in a newsroom!». Blasting News has developed the technology to promote the most interesting, high quality news. </p><p><b>100% Meritocratic</b><br/>Do you write news that people love to read and share? You will receive a  high compensation. You write useless crap? You don’t get paid. The compensation scheme is fully disclosed; money comes from advertisement sold on the pages.</p><p><b>100% Authoritative and Trustworthy</b><br/>Blasting News makes a great effort in identifying and promoting the highest quality news. The quality of the news is guaranteed both by human checking and by algorithms. The human check is performed before the publishing of any news. The algorithms (driven by a Big Data approach) decide which news to promote, to keep alive without promotion or to reject.</p>                    </div>
+
+                    <div class="tab-pane" id="location">
+                      <div id="box-list-nation-desktop" class="content-image box-list-nation">
+                        <!--<img class="img-responsive" src="/images/blasting.news/map-760x350.png?v=1" alt="map of the countries in which it operates blastingnews" />-->
+                                <ul id="list-nation-desktop" class="list-nation">
+                                                                      <li class="opt-country"><a href="http://ar.blastingnews.com" title="Blasting News Argentina">Noticias Argentina</a></li>
+                                                                        <li class="opt-country"><a href="http://au.blastingnews.com" rel="nofollow" title="Blasting News Australia">News Australia</a></li>
+                                                                        <li class="opt-country"><a href="http://br.blastingnews.com" title="Blasting News Brasil">Notícias Brasil</a></li>
+                                                                        <li class="opt-country"><a href="http://de.blastingnews.com" title="Blasting News Deutschland">News Deutschland</a></li>
+                                                                        <li class="opt-country"><a href="http://es.blastingnews.com" title="Blasting News España">Noticias España</a></li>
+                                                                        <li class="opt-country"><a href="http://fr.blastingnews.com" title="Blasting News France">Actualités France</a></li>
+                                                                        <li class="opt-country"><a href="http://it.blastingnews.com" title="Blasting News Italia">News Italia</a></li>
+                                                                        <li class="opt-country"><a href="http://mx.blastingnews.com" title="Blasting News México">Noticias México</a></li>
+                                                                        <li class="opt-country"><a href="http://pl.blastingnews.com" title="Blasting News Polska">News Polska</a></li>
+                                                                        <li class="opt-country"><a href="http://pt.blastingnews.com" title="Blasting News Portugal">Notícias Portugal</a></li>
+                                                                        <li class="opt-country"><a href="http://ro.blastingnews.com" title="Blasting News Romania">News Romania</a></li>
+                                                                        <li class="opt-country"><a href="http://uk.blastingnews.com" title="Blasting News United Kingdom">News UK</a></li>
+                                                                        <li class="opt-country last"><a href="http://us.blastingnews.com" title="Blasting News United States">News United States</a></li>
+                                                                    </ul>
+                      </div>
+                      <p class="be-first">Be the first blaster in your country! Write to <a href="mailto:staff@blastingnews.com">staff@blastingnews.com</a> </p>
+                    </div>
+
+                    <div class="tab-pane" id="editorial-guidelines">
+                      <ol>
+                        <li><b>Blasting News is an open community of reporters, independent bloggers, writers and storytellers from all over the world, called Blasters.</b><br/>Everyone can become a Blaster and get the chance to be a real reporter. </li>
+
+                        <li><b>Blasting News loves experts on any area of interest, and high-quality news.</b><br/>Blasting News promotes only high-quality information written by blasters showing a high level of expertise, authority and trustworthiness in their areas of interest. News and content that does not provide any value to the Blasting News community is not promoted on the magazine or un-published. </li>
+
+                        <li><b>Blasting News strongly believes in independent information made by independent people with different points of view.</b><br/>Blasters can express controversial opinions and are held accountable for what they write by the Blasting News community. Blasting News believes in freedom of speech and respects the laws and traditions of people from different countries and cultures. Blasting News developed a proprietary algorithm that shows appropriate content based on both trending topics and readers’ interests. As a result, articles are sorted regardless of political views or ideologies. Blasting News will continue to improve its algorithm, fine-tuning its technology and providing readers with a wide variety of perspectives on any given story. Blasting News condemns racism, offensive content, pornography, pedophilia or depravities and avoids any race, gender, age, religion, ethnicity, geography, sexual orientation, disability, physical appearance or social status stereotypes.</li>
+
+                        <li><b>Blasters only publish original content, and verify all of the sources and information they use.</b><br/>Blasters don't publish pre-packaged material or advertising content. Each article is scanned by an automated anti-plagiarism technology. As a result, Blasting News will not publish content copied from other sites, or those that violate copyright and trademark rights or content that has a purely promotional objective. Blasters that violate this principle - after a first warning - will be removed from the community. Blasters firmly reject churnalism. </li>
+
+                        <li><b>Blasting News ensures quality and accuracy of its news.</b><br/>
+                          Blasting News adopts several layers of controls to ensure quality and accuracy of the news:<br/><br/>
+
+                          <ul>
+                            <li><b>Control made by algorithms.</b> Blasting News has developed algorithms to ensure the quality of any news. A news item which does not meet the required standards will be both not be approved by the algorithms (and thus not published at all), or will be un-published from the web after a short period of time. </li>
+                            <li><b>Control made by humans.</b> Blasting News has divided Blasters into three categories: junior, mid and senior.</li>
+
+                            <li class="no-list">
+                              <ul>
+                                <li><i>Junior Blasters</i> can only submit news as a “proposal for publication”; the submitted news is reviewed by a Senior Blaster, who has the authority to publish the news, modify it, or reject it.</li>
+
+                                <li><i>Mid Blasters</i> can publish their own news, with no need of Senior Blaster approval.</li>
+
+                                <li><i>Senior Blasters</i> can publish their own news, plus review the news of Junior Blasters. Senior Blasters check the sourcing, ensure the quality of the submitted news, and make sure that the submitted news are not against the law – i.e. pornography, terrorism and other crimes. Senior Blasters do not provide their personal opinions.</li>
+                              </ul>
+                            </li>
+                          </ul>
+
+                          Every blaster can reach the Mid and Senior Level, depending on a huge variety of signals. In short, Mid and Senior Blasters are experts on their areas of interest, have developed a strong background in journalism, and have great writing skills. Becoming a Senior Blaster is a great privilege and a great responsibility.</li>
+
+                        <li><b>Blasting News pays reporters using a meritocratic principle: the number of readers reading their contents within 30 days from the day of publication.</b><br/>The more interesting the news written by a Blaster is, the more that Blaster will earn.</li>
+
+                        <li><b>Blasters create their own personal community of followers on Blasting News.</b><br/>Blasters are encouraged to create their own personal community leveraging on the Blasting News social network, and to entertain their followers sharing great news and great content. Blasters can reach new readers and engage new followers thanks to search engine traffic, but anyone who attempts to manipulate the ranking of the search engines result page - therefore violating search engines policies - will be removed from the community with no prior warning.</li>
+
+                        <li><b>Blasting News encourages meaningful conversations between Blasters and readers.</b><br/>Blasting News ensures the possibility of commenting on each article. Blasting News has the right to edit comments, messages and content submitted by readers.</li>
+
+
+                        <li><b>Blasting News believes in transparency and honesty. Blasting News will correct mistakes promptly.</b><br/>Everyone makes mistakes. Fullness and freshness of information represent two inescapable values for the online journalism world, but we believe that accuracy is equally essential, and Blasting News ensures expediency in making corrections when needed.</li>
+
+                        <li><b>Everything published on Blasting News is protected by international copyright laws.</b><br/>The intellectual property rights of articles and contents belong to Blasting Sagl. The reproduction of any content is permitted only with a prior written permission by Blasting Sagl. If you want to use or revise Blasting News contents, please contact Blasting News staff.</li>
+
+                      </ol>
+                    </div>
+                    <div class="tab-pane" id="for-europe">
+                      <p>Blasting News encourages to share views on how the European Union makes a difference in life of its citizens: good things and bad things. You can read what other people say, and <b>give your contribution about Europe</b>.</p>                      <p><img class="img-responsive" src="images/blasting.news/xeuropa.jpg.pagespeed.ic.J8pB5HC0gq.jpg" alt="europa"/></p>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+
+              <!-- Mobile -->
+              <div id="tab-mobile" class="visible-xs">
+                <div class="menu-tab">
+                  <ul class="nav nav-tabs">
+                    <li>
+                      <a href="javascript:void(0);" class="tab-link-mobile" id="uno-mobile">Why join us                        <!--
+                        <i class="fa fa-angle-down"></i>
+                        <i class="fa fa-angle-up"></i>
+                        -->
+                      </a>
+                      <div class="tab-pane-mobile" id="uno-mobile-box">
+                        <p>Blasting News is a fully independent magazine based on the principle of social journalism and powered by the voices of thousands of people called Blasters.  </p><p>Anyone can become a Blaster: you don’t need to have a license card or a gold plate, you don’t need to «get into the circle of journalism». However, Blasting News does not accept a compromise on quality: you will be required to write insightful news, and become an expert on your area of interest, therefore adding values to our brilliant community.</p><p>By joining Blasting News you can:</p><p><b>1. Become a real reporter.</b></p><p><b>2. Become an expert in a particular field.</b><br/>Blasting News promotes high-quality information written by individuals showing a high level of expertise, authority and trustworthiness in their areas of interest. </p><p><b>3. Talk to a global audience of +40 million people.</b></p><p><b>4. Leverage on Blasting News social network.</b></p><p><b>5. Earn up to 150 € per article.</b><br/>The compensation is based on the number of readers of your news. The higher quality your news will be, the more readers you will reach and the greater will be your income.</p>                      </div>
+                    </li>
+
+                    <li>
+                      <a href="javascript:void(0);" id="due-mobile" class="tab-link-mobile">Compensation</a>
+                      <div class="tab-pane-mobile" id="due-mobile-box">
+                        <div id="tbnCountMobile">
+                          <p>Have you ever dreamed of writing like a true reporter and being rewarded for your stories? You can start writing now, and <b>the more readers you reach, the more money you earn</b>.</p><p><b>Calculate your earnings on Blasting News</b></p><p>Fill in the table and find out how much you will earn.</p><p>The fee is calculated on the basis of the number readers (unique visitors) reached within 30 days from the day of publication of each content.</p>
+                          <h3>Pricing Policy</h3>
+                          <!-- form -->
+                          <form name="tbnCount">
+                            <div>
+                              <label>Country</label>
+                              <select id="countriesMobile" name="coutry"></select>
+                            </div>
+
+                            <div>
+                              <label>Article category</label>
+                              <select id="newsCatsMobile" name="category"></select>
+                            </div>
+                            
+                            <div class="normal_rates_mobile normal-rates-mobile">
+                              <div class="traffic">
+                                <label>Unique views within 30 days</label>
+                                <input type="text" name="views" id="newsViewsMobile" style="padding-right:5px !important;"/>
+                              </div>
+
+                              <div class="traffic">
+                                <label>Unique views within 30 days from Social</label>
+                                <input type="text" name="views" id="newsViewsMobileSocial" style="padding-right:5px !important;"/>
+                              </div>
+                            </div>
+
+                            <div class="no_country_rates_mobile" style="display:none">
+                              <div class="country_traffic_mobile">
+                                <div class="traffic-mobile">
+                                  <span class="text">Traffic from </span>
+                                  <span id="country_name_mobile">world</span>
+                                </div>
+
+                                <div class="type-traffic-mobile">
+                                  <label>Social<!--br><span class="text-small">(e.g. News Shared on Facebook)</span--></label>
+                                  <input type="text" name="views" id="newsViewsMobileSocialNormal" style="padding-right:5px !important;"/>
+                                </div>
+
+                                <div class="type-traffic-mobile">
+                                  <label>Generic</label>
+                                  <input type="text" name="views" id="newsViewsMobileNormal" style="padding-right:5px !important;"/>
+                                </div>
+
+                              </div>
+
+                              <div class="no_country_traffic_mobile no-country-fraffic-mobile">
+                                <div class="traffic-mobile">
+                                  <span class="text">Traffic from "rest of the world"</span>
+                                </div>
+
+                                <div class="type-traffic-mobile">
+                                  <label>Social<!--br><span class="text-small">(e.g. News Shared on Facebook)</span--></label>
+                                  <input type="text" name="views_no_country" id="newsViewsMobileSocialNoCountry" style="padding-right:5px !important;"/>
+                                </div>
+
+                                <div class="type-traffic-mobile">
+                                  <label>Generic</label>
+                                  <input type="text" name="views_no_country" id="newsViewsMobileNoCountry" style="padding-right:5px !important;"/>
+                                </div>
+
+                              </div>
+                            </div>
+                            
+                            <div>
+                              <input id="calculateRatesMobile" type="button" value="Calculate"/>
+                            </div>
+
+                            <div class="last">
+                              <label>How much you can earn?</label>
+                              <input type="text" name="count" value="0.00 &euro;" class="inputCount" id="ratesAmountMobile" readonly />
+                            </div>
+
+                          </form>
+                          <!-- /form -->
+                          <!--<p id="visualMobile">* To start earning money your content must reach at least 150 unique visitors</p>-->
+                          <h3 class="extrabonus" style="display: none;">Extrabonus!</h3>
+                          <p id="extrabonusMobile" class="extrabonus" style="display: none;">Blasters who are able to earn over 800€ within a month, will be rewarded with a 10% Extrabonus on the total revenues of that month. Test your writing skills now: engage your audience!</p>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0);" id="tre-mobile" class="tab-link-mobile">Mission & Values</a>
+                      <div class="tab-pane-mobile" id="tre-mobile-box">
+                        <p>Blasting News has an ambitious plan: to make our world a better place contributing to forming a truly independent public opinion.</p><p><b>Blasting News' mission is:</b></p><p><b>- giving Blasters an international platform to make their voices stand up.</b></p><p><b>- giving Readers from around the world an independent, authoritative, trustworthy, international news magazine</b> that is fully personalized and based on each reader’s interests.</p><p>Blasting News' core values are:</p><p><b>100% Independent</b><br/>Blasting News encourages a plurality of points of view. Blasting News fosters George Whitefield’s principle “We’ll just have to agree to disagree”.</p><p><b>100% Democratic</b><br/>Blasting News does not have any central editorial office. Quality is not a matter of «Hey, I work in a newsroom!». Blasting News has developed the technology to promote the most interesting, high quality news. </p><p><b>100% Meritocratic</b><br/>Do you write news that people love to read and share? You will receive a  high compensation. You write useless crap? You don’t get paid. The compensation scheme is fully disclosed; money comes from advertisement sold on the pages.</p><p><b>100% Authoritative and Trustworthy</b><br/>Blasting News makes a great effort in identifying and promoting the highest quality news. The quality of the news is guaranteed both by human checking and by algorithms. The human check is performed before the publishing of any news. The algorithms (driven by a Big Data approach) decide which news to promote, to keep alive without promotion or to reject.                        </p>
+                      </div>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0);" id="quattro-mobile" class="tab-link-mobile">Location</a>
+                      <div class="tab-pane-mobile" id="quattro-mobile-box">
+                        <div id="box-list-nation-mobile" class="content-image box-list-nation">
+                          <!--<img class="img-responsive" src="/images/blasting.news/map-760x350.png?v=1" alt="map of the countries in which it operates blastingnews" />-->
+                        </div>
+                        <p class="be-first">Be the first blaster in your country! Write to <a href="mailto:staff@blastingnews.com">staff@blastingnews.com</a></p>
+                      </div>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0);" id="cinque-mobile" class="tab-link-mobile">Editorial guidelines</a>
+                      <div class="tab-pane-mobile" id="cinque-mobile-box">
+                        <ol>
+                          <li><b>Blasting News is an open community of reporters, independent bloggers, writers and storytellers from all over the world, called Blasters.</b><br/>Everyone can become a Blaster and get the chance to be a real reporter. </li>
+
+                          <li><b>Blasting News loves experts on any area of interest, and high-quality news.</b><br/>Blasting News promotes only high-quality information written by blasters showing a high level of expertise, authority and trustworthiness in their areas of interest. News and content that does not provide any value to the Blasting News community is not promoted on the magazine or un-published. </li>
+
+
+                          <li><b>Blasting News strongly believes in independent information made by independent people with different points of view.</b><br/>Blasters can express controversial opinions and are held accountable for what they write by the Blasting News community. Blasting News believes in freedom of speech and respects the laws and traditions of people from different countries and cultures. Blasting News developed a proprietary algorithm that shows appropriate content based on both trending topics and readers’ interests. As a result, articles are sorted regardless of political views or ideologies. Blasting News will continue to improve its algorithm, fine-tuning its technology and providing readers with a wide variety of perspectives on any given story. Blasting News condemns racism, offensive content, pornography, pedophilia or depravities and avoids any race, gender, age, religion, ethnicity, geography, sexual orientation, disability, physical appearance or social status stereotypes.</li>
+
+                          <li><b>Blasters only publish original content, and verify all of the sources and information they use.</b><br/>Blasters don't publish pre-packaged material or advertising content. Each article is scanned by an automated anti-plagiarism technology. As a result, Blasting News will not publish content copied from other sites, or those that violate copyright and trademark rights or content that has a purely promotional objective. Blasters that violate this principle - after a first warning - will be removed from the community. Blasters firmly reject churnalism. </li>
+
+                          <li><b>Blasting News ensures quality and accuracy of its news.</b><br/>Blasting News adopts several layers of controls to ensure quality and accuracy of the news:<br/><br/>
+                            <ul>
+                              <li><b>Control made by algorithms.</b> Blasting News has developed algorithms to ensure the quality of any news. A news item which does not meet the required standards will be both not be approved by the algorithms (and thus not published at all), or will be un-published from the web after a short period of time. </li>
+                              <li><b>Control made by humans.</b> Blasting News has divided Blasters into three categories: junior, mid and senior.</li>
+
+                              <li class="no-list">
+                                <ul>
+                                  <li><i>Junior Blasters</i> can only submit news as a “proposal for publication”; the submitted news is reviewed by a Senior Blaster, who has the authority to publish the news, modify it, or reject it.</li>
+
+                                  <li><i>Mid Blasters</i> can publish their own news, with no need of Senior Blaster approval.</li>
+
+                                  <li><i>Senior Blasters</i> can publish their own news, plus review the news of Junior Blasters. Senior Blasters check the sourcing, ensure the quality of the submitted news, and make sure that the submitted news are not against the law – i.e. pornography, terrorism and other crimes. Senior Blasters do not provide their personal opinions.</li>
+                                </ul>
+                              </li>
+                            </ul>
+
+                            Every blaster can reach the Mid and Senior Level, depending on a huge variety of signals. In short, Mid and Senior Blasters are experts on their areas of interest, have developed a strong background in journalism, and have great writing skills. Becoming a Senior Blaster is a great privilege and a great responsibility.</li>
+
+                          <li><b>Blasting News pays reporters using a meritocratic principle: the number of readers reading their contents within 30 days from the day of publication.</b><br/>The more interesting the news written by a Blaster is, the more that Blaster will earn.</li>
+
+                          <li><b>Blasters create their own personal community of followers on Blasting News.</b><br/>Blasters are encouraged to create their own personal community leveraging on the Blasting News social network, and to entertain their followers sharing great news and great content. Blasters can reach new readers and engage new followers thanks to search engine traffic, but anyone who attempts to manipulate the ranking of the search engines result page - therefore violating search engines policies - will be removed from the community with no prior warning.</li>
+
+                          <li><b>Blasting News encourages meaningful conversations between Blasters and readers.</b><br/>Blasting News ensures the possibility of commenting on each article. Blasting News has the right to edit comments, messages and content submitted by readers.</li>
+
+
+                          <li><b>Blasting News believes in transparency and honesty. Blasting News will correct mistakes promptly.</b><br/>Everyone makes mistakes. Fullness and freshness of information represent two inescapable values for the online journalism world, but we believe that accuracy is equally essential, and Blasting News ensures expediency in making corrections when needed.</li>
+
+                          <li><b>Everything published on Blasting News is protected by international copyright laws.</b><br/>The intellectual property rights of articles and contents belong to Blasting Sagl. The reproduction of any content is permitted only with a prior written permission by Blasting Sagl. If you want to use or revise Blasting News contents, please contact Blasting News staff.</li>
+
+                        </ol>
+                      </div>
+                    </li>
+                    <li>
+                      <a href="javascript:void(0);" id="sei-mobile" class="tab-link-mobile">For Europe</a>
+                      <div class="tab-pane-mobile" id="sei-mobile-box">
+                        <p>Blasting News encourages to share views on how the European Union makes a difference in life of its citizens: good things and bad things. You can read what other people say, and <b>give your contribution about Europe</b>.</p>                        <p><img class="img-responsive" src="images/blasting.news/xeuropa.jpg.pagespeed.ic.J8pB5HC0gq.jpg" alt="europa"/></p>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+
+              </div>
+              <!-- /fine Mobile -->
+
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+
+      <div class="footer" itemscope itemtype="http://schema.org/WPFooter">
+
+  
+  
+  
+  
+      <p itemscope="" itemtype="http://schema.org/Organization">
+      <span itemscope="" itemtype="http://schema.org/WebPage">
+        <meta itemprop="publishingPrinciples" content="http://www.blastingnews.com/editorial-policy/"/>
+      </span>
+    <p itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+    
+    <span itemprop="name">Blasting Sagl</span>, IDI CHE-247.845.224, Palazzo Mercurio, Piazza Colonnello Bernasconi 5 - 6830 Chiasso (Switzerland) - © 2013-2022 The Blasting News
+  </p>
+  <div class="list-footer" itemtype="http://schema.org/ItemList" itemscope>
+    <meta content="Footer Links" itemprop="name">
+    <meta content="Unordered" itemprop="itemListOrder">
+    <ul>
+      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="url" href="http://www.blastingnews.com/privacy/" rel="nofollow" target="_blank">
+          Data Security and Privacy        </a> |
+        <meta itemprop="position" content="1"/>
+      </li>
+      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="url" href="http://www.blastingnews.com/staff/" rel="nofollow" target="_blank">
+          Editorial team        </a> |
+        <meta itemprop="position" content="2"/>
+      </li>
+      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="url" href="http://www.blastingnews.com/editorial-policy/" rel="nofollow" target="_blank">
+          Editorial policy        </a> |
+        <meta itemprop="position" content="3"/>
+      </li>
+      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="url" href="http://www.blastingnews.com/contacts/" rel="nofollow" target="_blank">
+          How to contact us        </a>
+        <meta itemprop="position" content="4"/>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="col-sm-12">
+  <div class="footer-bottom">
+      <div id="cookie-content" class="content-cookie">
+    <div class="container">
+      <i class="fa fa-info-circle"></i>
+      <div class="text-cookie">
+        This website uses profiling (non technical) cookies, also third parties cookies, in order to send advertising messages according to user's preferences. To know our policy or to deny the consent for cookies use <a id="#clicca-qui-cookie" href="http://www.blastingnews.com/privacy/" rel="nofollow">click here</a>. If you continue the navigation through accessing each element below or you close this banner you agree to the use of cookies      </div>
+      <i id="close-cookie" class="fa fa-times-circle pol-cookie-accept"></i>
+    </div>
+  </div>
+
+      <!-- Begin comScore Tag -->
+<script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"17805153"});(function(){var s=document.createElement("script"),el=document.getElementsByTagName("script")[0];s.async=true;s.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el);})();</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=17805153&cv=2.0&cj=1" alt="tag score"/>
+</noscript>
+<!-- End comScore Tag -->
+
+
+    
+
+  </div>
+</div>
+
+      
+      <script type="text/javascript">var message_1="Incorrect username or password";var message_2="The service is not available at this time.";var message_3="We have sent a new password to your mailbox.";var message_4="This user profile has been suspended.";var message_5="We couldn't find any account with that email. Please try again.";var message_6="Logout error";var message_7="Your page";var message_8="Enter a valid email address!";var message_33="Sign in";var message_56="Following";var message_57="Follow";var message_88="Join Blasting News";var message_89="";var message_90="Log in to Blasting News <br/> and discover how to become a Social Blaster";var message_91="Join as a Social Blaster";var sc_bl_message_92="Already joined?";var sc_bl_message_93="Click here";var sc_bl_message_94="Back";var sc_bl_message_95="Cancel";var sc_bl_message_96="Login";var message_92="Join 2,269,769 blasters already active on Blasting News and publish your first article";</script>
+      <script type="text/javascript">var message_9="You are moments away from completing the registration!<br /><br /> Check your email and confirm your subscription.";var message_10="Failed to register.";var message_11="Please wait!";var message_12="You are moments away from completing the registration!<br /><br /> Check your email and confirm your subscription.";var message_13="Insert your name";var message_14="Numbers are not allowed in this field";var message_15="Insert your last name";var message_16="Insert your password";var message_17="Insert your email";var message_18="Enter a valid email address";var message_19="Username already exists. Please choose another.";var message_64="Insert your nickname";var welcomeWaitPropagation="Welcome to Blasting News! We are logging you in.";var errorWaitPropagation="Ops... we have some problems. Try to log-in in a few minutes. We are sorry.";var registration_error_01="Hi, please remember that you need to confirm your registration in order to continue.<br />Check your inbox now!";</script>
+
+      <div style="position:absolute; top:0; left: -50000;">
+        <!-- Google Code for Lista Principale -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">var google_conversion_id=1000955903;var google_conversion_label="OYY7CPGl3wQQ_7-l3QM";var google_custom_params=window.google_tag_params;var google_remarketing_only=true;</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div class="pixel-remarketing-remarketing">
+<img height="1" width="1" alt="remarketing google" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000955903/?value=0&amp;label=OYY7CPGl3wQQ_7-l3QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>      </div>
+
+      
+      <script type="text/javascript">var sessRand=1332604297;var message_1="Incorrect username or password";var message_2="The service is not available at this time.";var message_3="We have sent a new password to your mailbox.";var message_4="This user profile has been suspended.";var message_5="We couldn't find any account with that email. Please try again.";var message_6="Logout error";var message_7="Your page";var message_8="Enter a valid email address!";var message_33="Sign in";var message_56="Following";var message_57="Follow";var message_58="world";if(screen.availWidth<=728){device='Mobile';videoWidth=300;videoHeight=349;}else if(screen.availWidth<992){device='Tablet';videoWidth=600;videoHeight=538;}else{device='Desktop';videoWidth=660;videoHeight=592;}
+var alreay_loaded_video=false;</script>
+
+      <script type="text/javascript">var flagLogged=false;var flagCountry=0;var loggedAuthor="";var authorFullname="";var authorName="";var loggedAuthorImage="";var site_url="";var redazione_prefix_url="redazione";var invitation_author_prefix_slug="";var invitation_author_prefix_slug_find_friends="";var user_blaster_page="";var invitation_author_url="";var sessRand=1332604297;var pageAuthorSlug='';var pageAuthorFullname='';var appId="459022437543956";var haveImage=false;</script>
+
+
+
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+      <script type="text/javascript" src="/js/bootstrap.min.js,qv=1.2.1.9888c82ddcb34e519d0964a1fcd7c671.pagespeed.jm.ARbOwLPNvY.js"></script>
+
+      <script>var cdn_resource='http://it.blastingnews.com/';</script>
+
+      <script src="/js/normalize.js+autoNumeric.js+moderniz.js.pagespeed.jc.0UxGblbtzE.js"></script><script>eval(mod_pagespeed_4F9hFnWkkx);</script>
+      <script>eval(mod_pagespeed_SGdFS64ISz);</script>
+      <script>eval(mod_pagespeed_stgnbzxRBT);</script>
+      <script type="text/javascript" src="/js/jwplayer/jwplayer.js,qv=1.2.1.9888c82ddcb34e519d0964a1fcd7c671.pagespeed.jm.lgDbB4sFRI.js"></script>
+      <script type="text/javascript">var blfbsdk_config={config:{appId:'459022437543956',scope:'email,publish_actions,public_profile, user_birthday',locale:'it_IT'}};</script>
+      <script type="text/javascript" src="/js/blasting-fb.js.pagespeed.jm.WuxkGidw_n.js"></script>
+      <script>if(typeof blfbsdk_config!=='undefined'){try{Blasting.FacebookSDK.init(blfbsdk_config);}catch(err){console.log(err);}}</script>
+      <script type="text/javascript" src="/js/social.js,qv=1.8.1.0b8782252247891859c5f9278e00ce58.pagespeed.jm.JLsNUfp1P0.js"></script>
+
+      <script src="library/blastingnews/js/blasting-modal.js+blasting-registration.js.pagespeed.jc.Rl_nu9SWIP.js"></script><script>eval(mod_pagespeed_3SKNz3lxyf);</script>
+      <script>eval(mod_pagespeed_vYGl7yH60r);</script>
+      <script type="text/javascript" src="/js/blasting-follow.js.pagespeed.jm.n5wQsXTS4I.js"></script>
+      <script type="text/javascript" src="/library/blastingnews/js/jquery.lazyload.min.js,qv=1.2.1.9888c82ddcb34e519d0964a1fcd7c671.pagespeed.jm.TLrO8gw0_i.js"></script>
+      <script src="/js/generic.js,qv==1.22.1.bc3221a9ae374bc775a5cdafd0b22eef+menu-mobile.js,qv==1.3.1.b86ca6d98bc685ea26d94c548bc4b526+blasting-modal-functions.js,qv==1.2.1.9888c82ddcb34e519d0964a1fcd7c671.pagespeed.jc.N2QKua9ElH.js"></script><script>eval(mod_pagespeed_qLmbBjWwJ7);</script>
+      <script>eval(mod_pagespeed_JfemBOuRGr);</script>
+      <script>eval(mod_pagespeed_rrEs3vRPh9);</script>
+
+
+
+      <script type="text/javascript">$(document).ready(function(){loginFormEvents();$('.info-tooltip').tooltip();$('body').on("touchstart",function(e){$(".info-tooltip").each(function(){if(!$(this).is(e.target)&&$(this).has(e.target).length===0&&$('.tooltip').has(e.target).length===0){$(this).tooltip('hide');}});});$("#list-nation-desktop").clone().appendTo("#box-list-nation-mobile");$("#all-nation").on('click',function(){deviceWith=window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth;if(deviceWith<992){closeMenu();removeBodyFixed();}
+$('html, body').animate({scrollTop:$("#tab:visible, #tab-mobile:visible").offset().top},2000,function(){$('#location-desktop:visible, #quattro-mobile:visible').not('.active').trigger("click");});});modalLogin($('.box-write-unlogged'));});</script>
+      <!-- respond.js per IE8 -->
+      <!--[if lt IE 9]>
+      <script src="/js/respond.js"></script>
+      <![endif]-->
+
+      <script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-49161965-1']);_gaq.push(['_trackPageview']);_gaq.push(['_gat._anonymizeIp']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+
+            <script type="text/javascript" src="/js/cookie-enabler.js,qv=1.4.1.5143a38b513df96dee2d883ffe3627d0.pagespeed.jm.iU_fIBy7eB.js"></script>
+    <script type="text/javascript">$(document).ready(function(){var scroll_offset=50;if($('#cookie-content').length!=0){$("#cookie-content").slideToggle(1000);$("#close-cookie, #login-button, .follow, .rating, #clicca-qui-cookie, .pol-cookie-accept").click(function(e){$("#cookie-content").slideToggle(800,function(){$("#cookie-content").remove();});});var stop=0;$(function(){var flagToggle=false;var jump=scroll_offset;window.scrollHeight=0;$(window).scroll(function(){if(stop==0){var diff=$(this).scrollTop()-window.scrollHeight;if(diff>=jump&&flagToggle==false){flagToggle=true;window.scrollHeight=$(this).scrollTop();$("#cookie-content").slideToggle(800);stop=1;}}});});}
+COOKIES_ENABLER.init({scriptClass:'cookie-script',acceptClass:'pol-cookie-accept',eventScroll:true,scrollOffset:scroll_offset,cookieName:'cookie-policy-choice',cookieDomain:'.blastingnews.com',cookieDuration:'73000',clickOutside:false});});</script>
+  
+    </body>
+  </html>
+<!-- Generated in 0.0507 seconds. -->
