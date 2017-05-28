@@ -14,6 +14,7 @@
 * Follows a real-world scenario where various information of the books is extracted, and stored in a `.csv` file.
 * Has a `--long` option for perfoming more than one iteration of spider to improve the precision.
 * Has a `--only_results` option for viewing the results only.
+* A micro benchmark that tests LinkExtractor() function by extracting links from a collection of html pages.
 
 ## Installation
 
@@ -70,13 +71,13 @@ My Nginx config file is shared [here](https://github.com/Parth-Vader/Scrapy-Benc
     
 ## Usage
   
-    Usage: scrapy-bench [OPTIONS]
+	Usage: scrapy-bench [OPTIONS] COMMAND [ARGS]...
 
-      A tool for benchmarking your scrapy.
+	  A benchmark suite for Scrapy.
 
-    Options:
-      --long INTEGER  Take multiple readings for the benchmark.
-      --only_result   Display the results only.
-      --help          Show this message and exit.
+	Options:
+	  --help  Show this message and exit.
 
-
+	Commands:
+	  linkextractor  Micro-benchmark for LinkExtractor()
+	  normal         Run a spider to scrape a locally hosted site

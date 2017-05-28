@@ -1,0 +1,1728 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="verify-adnet" content="ffd4ae79269a3c9ea14e746d99c6dc57"/>
+<meta property="fb:pages" content="236367346550727"/>
+<meta property="og:locale" content="vi_VN">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Đại Kỷ Nguyên - Đọc báo, tin tức online 24h">
+<meta property="og:description" content="Tin Tức Online - Thông tin nhanh & mới nhất được cập nhật hàng giờ. Tin tức Việt Nam & thế giới về xã hội, kinh doanh, pháp luật, đời sống, văn hóa, khoa học, công nghệ, sức khoẻ ...">
+<meta property="og:url" content="http://www.daikynguyenvn.com/">
+<meta property="og:site_name" content="Đại Kỷ Nguyên - Đọc báo, tin tức online 24h">
+<meta property="fb:app_id" content="911995198845660">
+<meta property="og:image" content="/wp-content/uploads/2015/01/banner1.jpg">
+<meta name="adx:sections" content="Trang Chủ"/>
+<link rel="profile" href="http://gmpg.org/xfn/11"/>
+<link rel="pingback" href="http://daikynguyenvn.com/xmlrpc.php"/>
+<title>Đại Kỷ Nguyên - Tin tức thời sự 24h, tin nhanh trong ngày, tin thế giới mới nhất</title>
+ 
+<meta name="description" content="Trang tin tức online với nhiều tin mới nổi bật, tổng hợp tin tức 24 giờ qua, tin tức thời sự quan trọng và những tin thế giới mới nhất trong ngày mà bạn cần biết"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://daikynguyenvn.com/"/>
+<link rel="next" href="http://daikynguyenvn.com/page/2"/>
+<link rel="publisher" href="https://plus.google.com/u/0/+Daikynguyenvn"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/daikynguyenvn.com\/","name":"\u0110\u1ea1i K\u1ef7 Nguy\u00ean - \u0110\u1ecdc b\u00e1o, tin t\u1ee9c online 24h","potentialAction":{"@type":"SearchAction","target":"http:\/\/daikynguyenvn.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/daikynguyenvn.com\/","sameAs":["https:\/\/www.facebook.com\/DaiKyNguyenVietnam\/","https:\/\/plus.google.com\/u\/0\/+Daikynguyenvn"],"@id":"#organization","name":"\u0110\u1ea1i K\u1ef7 Nguy\u00ean","logo":"https:\/\/daikynguyenvn.com\/wp-content\/uploads\/2015\/04\/10420146_927578687294658_343755486202534183_n.jpg"}</script>
+ 
+<link rel='dns-prefetch' href='//daikynguyenvn.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/daikynguyenvn.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='contact-form-7-css' href='http://daikynguyenvn.com/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='main-style-css' href='http://daikynguyenvn.com/wp-content/themes/ETvn_v5/style-47.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='tie-ilightbox-skin-css' href='http://daikynguyenvn.com/wp-content/themes/ETvn_v5/css/ilightbox/dark-skin/skin.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='http://daikynguyenvn.com/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all'/>
+<script type='text/javascript' src='http://daikynguyenvn.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://daikynguyenvn.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<link rel='https://api.w.org/' href='http://daikynguyenvn.com/wp-json/'/>
+<link rel="shortcut icon" href="http://daikynguyenvn.com/wp-content/uploads/2016/05/dkn_32x32.ico" title="Favicon"/><meta property="fb:app_id" content="911995198845660"/> <!--[if IE]>
+    <script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+    <![endif]-->
+<!--[if lt IE 9]>
+    <script src="http://daikynguyenvn.com/wp-content/themes/ETvn_v5/js/html5.js"></script>
+    <script src="http://daikynguyenvn.com/wp-content/themes/ETvn_v5/js/selectivizr-min.js"></script>
+    <![endif]-->
+<!--[if IE 9]>
+    <link rel="stylesheet" type="text/css" media="all" href="http://daikynguyenvn.com/wp-content/themes/ETvn_v5/css/ie9.css" />
+    <![endif]-->
+<!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" media="all" href="http://daikynguyenvn.com/wp-content/themes/ETvn_v5/css/ie8.css" />
+    <![endif]-->
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" media="all" href="http://daikynguyenvn.com/wp-content/themes/ETvn_v5/css/ie7.css" />
+    <![endif]-->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://daikynguyenvn.com/wp-content/uploads/2016/05/DKN_144x144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://daikynguyenvn.com/wp-content/uploads/2016/05/DKN_120x120.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://daikynguyenvn.com/wp-content/uploads/2016/05/DKN_72x72.png"/>
+<link rel="apple-touch-icon-precomposed" href="http://daikynguyenvn.com/wp-content/uploads/2016/05/DKN_57x57.png"/>
+<meta property="fb:pages" content="236367346550727"/>
+ 
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"fQGRk1ao6C52mh", domain:"daikynguyenvn.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "http://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="http://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=fQGRk1ao6C52mh" style="display:none" height="1" width="1" alt=""/></noscript>
+ 
+<style type="text/css" media="screen">@media only screen and (min-width: 600px){#cattabs{clear:both;}#main-nav ul ul a,#main-nav .mega-menu-block a{font:400 14px/21px 'roboto',arial;}.widget.most-viewed ul li{border-bottom:1px dashed #e6e6e6;padding-bottom:10px;margin-bottom:10px;}.one-post .post-box-title{max-height:75px!important;}}</style>
+<link href="http://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+<script type='text/javascript'>var _sf_startpt = (new Date()).getTime()</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+<body id="top" class="home blog">
+ 
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.8&appId=911995198845660";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+<div class="wrapper-outer">
+<aside id="slide-out">
+<div class="search-mobile">
+<form method="get" id="searchform-mobile" action="http://daikynguyenvn.com/">
+<button class="search-button" type="submit" value="Tìm Kiếm"><i class="fa fa-search"></i></button>
+<input type="text" id="s-mobile" name="s" placeholder="Tìm kiếm"/>
+</form>
+</div> 
+<div class="social-icons">
+<a class="ttip-none" title="Google+" href="https://plus.google.com/+Daikynguyenvn/posts" target="_blank">
+<i class="fa fa-google-plus"></i></a> <a class="ttip-none" title="Facebook" href="https://www.facebook.com/DaiKyNguyenVietnam/" target="_blank">
+<i class="fa fa-facebook"></i></a> <a class="ttip-none" title="Twitter" href="https://twitter.com/epochtimes" target="_blank">
+<i class="fa fa-twitter"></i></a> </div>
+<div id="mobile-menu"></div>
+</aside> 
+<div id="wrapper" class="wide-layout">
+<div class="inner-wrapper">
+<header id="theme-header" class="theme-header">
+<div class="container">
+<div class="header-content">
+<div class="logo">
+<h1> <a title="Đại Kỷ Nguyên" href="http://daikynguyenvn.com/">
+<img style="margin-top: -10px;" src="http://daikynguyenvn.com/wp-content/themes/ETvn_v5/images/logo.png" alt="Đại Kỷ Nguyên"/>
+<strong>Đại Kỷ NguyênMang đến giá trị cuộc sống, giá trị đạo đức căn bản</strong>
+</a>
+</h1> </div> 
+<div class="top-nav">
+<div class="top-menu">
+<ul id="menu-top-menu" class="menu">
+<li id="menu-item-4068" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-4068">
+<a href="/">Trang chủ</a></li>
+<li id="menu-item-137861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137861">
+<a href="http://www.daikynguyenvn.com/gioi-thieu-ve-chung-toi">Giới Thiệu</a>
+</li>
+</ul>
+</div>
+<div class="second-header-nav">
+<span class="today-date">26 May, 2017</span>
+<span style="line-height: 20px;"> | </span>
+<div class="lang-menu">
+<ul id="menu-languages" class="menu">
+<li id="menu-item-5003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5003">
+<a href="#">21 Ngôn ngữ</a>
+<ul class="sub-menu">
+<li id="menu-item-5004" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5004">
+<a href="http://www.theepochtimes.com/">English</a></li>
+<li id="menu-item-5005" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5005">
+<a href="http://www.epochtimes-bg.com/">Bulgarian</a></li>
+<li id="menu-item-5006" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5006">
+<a href="http://www.epochtimes.com/">Chinese</a></li>
+<li id="menu-item-5007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5007">
+<a href="http://www.velkaepocha.cz/">Czech</a></li>
+<li id="menu-item-5008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5008">
+<a href="http://www.epochtimes.fr/">French</a></li>
+<li id="menu-item-5009" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5009">
+<a href="http://www.epochtimes.de/">German</a></li>
+<li id="menu-item-5010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5010">
+<a href="http://www.epochtimes.co.il/">Hebrew</a></li>
+<li id="menu-item-5011" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5011">
+<a href="http://erabaru.net/">Indonesian</a></li>
+<li id="menu-item-5012" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5012">
+<a href="http://www.epochtimes.it/">Italian</a></li>
+<li id="menu-item-5013" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5013">
+<a href="http://www.epochtimes.jp/">Japanese</a></li>
+<li id="menu-item-5014" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5014">
+<a href="http://www.epochtimes.co.kr/">Korean</a></li>
+<li id="menu-item-5015" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5015">
+<a href="http://persian.epochtimes.com/">Persian</a></li>
+<li id="menu-item-5016" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5016">
+<a href="http://www.epochtimes.com.br/">Portuguese</a></li>
+<li id="menu-item-5017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5017">
+<a href="http://www.epochtimes-romania.com/">Romanian</a></li>
+<li id="menu-item-5018" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5018">
+<a href="http://www.epochtimes.ru/">Russian</a></li>
+<li id="menu-item-5019" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5019">
+<a href="http://www.velkaepocha.sk/">Slovak</a></li>
+<li id="menu-item-5020" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5020">
+<a href="http://www.lagranepoca.com/">Spanish</a></li>
+<li id="menu-item-5021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5021">
+<a href="http://www.epochtimes.se/">Swedish</a></li>
+<li id="menu-item-5022" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5022">
+<a href="http://epochtimestr.com/">Turkish</a></li>
+<li id="menu-item-5023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5023">
+<a title="nofollow" href="http://www.epochtimes.com.ua/">Ukrainian</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="top-right">
+<ul class="header-share">
+<li>
+<a class="share-btn" title="Feed Subscription" href="/feed" target="_blank">
+<span class="share-btn-action share-btn-rss"><i class="fa fa-rss"></i> </span>
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/+Daikynguyenvn/posts" target="_blank">
+<span class="share-btn-action share-btn-plus"><i class="fa fa-google-plus"></i> </span>
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UC-ZKVE7q_BhcSomxfdeHk-A" target="_blank">
+<span class="share-btn-action share-btn-tweet"><i class="fa fa-youtube"></i></span>
+</a>
+</li>
+<li>
+<a href="https://www.facebook.com/DaiKyNguyenVietnam" target="_blank">
+<span class="share-btn-action share-btn-like"><i class="fa fa-facebook"></i></span>
+</a>
+</li>
+</ul>
+<div class="search-block">
+<script>
+                                    (function () {
+                                        var cx = '010175222970486473909:zunhonqofck';
+                                        var gcse = document.createElement('script');
+                                        gcse.type = 'text/javascript';
+                                        gcse.async = true;
+                                        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                                            '//cse.google.com/cse.js?cx=' + cx;
+                                        var s = document.getElementsByTagName('script')[0];
+                                        s.parentNode.insertBefore(gcse, s);
+                                    })();
+                                </script>
+<gcse:search></gcse:search>
+</div> 
+</div>
+<div class="clear"></div>
+</div>
+</div> 
+</header> 
+<nav id="main-nav" class="fixed-enabled">
+<div class="container">
+<a id="slide-out-open" class="slide-out-open" href="#"><span></span></a>
+<div class="main-menu"><ul id="menu-main-menu-v2" class="menu"><li id="menu-item-19191" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-19191"><a href="http://www.daikynguyenvn.com">Trang Chủ</a></li>
+<li id="menu-item-19174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19174 mega-menu mega-cat "><a href="http://daikynguyenvn.com/cat/trong-nuoc">Trong nước</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper"><ul class="mega-cat-sub-categories"><h3><a href="http://daikynguyenvn.com/cat/trong-nuoc" title="Trong nước" target="_blank">Trong nước</a></h3><li><a href="http://daikynguyenvn.com/cat/trong-nuoc/giao-thong" class="menu-link" title="Vào danh mục Giao thông" target="_blank">Giao thông</a></li><li><a href="http://daikynguyenvn.com/cat/trong-nuoc/phong-su-ky-su" class="menu-link" title="Vào danh mục Phóng sự - ký sự" target="_blank">Phóng sự - ký sự</a></li><li><a href="http://daikynguyenvn.com/cat/trong-nuoc/tieu-diem" class="menu-link" title="Vào danh mục Tiêu điểm" target="_blank">Tiêu điểm</a></li><li><a href="http://daikynguyenvn.com/cat/trong-nuoc/tin-tuc-trong-nuoc" class="menu-link" title="Vào danh mục Tin tức trong nước" target="_blank">Tin tức trong nước</a></li></ul> <div class="mega-cat-content mega-cat-sub-exists"><div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/trong-nuoc/nam-sinh-viet-che-tao-canh-tay-robot-duoc-tuyen-thang-vao-dai-hoc.html" title="Nam sinh Việt chế tạo “Cánh tay robot&#8221; được tuyển thẳng vào Đại học"><img src="/wp-content/uploads/2017/05/nam-sinh-canh-tay-r-bot-300x200.jpg" alt="Nam sinh Việt chế tạo “Cánh tay robot&#8221; được tuyển thẳng vào Đại học"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/trong-nuoc/nam-sinh-viet-che-tao-canh-tay-robot-duoc-tuyen-thang-vao-dai-hoc.html" title="Nam sinh Việt chế tạo “Cánh tay robot&#8221; được tuyển thẳng vào Đại học">Nam sinh Việt chế tạo “Cánh tay robot&#8221; được tuyển thẳng vào Đại học</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/trong-nuoc/sai-gon-2-ho-ga-phat-no-nhu-bom-tren-mat-duong.html" title="Sài Gòn: 2 hố ga phát nổ như bom trên mặt đường"><img src="/wp-content/uploads/2017/05/thumb-n-ho-ga-300x200.jpg" alt="Sài Gòn: 2 hố ga phát nổ như bom trên mặt đường"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/trong-nuoc/sai-gon-2-ho-ga-phat-no-nhu-bom-tren-mat-duong.html" title="Sài Gòn: 2 hố ga phát nổ như bom trên mặt đường">Sài Gòn: 2 hố ga phát nổ như bom trên mặt đường</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/trong-nuoc/long-an-nguoi-dan-xon-xao-keo-nhau-di-xem-hoa-quy-3000-nam-moi-no.html" title="Long An: Người dân xôn xao kéo nhau đi xem hoa quý 3000 năm mới nở"><img src="/wp-content/uploads/2017/05/thumb-hoa-300x200.jpg" alt="Long An: Người dân xôn xao kéo nhau đi xem hoa quý 3000 năm mới nở"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/trong-nuoc/long-an-nguoi-dan-xon-xao-keo-nhau-di-xem-hoa-quy-3000-nam-moi-no.html" title="Long An: Người dân xôn xao kéo nhau đi xem hoa quý 3000 năm mới nở">Long An: Người dân xôn xao kéo nhau đi xem hoa quý 3000 năm mới nở</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/trong-nuoc/sai-gon-hanh-dong-dep-sau-nhung-con-mua-ngap-trang-duong.html" title="Sài Gòn: Hành động đẹp sau những cơn mưa ngập trắng đường"><img src="/wp-content/uploads/2017/05/hanh-dong-dep-300x200.jpg" alt="Sài Gòn: Hành động đẹp sau những cơn mưa ngập trắng đường"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/trong-nuoc/sai-gon-hanh-dong-dep-sau-nhung-con-mua-ngap-trang-duong.html" title="Sài Gòn: Hành động đẹp sau những cơn mưa ngập trắng đường">Sài Gòn: Hành động đẹp sau những cơn mưa ngập trắng đường</a></h3>
+</div>  </div>  
+<div class="clear"></div>
+</div>  
+</div> 
+</div> 
+</li>
+<li id="menu-item-19176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19176 mega-menu mega-cat "><a href="http://daikynguyenvn.com/cat/the-gioi">Thế giới</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper"><ul class="mega-cat-sub-categories"><h3><a href="http://daikynguyenvn.com/cat/the-gioi" title="Thế giới" target="_blank">Thế giới</a></h3><li><a href="http://daikynguyenvn.com/cat/the-gioi/goc-nhin-the-gioi" class="menu-link" title="Vào danh mục Góc nhìn" target="_blank">Góc nhìn</a></li><li><a href="http://daikynguyenvn.com/cat/the-gioi/ho-so" class="menu-link" title="Vào danh mục Hồ sơ" target="_blank">Hồ sơ</a></li><li><a href="http://daikynguyenvn.com/cat/the-gioi/nguoi-viet-nam-chau" class="menu-link" title="Vào danh mục Người Việt năm châu" target="_blank">Người Việt năm châu</a></li><li><a href="http://daikynguyenvn.com/cat/the-gioi/the-gioi-do-day" class="menu-link" title="Vào danh mục Thế giới đó đây" target="_blank">Thế giới đó đây</a></li><li><a href="http://daikynguyenvn.com/cat/the-gioi/tin-tuc-the-gioi" class="menu-link" title="Vào danh mục Tin tức thế giới" target="_blank">Tin tức thế giới</a></li></ul> <div class="mega-cat-content mega-cat-sub-exists"><div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/the-gioi/dau-hieu-sos-bi-an-o-uc-khien-canh-sat-boi-roi.html" title="Dấu hiệu SOS bí ẩn ở Úc khiến cảnh sát bối rối"><img src="/wp-content/uploads/2017/05/sos-sign-in-australia-300x200.jpg" alt="Dấu hiệu SOS bí ẩn ở Úc khiến cảnh sát bối rối"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/the-gioi/dau-hieu-sos-bi-an-o-uc-khien-canh-sat-boi-roi.html" title="Dấu hiệu SOS bí ẩn ở Úc khiến cảnh sát bối rối">Dấu hiệu SOS bí ẩn ở Úc khiến cảnh sát bối rối</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/the-gioi/xa-sung-o-ai-cap-khien-hon-50-nguoi-co-doc-giao-thuong-vong.html" title="Xả súng ở Ai Cập khiến hơn 50 người Cơ đốc giáo thương vong"><img src="/wp-content/uploads/2017/05/minya-bus-attack-300x200.jpg" alt="Xả súng ở Ai Cập khiến hơn 50 người Cơ đốc giáo thương vong"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/the-gioi/xa-sung-o-ai-cap-khien-hon-50-nguoi-co-doc-giao-thuong-vong.html" title="Xả súng ở Ai Cập khiến hơn 50 người Cơ đốc giáo thương vong">Xả súng ở Ai Cập khiến hơn 50 người Cơ đốc giáo thương vong</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/the-gioi/thu-tuong-canada-lam-phao-dai-voi-thu-tuong-nhi-trong-van-phong.html" title="Thủ tướng Canada làm pháo đài với &#8216;thủ tướng nhí&#8217; trong văn phòng"><img src="/wp-content/uploads/2017/05/canada0-300x200.jpg" alt="Thủ tướng Canada làm pháo đài với &#8216;thủ tướng nhí&#8217; trong văn phòng"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/the-gioi/thu-tuong-canada-lam-phao-dai-voi-thu-tuong-nhi-trong-van-phong.html" title="Thủ tướng Canada làm pháo đài với &#8216;thủ tướng nhí&#8217; trong văn phòng">Thủ tướng Canada làm pháo đài với &#8216;thủ tướng nhí&#8217; trong văn phòng</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/the-gioi/trung-quoc-thanh-trung-cuu-cong-to-vien-than-can-voi-bang-nhom-thuong-hai.html" title="Trung Quốc thanh trừng cựu công tố viên thân cận với &#8216;Băng nhóm Thượng Hải&#8217;"><img src="/wp-content/uploads/2017/05/trung-quoc-300x200.jpg" alt="Trung Quốc thanh trừng cựu công tố viên thân cận với &#8216;Băng nhóm Thượng Hải&#8217;"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/the-gioi/trung-quoc-thanh-trung-cuu-cong-to-vien-than-can-voi-bang-nhom-thuong-hai.html" title="Trung Quốc thanh trừng cựu công tố viên thân cận với &#8216;Băng nhóm Thượng Hải&#8217;">Trung Quốc thanh trừng cựu công tố viên thân cận với &#8216;Băng nhóm Thượng Hải&#8217;</a></h3>
+</div>  </div>  
+<div class="clear"></div>
+</div>  
+</div> 
+</div> 
+</li>
+<li id="menu-item-19181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19181 mega-menu mega-cat "><a href="http://daikynguyenvn.com/cat/van-hoa">Văn hóa</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper"><ul class="mega-cat-sub-categories"><h3><a href="http://daikynguyenvn.com/cat/van-hoa" title="Văn hóa" target="_blank">Văn hóa</a></h3><li><a href="http://daikynguyenvn.com/cat/van-hoa/cau-chuyen-lich-su" class="menu-link" title="Vào danh mục Câu chuyện lịch sử" target="_blank">Câu chuyện lịch sử</a></li><li><a href="http://daikynguyenvn.com/cat/van-hoa/co-hoc-tinh-hoa" class="menu-link" title="Vào danh mục Cổ học tinh hoa" target="_blank">Cổ học tinh hoa</a></li><li><a href="http://daikynguyenvn.com/cat/van-hoa/kien-giai-van-hoa-van-minh" class="menu-link" title="Vào danh mục Kiến giải văn hoá văn minh" target="_blank">Kiến giải văn hoá văn minh</a></li><li><a href="http://daikynguyenvn.com/cat/van-hoa/nhan-sinh-cam-ngo" class="menu-link" title="Vào danh mục Nhân sinh cảm ngộ" target="_blank">Nhân sinh cảm ngộ</a></li><li><a href="http://daikynguyenvn.com/cat/van-hoa/qua-tang-tam-hon" class="menu-link" title="Vào danh mục Quà tặng tâm hồn" target="_blank">Quà tặng tâm hồn</a></li><li><a href="http://daikynguyenvn.com/cat/van-hoa/van-hoa-than-truyen" class="menu-link" title="Vào danh mục Văn hoá thần truyền" target="_blank">Văn hoá thần truyền</a></li><li><a href="http://daikynguyenvn.com/cat/van-hoa/ve-dep-chan-thien-nhan" class="menu-link" title="Vào danh mục Vẻ đẹp Chân Thiện Nhẫn" target="_blank">Vẻ đẹp Chân Thiện Nhẫn</a></li></ul> <div class="mega-cat-content mega-cat-sub-exists"><div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/van-hoa/song-nua-doi-nguoi-ban-co-tung-biet-hanh-phuc-dich-thuc-rot-cuoc-o-noi-dau.html" title="Đừng nên ở trong hạnh phúc tìm kiếm hạnh phúc"><img src="/wp-content/uploads/2017/05/hanh-phuc-300x200.jpg" alt="Đừng nên ở trong hạnh phúc tìm kiếm hạnh phúc"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/van-hoa/song-nua-doi-nguoi-ban-co-tung-biet-hanh-phuc-dich-thuc-rot-cuoc-o-noi-dau.html" title="Đừng nên ở trong hạnh phúc tìm kiếm hạnh phúc">Đừng nên ở trong hạnh phúc tìm kiếm hạnh phúc</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/van-hoa/nguoi-vo-than-chi-tin-vao-khoa-hoc-cac-nha-khoa-hoc-lai-tin-vao-than-hoc.html" title="Người vô thần chỉ tin vào khoa học, các nhà khoa học lại tin vào Thần học"><img src="/wp-content/uploads/2017/05/than-300x200.jpg" alt="Người vô thần chỉ tin vào khoa học, các nhà khoa học lại tin vào Thần học"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/van-hoa/nguoi-vo-than-chi-tin-vao-khoa-hoc-cac-nha-khoa-hoc-lai-tin-vao-than-hoc.html" title="Người vô thần chỉ tin vào khoa học, các nhà khoa học lại tin vào Thần học">Người vô thần chỉ tin vào khoa học, các nhà khoa học lại tin vào Thần học</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/van-hoa/tren-dau-nguoi-tot-co-vang-quang-mot-doi-mot-kiep-khong-co-tai-uong-hay-xem-ban-co-khong.html" title="Trên đầu người tốt có vầng sáng, dù hổ dữ cũng không hề động tới"><img src="/wp-content/uploads/2017/05/nguoi-tot-1-300x200.jpg" alt="Trên đầu người tốt có vầng sáng, dù hổ dữ cũng không hề động tới"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/van-hoa/tren-dau-nguoi-tot-co-vang-quang-mot-doi-mot-kiep-khong-co-tai-uong-hay-xem-ban-co-khong.html" title="Trên đầu người tốt có vầng sáng, dù hổ dữ cũng không hề động tới">Trên đầu người tốt có vầng sáng, dù hổ dữ cũng không hề động tới</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/van-hoa/bo-ba-kinh-dien-giao-duc-tre-em-truyen-thong-p-1-de-tu-quy-tam-tu-kinh-va-thien-tu-van.html" title="Bộ ba kinh điển giáo dục trẻ em truyền thống (P.1): Những bài học còn nguyên giá trị sau nghìn năm"><img src="/wp-content/uploads/2016/05/giao-duc-truyen-thong-300x200.jpg" alt="Bộ ba kinh điển giáo dục trẻ em truyền thống (P.1): Những bài học còn nguyên giá trị sau nghìn năm"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/van-hoa/bo-ba-kinh-dien-giao-duc-tre-em-truyen-thong-p-1-de-tu-quy-tam-tu-kinh-va-thien-tu-van.html" title="Bộ ba kinh điển giáo dục trẻ em truyền thống (P.1): Những bài học còn nguyên giá trị sau nghìn năm">Bộ ba kinh điển giáo dục trẻ em truyền thống (P.1): Những bài học còn nguyên giá trị sau nghìn năm</a></h3>
+</div>  </div>  
+<div class="clear"></div>
+</div>  
+</div> 
+</div> 
+</li>
+<li id="menu-item-216839" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-216839 mega-menu mega-cat "><a href="http://daikynguyenvn.com/cat/nghe-thuat">Nghệ thuật</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper"><ul class="mega-cat-sub-categories"><h3><a href="http://daikynguyenvn.com/cat/nghe-thuat" title="Nghệ thuật" target="_blank">Nghệ thuật</a></h3><li><a href="http://daikynguyenvn.com/cat/nghe-thuat/am-nhac-nghe-thuat" class="menu-link" title="Vào danh mục Âm nhạc" target="_blank">Âm nhạc</a></li><li><a href="http://daikynguyenvn.com/cat/nghe-thuat/dien-anh" class="menu-link" title="Vào danh mục Điện ảnh" target="_blank">Điện ảnh</a></li><li><a href="http://daikynguyenvn.com/cat/nghe-thuat/hoi-hoa" class="menu-link" title="Vào danh mục Hội họa" target="_blank">Hội họa</a></li><li><a href="http://daikynguyenvn.com/cat/nghe-thuat/kien-truc" class="menu-link" title="Vào danh mục Kiến trúc" target="_blank">Kiến trúc</a></li><li><a href="http://daikynguyenvn.com/cat/nghe-thuat/mua" class="menu-link" title="Vào danh mục Múa" target="_blank">Múa</a></li><li><a href="http://daikynguyenvn.com/cat/nghe-thuat/nhiep-anh" class="menu-link" title="Vào danh mục Nhiếp ảnh" target="_blank">Nhiếp ảnh</a></li><li><a href="http://daikynguyenvn.com/cat/nghe-thuat/van-tho" class="menu-link" title="Vào danh mục Văn thơ" target="_blank">Văn thơ</a></li></ul> <div class="mega-cat-content mega-cat-sub-exists"><div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/nghe-thuat/ban-co-tin-vao-nhung-gi-mat-minh-nhin-thay-khong-hay-tra-loi-cau-hoi-do-sau-khi-xem-xong-bai-nay.html" title="Bạn có tin vào những gì mắt mình nhìn thấy không? Hãy trả lời câu hỏi đó sau khi xem xong bài này"><img src="/wp-content/uploads/2017/05/befunkycollage2-300x200.jpg" alt="Bạn có tin vào những gì mắt mình nhìn thấy không? Hãy trả lời câu hỏi đó sau khi xem xong bài này"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/nghe-thuat/ban-co-tin-vao-nhung-gi-mat-minh-nhin-thay-khong-hay-tra-loi-cau-hoi-do-sau-khi-xem-xong-bai-nay.html" title="Bạn có tin vào những gì mắt mình nhìn thấy không? Hãy trả lời câu hỏi đó sau khi xem xong bài này">Bạn có tin vào những gì mắt mình nhìn thấy không? Hãy trả lời câu hỏi đó sau khi xem xong bài này</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/nghe-thuat/phat-hien-nhung-tai-lieu-khao-co-mo-ta-canh-tuong-nen-van-minh-huy-hoang-qua-khu-ket-thuc-chan-dong-bi-thuong-va-mot-bai-hoc-sau-sac.html" title="Phát hiện những tài liệu khảo cổ mô tả cảnh tượng nền văn minh huy hoàng quá khứ kết thúc: chấn động, bi thương và một bài học sâu sắc"><img src="/wp-content/uploads/2017/05/mu-thumb-300x200.jpg" alt="Phát hiện những tài liệu khảo cổ mô tả cảnh tượng nền văn minh huy hoàng quá khứ kết thúc: chấn động, bi thương và một bài học sâu sắc"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/nghe-thuat/phat-hien-nhung-tai-lieu-khao-co-mo-ta-canh-tuong-nen-van-minh-huy-hoang-qua-khu-ket-thuc-chan-dong-bi-thuong-va-mot-bai-hoc-sau-sac.html" title="Phát hiện những tài liệu khảo cổ mô tả cảnh tượng nền văn minh huy hoàng quá khứ kết thúc: chấn động, bi thương và một bài học sâu sắc">Phát hiện những tài liệu khảo cổ mô tả cảnh tượng nền văn minh huy hoàng quá khứ kết thúc: chấn động, bi thương và một bài học sâu sắc</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/nghe-thuat/van-tho/tho-sac-mau-thang-nam.html" title="Thơ: Sắc màu tháng Năm"><img src="/wp-content/uploads/2016/09/thumbnail-2-300x200.jpg" alt="Thơ: Sắc màu tháng Năm"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/nghe-thuat/van-tho/tho-sac-mau-thang-nam.html" title="Thơ: Sắc màu tháng Năm">Thơ: Sắc màu tháng Năm</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/nghe-thuat/tho-hinh-nhu-qua-khu-ngu-yen.html" title="Thơ: Hình như quá khứ ngủ yên"><img src="/wp-content/uploads/2017/05/hinh_nhu-300x200.png" alt="Thơ: Hình như quá khứ ngủ yên"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/nghe-thuat/tho-hinh-nhu-qua-khu-ngu-yen.html" title="Thơ: Hình như quá khứ ngủ yên">Thơ: Hình như quá khứ ngủ yên</a></h3>
+</div>  </div>  
+<div class="clear"></div>
+</div>  
+</div> 
+</div> 
+</li>
+<li id="menu-item-19183" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19183 mega-menu mega-cat "><a href="http://daikynguyenvn.com/cat/doi-song">Đời sống</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper"><ul class="mega-cat-sub-categories"><h3><a href="http://daikynguyenvn.com/cat/doi-song" title="Đời sống" target="_blank">Đời sống</a></h3><li><a href="http://daikynguyenvn.com/cat/doi-song/am-thuc" class="menu-link" title="Vào danh mục Ẩm thực" target="_blank">Ẩm thực</a></li><li><a href="http://daikynguyenvn.com/cat/doi-song/chiem-tinh" class="menu-link" title="Vào danh mục Chiêm tinh" target="_blank">Chiêm tinh</a></li><li><a href="http://daikynguyenvn.com/cat/doi-song/gia-dinh" class="menu-link" title="Vào danh mục Gia đình" target="_blank">Gia đình</a></li><li><a href="http://daikynguyenvn.com/cat/doi-song/kheo-tay-va-noi-tro" class="menu-link" title="Vào danh mục Khéo tay và nội trợ" target="_blank">Khéo tay và nội trợ</a></li><li><a href="http://daikynguyenvn.com/cat/doi-song/lam-dep" class="menu-link" title="Vào danh mục Làm đẹp" target="_blank">Làm đẹp</a></li><li><a href="http://daikynguyenvn.com/cat/doi-song/song-dep-doi-song" class="menu-link" title="Vào danh mục Sống đẹp" target="_blank">Sống đẹp</a></li></ul> <div class="mega-cat-content mega-cat-sub-exists"><div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/doi-song/cu-7-gio-sang-chu-cho-gia-lai-lang-lang-ra-ngoai-khong-ai-hieu-cho-den-khi-no-qua-doi.html" title="Cứ 7 giờ sáng, chú chó già lại lẳng lặng ra ngoài, không ai hiểu cho đến khi nó qua đời&#8230;"><img src="/wp-content/uploads/2017/05/cho-300x200.jpg" alt="Cứ 7 giờ sáng, chú chó già lại lẳng lặng ra ngoài, không ai hiểu cho đến khi nó qua đời&#8230;"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/doi-song/cu-7-gio-sang-chu-cho-gia-lai-lang-lang-ra-ngoai-khong-ai-hieu-cho-den-khi-no-qua-doi.html" title="Cứ 7 giờ sáng, chú chó già lại lẳng lặng ra ngoài, không ai hiểu cho đến khi nó qua đời&#8230;">Cứ 7 giờ sáng, chú chó già lại lẳng lặng ra ngoài, không ai hiểu cho đến khi nó qua đời&#8230;</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/doi-song/3-linh-vuc-gay-sot-bill-gates-khuyen-sinh-vien-my-tot-nghiep-nam-2017-nhat-dinh-phai-lam.html" title="3 lĩnh vực &#8216;gây sốt&#8217; Bill Gates khuyên sinh viên Mỹ tốt nghiệp năm 2017 nhất định phải làm"><img src="/wp-content/uploads/2017/05/bill6-1-300x200.jpg" alt="3 lĩnh vực &#8216;gây sốt&#8217; Bill Gates khuyên sinh viên Mỹ tốt nghiệp năm 2017 nhất định phải làm"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/doi-song/3-linh-vuc-gay-sot-bill-gates-khuyen-sinh-vien-my-tot-nghiep-nam-2017-nhat-dinh-phai-lam.html" title="3 lĩnh vực &#8216;gây sốt&#8217; Bill Gates khuyên sinh viên Mỹ tốt nghiệp năm 2017 nhất định phải làm">3 lĩnh vực &#8216;gây sốt&#8217; Bill Gates khuyên sinh viên Mỹ tốt nghiệp năm 2017 nhất định phải làm</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/doi-song/cau-be-ngoeo-co-suot-13-nam-duoc-phau-thuat-chinh-hinh-gio-ra-sao.html" title="Cậu bé ngoẹo cổ suốt 13 năm được phẫu thuật chỉnh hình bây giờ ra sao?"><img src="/wp-content/uploads/2017/05/cb1-4-300x200.jpg" alt="Cậu bé ngoẹo cổ suốt 13 năm được phẫu thuật chỉnh hình bây giờ ra sao?"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/doi-song/cau-be-ngoeo-co-suot-13-nam-duoc-phau-thuat-chinh-hinh-gio-ra-sao.html" title="Cậu bé ngoẹo cổ suốt 13 năm được phẫu thuật chỉnh hình bây giờ ra sao?">Cậu bé ngoẹo cổ suốt 13 năm được phẫu thuật chỉnh hình bây giờ ra sao?</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/doi-song/khong-chi-nhan-vien-moi-di-co-toilet-o-nhat-giam-doc-cung-phai-xan-tay-vao-lam.html" title="Không chỉ nhân viên mới đi cọ toilet, ở Nhật, Giám đốc cũng phải xắn tay vào làm"><img src="/wp-content/uploads/2017/05/vs-300x200.jpg" alt="Không chỉ nhân viên mới đi cọ toilet, ở Nhật, Giám đốc cũng phải xắn tay vào làm"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/doi-song/khong-chi-nhan-vien-moi-di-co-toilet-o-nhat-giam-doc-cung-phai-xan-tay-vao-lam.html" title="Không chỉ nhân viên mới đi cọ toilet, ở Nhật, Giám đốc cũng phải xắn tay vào làm">Không chỉ nhân viên mới đi cọ toilet, ở Nhật, Giám đốc cũng phải xắn tay vào làm</a></h3>
+</div>  </div>  
+<div class="clear"></div>
+</div>  
+</div> 
+</div> 
+</li>
+<li id="menu-item-19182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19182 mega-menu mega-cat "><a href="http://daikynguyenvn.com/cat/suc-khoe">Sức khoẻ</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper"><ul class="mega-cat-sub-categories"><h3><a href="http://daikynguyenvn.com/cat/suc-khoe" title="Sức khoẻ" target="_blank">Sức khoẻ</a></h3><li><a href="http://daikynguyenvn.com/cat/suc-khoe/benh-va-thuoc" class="menu-link" title="Vào danh mục Bệnh &amp; thuốc" target="_blank">Bệnh &amp; thuốc</a></li><li><a href="http://daikynguyenvn.com/cat/suc-khoe/dinh-duong" class="menu-link" title="Vào danh mục Dinh dưỡng" target="_blank">Dinh dưỡng</a></li><li><a href="http://daikynguyenvn.com/cat/suc-khoe/lieu-phap-tu-nhien" class="menu-link" title="Vào danh mục Liệu pháp tự nhiên" target="_blank">Liệu pháp tự nhiên</a></li><li><a href="http://daikynguyenvn.com/cat/suc-khoe/ren-luyen-than-tam" class="menu-link" title="Vào danh mục Rèn luyện thân tâm" target="_blank">Rèn luyện thân tâm</a></li><li><a href="http://daikynguyenvn.com/cat/suc-khoe/suc-khoe-24h" class="menu-link" title="Vào danh mục Sức khỏe 24h" target="_blank">Sức khỏe 24h</a></li></ul> <div class="mega-cat-content mega-cat-sub-exists"><div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/suc-khoe/benh-va-thuoc/ky-la-loai-ot-sieu-cay-khong-duoc-an-ma-chi-de-lam-thuoc-gay-te.html" title="Kỳ lạ loại ớt siêu cay, không được ăn mà chỉ để làm thuốc gây tê"><img src="/wp-content/uploads/2017/05/18644392-1499309143465122-512142086-n-1495530057646-0-0-496-800-crop-1495530104412-300x200.png" alt="Kỳ lạ loại ớt siêu cay, không được ăn mà chỉ để làm thuốc gây tê"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/suc-khoe/benh-va-thuoc/ky-la-loai-ot-sieu-cay-khong-duoc-an-ma-chi-de-lam-thuoc-gay-te.html" title="Kỳ lạ loại ớt siêu cay, không được ăn mà chỉ để làm thuốc gây tê">Kỳ lạ loại ớt siêu cay, không được ăn mà chỉ để làm thuốc gây tê</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/suc-khoe/top-19-thuc-pham-giup-ban-quet-don-dong-mach-phong-chong-dot-quy-tot-nhat.html" title="Top 19 thực phẩm giúp bạn &#8216;quét dọn&#8217; động mạch, phòng chống đột quỵ tốt nhất"><img src="/wp-content/uploads/2017/05/tim-mach-1-300x200.jpg" alt="Top 19 thực phẩm giúp bạn &#8216;quét dọn&#8217; động mạch, phòng chống đột quỵ tốt nhất"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/suc-khoe/top-19-thuc-pham-giup-ban-quet-don-dong-mach-phong-chong-dot-quy-tot-nhat.html" title="Top 19 thực phẩm giúp bạn &#8216;quét dọn&#8217; động mạch, phòng chống đột quỵ tốt nhất">Top 19 thực phẩm giúp bạn &#8216;quét dọn&#8217; động mạch, phòng chống đột quỵ tốt nhất</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/suc-khoe/sinh-no-tu-nhien-va-khong-cat-day-ron-nhieu-ba-me-tay-lam-nguoc-han-voi-viet-nam.html" title="Sinh nở tự nhiên và không cắt dây rốn, nhiều bà mẹ Tây làm ngược hẳn với Việt Nam"><img src="/wp-content/uploads/2017/05/img_6565-300x200.jpg" alt="Sinh nở tự nhiên và không cắt dây rốn, nhiều bà mẹ Tây làm ngược hẳn với Việt Nam"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/suc-khoe/sinh-no-tu-nhien-va-khong-cat-day-ron-nhieu-ba-me-tay-lam-nguoc-han-voi-viet-nam.html" title="Sinh nở tự nhiên và không cắt dây rốn, nhiều bà mẹ Tây làm ngược hẳn với Việt Nam">Sinh nở tự nhiên và không cắt dây rốn, nhiều bà mẹ Tây làm ngược hẳn với Việt Nam</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/suc-khoe/dua-muoi-mon-an-dan-da-dung-dung-cach-cho-nhieu-loi-ich-suc-khoe.html" title="Dưa muối: món ăn dân dã, dùng đúng cách cho nhiều lợi ích sức khoẻ"><img src="/wp-content/uploads/2017/05/dua-cai-muoi-1-300x200.jpg" alt="Dưa muối: món ăn dân dã, dùng đúng cách cho nhiều lợi ích sức khoẻ"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/suc-khoe/dua-muoi-mon-an-dan-da-dung-dung-cach-cho-nhieu-loi-ich-suc-khoe.html" title="Dưa muối: món ăn dân dã, dùng đúng cách cho nhiều lợi ích sức khoẻ">Dưa muối: món ăn dân dã, dùng đúng cách cho nhiều lợi ích sức khoẻ</a></h3>
+</div>  </div>  
+<div class="clear"></div>
+</div>  
+</div> 
+</div> 
+</li>
+<li id="menu-item-158172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-158172 mega-menu mega-cat "><a href="http://daikynguyenvn.com/cat/kinh-te">Kinh tế</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper"> <div class="mega-cat-content"><div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/kinh-te/ngan-hang-viet-nam-nao-dang-hao-phong-voi-nhan-vien-nhat.html" title="Ngân hàng Việt Nam nào đang hào phóng với nhân viên nhất?"><img src="/wp-content/uploads/2017/05/2017-05-26_124603-300x200.png" alt="Ngân hàng Việt Nam nào đang hào phóng với nhân viên nhất?"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/kinh-te/ngan-hang-viet-nam-nao-dang-hao-phong-voi-nhan-vien-nhat.html" title="Ngân hàng Việt Nam nào đang hào phóng với nhân viên nhất?">Ngân hàng Việt Nam nào đang hào phóng với nhân viên nhất?</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/kinh-te/soan-ngoi-trung-quoc-han-quoc-tro-thanh-nuoc-ban-may-moc-lon-nhat-cho-viet-nam.html" title="Soán ngôi Trung Quốc, Hàn Quốc trở thành nước bán máy móc lớn nhất cho Việt Nam"><img src="/wp-content/uploads/2017/05/nhap-khau-may-moc-cu-1426673706778-300x200.jpg" alt="Soán ngôi Trung Quốc, Hàn Quốc trở thành nước bán máy móc lớn nhất cho Việt Nam"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/kinh-te/soan-ngoi-trung-quoc-han-quoc-tro-thanh-nuoc-ban-may-moc-lon-nhat-cho-viet-nam.html" title="Soán ngôi Trung Quốc, Hàn Quốc trở thành nước bán máy móc lớn nhất cho Việt Nam">Soán ngôi Trung Quốc, Hàn Quốc trở thành nước bán máy móc lớn nhất cho Việt Nam</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/kinh-te/ve-trung-giai-jackpot-hon-112-ty-dong-duoc-ban-tai-ha-noi.html" title="Vé trúng giải Jackpot hơn 112 tỷ đồng cao nhất từ trước tới nay được bán tại Hà Nội"><img src="/wp-content/uploads/2017/05/18671131_1197468657048851_1923552354720475895_n-300x200.jpg" alt="Vé trúng giải Jackpot hơn 112 tỷ đồng cao nhất từ trước tới nay được bán tại Hà Nội"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/kinh-te/ve-trung-giai-jackpot-hon-112-ty-dong-duoc-ban-tai-ha-noi.html" title="Vé trúng giải Jackpot hơn 112 tỷ đồng cao nhất từ trước tới nay được bán tại Hà Nội">Vé trúng giải Jackpot hơn 112 tỷ đồng cao nhất từ trước tới nay được bán tại Hà Nội</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/kinh-te/tui-dat-mat-trang-nasa-nham-lan-ban-ra-ngoai-chuan-bi-len-san-dau-gia.html" title="Túi đất Mặt trăng NASA nhầm lẫn bán ra ngoài chuẩn bị lên sàn đấu giá"><img src="/wp-content/uploads/2017/05/tui-mat-trang-300x200.jpg" alt="Túi đất Mặt trăng NASA nhầm lẫn bán ra ngoài chuẩn bị lên sàn đấu giá"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/kinh-te/tui-dat-mat-trang-nasa-nham-lan-ban-ra-ngoai-chuan-bi-len-san-dau-gia.html" title="Túi đất Mặt trăng NASA nhầm lẫn bán ra ngoài chuẩn bị lên sàn đấu giá">Túi đất Mặt trăng NASA nhầm lẫn bán ra ngoài chuẩn bị lên sàn đấu giá</a></h3>
+</div>  </div>  
+<div class="clear"></div>
+</div>  
+</div> 
+</div> 
+</li>
+<li id="menu-item-19180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19180 mega-menu mega-cat "><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe">Khoa học &#8211; Công Nghệ</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper"><ul class="mega-cat-sub-categories"><h3><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe" title="Khoa học - Công Nghệ" target="_blank">Khoa học - Công Nghệ</a></h3><li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/bi-an-co-the-nguoi" class="menu-link" title="Vào danh mục Bí ẩn cơ thể người" target="_blank">Bí ẩn cơ thể người</a></li><li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/bi-an-vu-tru" class="menu-link" title="Vào danh mục Bí ẩn vũ trụ" target="_blank">Bí ẩn vũ trụ</a></li><li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/cong-nghe" class="menu-link" title="Vào danh mục Công nghệ" target="_blank">Công nghệ</a></li><li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/khao-co" class="menu-link" title="Vào danh mục Khảo cổ" target="_blank">Khảo cổ</a></li><li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/khoa-hoc-huyen-bi" class="menu-link" title="Vào danh mục Khoa học huyền bí" target="_blank">Khoa học huyền bí</a></li><li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/kien-thuc-huu-ich" class="menu-link" title="Vào danh mục Kiến thức hữu ích" target="_blank">Kiến thức hữu ích</a></li><li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/tin-tuc-kh" class="menu-link" title="Vào danh mục Tin tức khoa học" target="_blank">Tin tức khoa học</a></li><li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/ufo" class="menu-link" title="Vào danh mục UFO" target="_blank">UFO</a></li></ul> <div class="mega-cat-content mega-cat-sub-exists"><div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/khoa-hoc-cong-nghe/5-phuong-phap-phau-thuat-kinh-di-trong-lich-su.html" title="5 phương pháp phẫu thuật kinh dị nhất trong lịch sử, một tổng thống Mỹ từng là nạn nhân"><img src="/wp-content/uploads/2017/05/phuong-phap-phau-thuat-kinh-di-trong-lich-su-9-300x200.jpg" alt="5 phương pháp phẫu thuật kinh dị nhất trong lịch sử, một tổng thống Mỹ từng là nạn nhân"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/khoa-hoc-cong-nghe/5-phuong-phap-phau-thuat-kinh-di-trong-lich-su.html" title="5 phương pháp phẫu thuật kinh dị nhất trong lịch sử, một tổng thống Mỹ từng là nạn nhân">5 phương pháp phẫu thuật kinh dị nhất trong lịch sử, một tổng thống Mỹ từng là nạn nhân</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/khoa-hoc-cong-nghe/to-tien-chung-ta-su-dung-chat-lieu-ngoai-hanh-tinh-de-che-tao-do-trang-suc.html" title="Phát hiện hạt kim loại nghìn năm tuổi từ thiên thạch của thổ dân bản địa Mỹ"><img src="/wp-content/uploads/2017/05/thien-thach-che-tao-do-trang-suc-5-300x200.jpg" alt="Phát hiện hạt kim loại nghìn năm tuổi từ thiên thạch của thổ dân bản địa Mỹ"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/khoa-hoc-cong-nghe/to-tien-chung-ta-su-dung-chat-lieu-ngoai-hanh-tinh-de-che-tao-do-trang-suc.html" title="Phát hiện hạt kim loại nghìn năm tuổi từ thiên thạch của thổ dân bản địa Mỹ">Phát hiện hạt kim loại nghìn năm tuổi từ thiên thạch của thổ dân bản địa Mỹ</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/khoa-hoc-cong-nghe/khao-co/bo-xuong-nguoi-khong-lo-cao-7-met-o-ecuador.html" title="Bộ xương người khổng lồ cao 7 mét ở Ecuador"><img src="/wp-content/uploads/2017/05/bo-xuong-khong-lo-ecuador-1-300x200.jpg" alt="Bộ xương người khổng lồ cao 7 mét ở Ecuador"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/khoa-hoc-cong-nghe/khao-co/bo-xuong-nguoi-khong-lo-cao-7-met-o-ecuador.html" title="Bộ xương người khổng lồ cao 7 mét ở Ecuador">Bộ xương người khổng lồ cao 7 mét ở Ecuador</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/khoa-hoc-cong-nghe/cac-bac-si-loi-ra-ca-mot-con-gian-song-trong-dau-nguoi-phu-nu.html" title="Thiên nhân cảm ứng: Hành tinh trong Hệ Mặt Trời xếp hình giống cây Thánh giá vào đúng ngày Chúa Jesus bị hành hình"><img src="/wp-content/uploads/2017/05/hanh-tinh-he-mat-troi-chua-jesus-2-300x200.jpg" alt="Thiên nhân cảm ứng: Hành tinh trong Hệ Mặt Trời xếp hình giống cây Thánh giá vào đúng ngày Chúa Jesus bị hành hình"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/khoa-hoc-cong-nghe/cac-bac-si-loi-ra-ca-mot-con-gian-song-trong-dau-nguoi-phu-nu.html" title="Thiên nhân cảm ứng: Hành tinh trong Hệ Mặt Trời xếp hình giống cây Thánh giá vào đúng ngày Chúa Jesus bị hành hình">Thiên nhân cảm ứng: Hành tinh trong Hệ Mặt Trời xếp hình giống cây Thánh giá vào đúng ngày Chúa Jesus bị hành hình</a></h3>
+</div>  </div>  
+<div class="clear"></div>
+</div>  
+</div> 
+</div> 
+</li>
+<li id="menu-item-19185" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19185 mega-menu mega-cat "><a href="http://daikynguyenvn.com/cat/tin-giai-tri">Giải trí</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper"><ul class="mega-cat-sub-categories"><h3><a href="http://daikynguyenvn.com/cat/tin-giai-tri" title="Giải trí" target="_blank">Giải trí</a></h3><li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/am-nhac" class="menu-link" title="Vào danh mục Âm nhạc" target="_blank">Âm nhạc</a></li><li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/chuyen-la" class="menu-link" title="Vào danh mục Chuyện lạ" target="_blank">Chuyện lạ</a></li><li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/tin-du-lich" class="menu-link" title="Vào danh mục Du lịch" target="_blank">Du lịch</a></li><li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/dien-anh-truyen-hinh" class="menu-link" title="Vào danh mục Điện ảnh – Truyền hình" target="_blank">Điện ảnh – Truyền hình</a></li><li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/gioi-sao" class="menu-link" title="Vào danh mục Giới sao" target="_blank">Giới sao</a></li><li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/the-thao" class="menu-link" title="Vào danh mục Thể thao" target="_blank">Thể thao</a></li><li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/thoi-trang" class="menu-link" title="Vào danh mục Thời trang" target="_blank">Thời trang</a></li></ul> <div class="mega-cat-content mega-cat-sub-exists"><div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/tin-giai-tri/tin-tac-doi-tien-chuoc-cuop-bien-vung-caribbean.html" title="Tin tặc đòi tiền chuộc &#8216;Cướp biển vùng Caribbean&#8217;"><img src="/wp-content/uploads/2017/05/potcbackglass_lg-300x200.jpg" alt="Tin tặc đòi tiền chuộc &#8216;Cướp biển vùng Caribbean&#8217;"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/tin-giai-tri/tin-tac-doi-tien-chuoc-cuop-bien-vung-caribbean.html" title="Tin tặc đòi tiền chuộc &#8216;Cướp biển vùng Caribbean&#8217;">Tin tặc đòi tiền chuộc &#8216;Cướp biển vùng Caribbean&#8217;</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/tin-giai-tri/the-thao/ronaldo-hay-buffon-moi-xung-dang-gianh-qua-bong-vang.html" title="Ronaldo hay Buffon mới xứng đáng giành &#8216;Quả bóng vàng&#8217;?"><img src="/wp-content/uploads/2017/05/dairoooo-300x200.jpg" alt="Ronaldo hay Buffon mới xứng đáng giành &#8216;Quả bóng vàng&#8217;?"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/tin-giai-tri/the-thao/ronaldo-hay-buffon-moi-xung-dang-gianh-qua-bong-vang.html" title="Ronaldo hay Buffon mới xứng đáng giành &#8216;Quả bóng vàng&#8217;?">Ronaldo hay Buffon mới xứng đáng giành &#8216;Quả bóng vàng&#8217;?</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/tin-giai-tri/the-thao/messi-tu-choi-gia-han-hop-dong-voi-barca.html" title="Messi từ chối gia hạn hợp đồng với Barca"><img src="/wp-content/uploads/2017/05/daim-300x200.jpg" alt="Messi từ chối gia hạn hợp đồng với Barca"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/tin-giai-tri/the-thao/messi-tu-choi-gia-han-hop-dong-voi-barca.html" title="Messi từ chối gia hạn hợp đồng với Barca">Messi từ chối gia hạn hợp đồng với Barca</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/tin-giai-tri/the-thao/nhung-ky-luc-duoc-ronaldo-thiet-lap-o-tran-real-3-0-atletico.html" title="Lập hat-trick &#8216;nhấn chìm&#8217; Atletico, Ronaldo thiết lập 6 kỷ lục mới"><img src="/wp-content/uploads/2017/05/ky-luc-moi-duoc-ronaldo-lap-300x200.jpg" alt="Lập hat-trick &#8216;nhấn chìm&#8217; Atletico, Ronaldo thiết lập 6 kỷ lục mới"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/tin-giai-tri/the-thao/nhung-ky-luc-duoc-ronaldo-thiet-lap-o-tran-real-3-0-atletico.html" title="Lập hat-trick &#8216;nhấn chìm&#8217; Atletico, Ronaldo thiết lập 6 kỷ lục mới">Lập hat-trick &#8216;nhấn chìm&#8217; Atletico, Ronaldo thiết lập 6 kỷ lục mới</a></h3>
+</div>  </div>  
+<div class="clear"></div>
+</div>  
+</div> 
+</div> 
+</li>
+<li id="menu-item-19189" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19189 mega-menu mega-cat "><a href="http://daikynguyenvn.com/cat/video-clip">Video</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper"><ul class="mega-cat-sub-categories"><h3><a href="http://daikynguyenvn.com/cat/video-clip" title="Video" target="_blank">Video</a></h3><li><a href="http://daikynguyenvn.com/cat/video-clip/bi-an" class="menu-link" title="Vào danh mục Bí ẩn" target="_blank">Bí ẩn</a></li><li><a href="http://daikynguyenvn.com/cat/video-clip/cong-nghe-video-clip" class="menu-link" title="Vào danh mục Công nghệ" target="_blank">Công nghệ</a></li><li><a href="http://daikynguyenvn.com/cat/video-clip/du-lich-video-clip" class="menu-link" title="Vào danh mục Du lịch" target="_blank">Du lịch</a></li><li><a href="http://daikynguyenvn.com/cat/video-clip/doi-song-video-clip" class="menu-link" title="Vào danh mục Đời sống" target="_blank">Đời sống</a></li><li><a href="http://daikynguyenvn.com/cat/video-clip/dong-vat" class="menu-link" title="Vào danh mục Động vật" target="_blank">Động vật</a></li><li><a href="http://daikynguyenvn.com/cat/video-clip/giai-tri-video-clip" class="menu-link" title="Vào danh mục Giải Trí" target="_blank">Giải Trí</a></li><li><a href="http://daikynguyenvn.com/cat/video-clip/kheo-tay-video-clip" class="menu-link" title="Vào danh mục Khéo tay" target="_blank">Khéo tay</a></li><li><a href="http://daikynguyenvn.com/cat/video-clip/lam-dep-video-clip" class="menu-link" title="Vào danh mục Làm đẹp" target="_blank">Làm đẹp</a></li><li><a href="http://daikynguyenvn.com/cat/video-clip/nghe-thuat-than-van-video-clip" class="menu-link" title="Vào danh mục Nghệ thuật Thần Vận" target="_blank">Nghệ thuật Thần Vận</a></li><li><a href="http://daikynguyenvn.com/cat/video-clip/suc-khoe-video-clip" class="menu-link" title="Vào danh mục Sức khoẻ" target="_blank">Sức khoẻ</a></li><li><a href="http://daikynguyenvn.com/cat/video-clip/the-thao-video-clip" class="menu-link" title="Vào danh mục Thể thao" target="_blank">Thể thao</a></li><li><a href="http://daikynguyenvn.com/cat/video-clip/trung-quoc-video-clip" class="menu-link" title="Vào danh mục Trung Quốc" target="_blank">Trung Quốc</a></li><li><a href="http://daikynguyenvn.com/cat/video-clip/xe" class="menu-link" title="Vào danh mục Xe" target="_blank">Xe</a></li></ul> <div class="mega-cat-content mega-cat-sub-exists"><div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/video-clip/the-thao-video-clip/du-dam-cuoi-cua-messi-ronaldo-se-tang-mon-qua-gi.html" title="Dự đám cưới của Messi, Ronaldo sẽ tặng món quà gì?"><img src="/wp-content/uploads/2017/05/daitragn-300x200.jpg" alt="Dự đám cưới của Messi, Ronaldo sẽ tặng món quà gì?"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/video-clip/the-thao-video-clip/du-dam-cuoi-cua-messi-ronaldo-se-tang-mon-qua-gi.html" title="Dự đám cưới của Messi, Ronaldo sẽ tặng món quà gì?">Dự đám cưới của Messi, Ronaldo sẽ tặng món quà gì?</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/video-clip/suc-khoe-video-clip/bi-mat-tinh-cach-va-loi-ich-suc-khoe-trong-tu-the-ngu-cua-ban.html" title="Bí mật tính cách và lợi ích sức khỏe trong tư thế ngủ của bạn?"><img src="/wp-content/uploads/2017/04/tu-the-ngu-300x200.jpg" alt="Bí mật tính cách và lợi ích sức khỏe trong tư thế ngủ của bạn?"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/video-clip/suc-khoe-video-clip/bi-mat-tinh-cach-va-loi-ich-suc-khoe-trong-tu-the-ngu-cua-ban.html" title="Bí mật tính cách và lợi ích sức khỏe trong tư thế ngủ của bạn?">Bí mật tính cách và lợi ích sức khỏe trong tư thế ngủ của bạn?</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/video-clip/suc-khoe-video-clip/nguoi-thanh-manh-nhung-van-beo-bung-lam-the-nao-de-lay-lai-dang-voc.html" title="Người thanh mảnh nhưng vẫn béo bụng, làm thế nào để lấy lại dáng vóc?"><img src="/wp-content/uploads/2017/03/beo-bung-1-300x200.jpg" alt="Người thanh mảnh nhưng vẫn béo bụng, làm thế nào để lấy lại dáng vóc?"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/video-clip/suc-khoe-video-clip/nguoi-thanh-manh-nhung-van-beo-bung-lam-the-nao-de-lay-lai-dang-voc.html" title="Người thanh mảnh nhưng vẫn béo bụng, làm thế nào để lấy lại dáng vóc?">Người thanh mảnh nhưng vẫn béo bụng, làm thế nào để lấy lại dáng vóc?</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/video-clip/phong-van-dac-biet-khi-du-khach-trung-quoc-lan-dau-tien-nghe-duoc-su-that-ve-chinh-dat-nuoc-minh-tai-viet-nam.html" title="Phỏng vấn đặc biệt: Khi du khách Trung Quốc lần đầu tiên nghe được sự thật về chính đất nước mình… tại Việt Nam"><img src="/wp-content/uploads/2017/02/Phỏng-vấn-đặc-biệt-300x200.jpg" alt="Phỏng vấn đặc biệt: Khi du khách Trung Quốc lần đầu tiên nghe được sự thật về chính đất nước mình… tại Việt Nam"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/video-clip/phong-van-dac-biet-khi-du-khach-trung-quoc-lan-dau-tien-nghe-duoc-su-that-ve-chinh-dat-nuoc-minh-tai-viet-nam.html" title="Phỏng vấn đặc biệt: Khi du khách Trung Quốc lần đầu tiên nghe được sự thật về chính đất nước mình… tại Việt Nam">Phỏng vấn đặc biệt: Khi du khách Trung Quốc lần đầu tiên nghe được sự thật về chính đất nước mình… tại Việt Nam</a></h3>
+</div>  </div>  
+<div class="clear"></div>
+</div>  
+</div> 
+</div> 
+</li>
+<li id="menu-item-142856" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142856 mega-menu mega-cat "><a href="http://daikynguyenvn.com/cat/anh-dep">Ảnh Đẹp</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper"> <div class="mega-cat-content"><div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/anh-dep/thang-5-ruc-ro-ve-dep-cua-su-that-va-niem-tin-khong-bao-gio-mat-vao-chinh-nghia.html" title="Tháng 5 rực rỡ &#8211; Vẻ đẹp của Sự thật và niềm tin không bao giờ mất vào Chính nghĩa"><img src="/wp-content/uploads/2017/05/phap-luan-dai-phap-3-300x200.jpg" alt="Tháng 5 rực rỡ &#8211; Vẻ đẹp của Sự thật và niềm tin không bao giờ mất vào Chính nghĩa"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/anh-dep/thang-5-ruc-ro-ve-dep-cua-su-that-va-niem-tin-khong-bao-gio-mat-vao-chinh-nghia.html" title="Tháng 5 rực rỡ &#8211; Vẻ đẹp của Sự thật và niềm tin không bao giờ mất vào Chính nghĩa">Tháng 5 rực rỡ &#8211; Vẻ đẹp của Sự thật và niềm tin không bao giờ mất vào Chính nghĩa</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/anh-dep/100-nam-truoc-nguoi-xua-nghi-gi-ve-chung-ta.html" title="100 năm trước người xưa nghĩ gì về chúng ta?"><img src="/wp-content/uploads/2016/07/100-nam-truoc-dai-dien-300x200.jpg" alt="100 năm trước người xưa nghĩ gì về chúng ta?"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/anh-dep/100-nam-truoc-nguoi-xua-nghi-gi-ve-chung-ta.html" title="100 năm trước người xưa nghĩ gì về chúng ta?">100 năm trước người xưa nghĩ gì về chúng ta?</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/nghe-thuat/bo-suu-tap-anh-theo-chan-tho-san-phan-2-ta-xua-thien-duong-may.html" title="Bộ sưu tập ảnh &#8220;THEO CHÂN THỢ SĂN&#8221; &#8211; Phần 2: Tà Xùa &#8211; Thiên đường mây"><img src="/wp-content/uploads/2017/05/00-thum1-300x200.jpg" alt="Bộ sưu tập ảnh &#8220;THEO CHÂN THỢ SĂN&#8221; &#8211; Phần 2: Tà Xùa &#8211; Thiên đường mây"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/nghe-thuat/bo-suu-tap-anh-theo-chan-tho-san-phan-2-ta-xua-thien-duong-may.html" title="Bộ sưu tập ảnh &#8220;THEO CHÂN THỢ SĂN&#8221; &#8211; Phần 2: Tà Xùa &#8211; Thiên đường mây">Bộ sưu tập ảnh &#8220;THEO CHÂN THỢ SĂN&#8221; &#8211; Phần 2: Tà Xùa &#8211; Thiên đường mây</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/anh-dep/tinh-yeu-giua-hai-nguoi-luon-ton-tai-mot-trong-nhung-dieu-nho-nhat-nhu-vay.html" title="Bộ tranh thế giới tình yêu dạy chúng ta sống yêu thương từ những việc nhỏ nhất"><img src="/wp-content/uploads/2017/03/anh1-1-300x200.jpg" alt="Bộ tranh thế giới tình yêu dạy chúng ta sống yêu thương từ những việc nhỏ nhất"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/anh-dep/tinh-yeu-giua-hai-nguoi-luon-ton-tai-mot-trong-nhung-dieu-nho-nhat-nhu-vay.html" title="Bộ tranh thế giới tình yêu dạy chúng ta sống yêu thương từ những việc nhỏ nhất">Bộ tranh thế giới tình yêu dạy chúng ta sống yêu thương từ những việc nhỏ nhất</a></h3>
+</div>  </div>  
+<div class="clear"></div>
+</div>  
+</div> 
+</div> 
+</li>
+<li id="menu-item-49411" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-49411 mega-menu mega-cat "><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh">Học Tiếng Anh</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper"><ul class="mega-cat-sub-categories"><h3><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh" title="Học Tiếng Anh" target="_blank">Học Tiếng Anh</a></h3><li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/bai-hoc-thu-vi" class="menu-link" title="Vào danh mục Bài học thú vị" target="_blank">Bài học thú vị</a></li><li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/bi-quyet-hoc" class="menu-link" title="Vào danh mục Bí quyết học" target="_blank">Bí quyết học</a></li><li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/hoc-va-choi" class="menu-link" title="Vào danh mục Học và chơi" target="_blank">Học và chơi</a></li><li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/kien-thuc-thong-dung" class="menu-link" title="Vào danh mục Kiến thức thông dụng" target="_blank">Kiến thức thông dụng</a></li><li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/luyen-tap" class="menu-link" title="Vào danh mục Luyện tập" target="_blank">Luyện tập</a></li><li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/ngu-phap-tieng-anh" class="menu-link" title="Vào danh mục Ngữ pháp tiếng Anh" target="_blank">Ngữ pháp tiếng Anh</a></li><li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/phan-biet-tu-dong-nghia" class="menu-link" title="Vào danh mục Phân biệt từ đồng nghĩa" target="_blank">Phân biệt từ đồng nghĩa</a></li><li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/tu-vung-theo-chu-de" class="menu-link" title="Vào danh mục Từ vựng theo chủ đề" target="_blank">Từ vựng theo chủ đề</a></li></ul> <div class="mega-cat-content mega-cat-sub-exists"><div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/hoc-tieng-anh/hoc-va-choi/10-cau-tieng-anh-lam-ban-xoan-luoi.html" title="10 câu tiếng Anh làm bạn &#8216;xoắn&#8217; lưỡi"><img src="/wp-content/uploads/2017/05/44-ngu-am-trong-tieng-anh-va-cach-phat-am-dung3-300x200.jpg" alt="10 câu tiếng Anh làm bạn &#8216;xoắn&#8217; lưỡi"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/hoc-tieng-anh/hoc-va-choi/10-cau-tieng-anh-lam-ban-xoan-luoi.html" title="10 câu tiếng Anh làm bạn &#8216;xoắn&#8217; lưỡi">10 câu tiếng Anh làm bạn &#8216;xoắn&#8217; lưỡi</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/hoc-tieng-anh/tu-vung-theo-chu-de/tu-vung-chu-de-giac-ngu.html" title="Từ vựng chủ đề: Giấc ngủ"><img src="/wp-content/uploads/2017/05/hinh-anh-em-be-dep7-300x200.jpg" alt="Từ vựng chủ đề: Giấc ngủ"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/hoc-tieng-anh/tu-vung-theo-chu-de/tu-vung-chu-de-giac-ngu.html" title="Từ vựng chủ đề: Giấc ngủ">Từ vựng chủ đề: Giấc ngủ</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/hoc-tieng-anh/hoc-va-choi/hoc-tu-vung-qua-danh-ngon-96.html" title="Học từ vựng qua danh ngôn"><img src="/wp-content/uploads/2017/05/dn-300x200.jpg" alt="Học từ vựng qua danh ngôn"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/hoc-tieng-anh/hoc-va-choi/hoc-tu-vung-qua-danh-ngon-96.html" title="Học từ vựng qua danh ngôn">Học từ vựng qua danh ngôn</a></h3>
+</div>  <div class="mega-menu-post"><div class="post-thumbnail"><a class="mega-menu-link" href="/hoc-tieng-anh/phan-biet-tu-dong-nghia/phan-biet-fit-suit-va-match.html" title="Phân biệt Fit, Suit và Match"><img src="/wp-content/uploads/2017/05/254a8e6f1e6bc46dce8a1320ed1e37b8-300x200.jpg" alt="Phân biệt Fit, Suit và Match"/></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="/hoc-tieng-anh/phan-biet-tu-dong-nghia/phan-biet-fit-suit-va-match.html" title="Phân biệt Fit, Suit và Match">Phân biệt Fit, Suit và Match</a></h3>
+</div>  </div>  
+<div class="clear"></div>
+</div>  
+</div> 
+</div> 
+</li>
+<li id="menu-item-119257" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-119257"><a href="http://inspired.daikynguyenvn.com"><span style="color: #FFC600; ">Inspired</span></a></li>
+</ul></div> <a id="slidebar-open" class="slidebar-open" href="#"><i class="fa fa-angle-double-left"></i></a>
+</div>
+</nav>  <div id="main-content" class="container">
+<section id="home-focus-news" class="row">
+<div class="section-content">
+<div class="left-column">
+<div class="post-thumbnail">
+<a href="/the-gioi/trung-quoc-thanh-trung-cuu-cong-to-vien-than-can-voi-bang-nhom-thuong-hai.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/trung-quoc.jpg" alt="Trung Quốc thanh trừng cựu công tố viên thân cận với &#8216;Băng nhóm Thượng Hải&#8217;"/>
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/the-gioi/trung-quoc-thanh-trung-cuu-cong-to-vien-than-can-voi-bang-nhom-thuong-hai.html" title="Trung Quốc thanh trừng cựu công tố viên thân cận với &#8216;Băng nhóm Thượng Hải&#8217;" rel="bookmark" target="_blank">Trung Quốc thanh trừng cựu công tố viên thân cận với &#8216;Băng nhóm Thượng Hải&#8217;</a>
+</h3>
+</div>
+</div>
+<div class="right-colum">
+<ul>
+<li>
+<div class="post-thumbnail">
+<a href="/van-hoa/nguoi-vo-than-chi-tin-vao-khoa-hoc-cac-nha-khoa-hoc-lai-tin-vao-than-hoc.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/than.jpg" alt="Người vô thần chỉ tin vào khoa học, các nhà khoa học lại tin vào Thần học"/>
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/van-hoa/nguoi-vo-than-chi-tin-vao-khoa-hoc-cac-nha-khoa-hoc-lai-tin-vao-than-hoc.html" title="Người vô thần chỉ tin vào khoa học, các nhà khoa học lại tin vào Thần học" rel="bookmark" target="_blank">Người vô thần chỉ tin vào khoa học, các nhà khoa học lại tin vào Thần học</a>
+</h3>
+</div>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="/van-hoa/song-nua-doi-nguoi-ban-co-tung-biet-hanh-phuc-dich-thuc-rot-cuoc-o-noi-dau.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/hanh-phuc.jpg" alt="Đừng nên ở trong hạnh phúc tìm kiếm hạnh phúc"/>
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/van-hoa/song-nua-doi-nguoi-ban-co-tung-biet-hanh-phuc-dich-thuc-rot-cuoc-o-noi-dau.html" title="Đừng nên ở trong hạnh phúc tìm kiếm hạnh phúc" rel="bookmark" target="_blank">Đừng nên ở trong hạnh phúc tìm kiếm hạnh phúc</a>
+</h3>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</section> 
+<section id="headline-post" class="row">
+<div class="section-content">
+<div id="top-headlines" class="clear cat-box">
+<h2 class="post-box-title">
+<a href="/doi-song/cu-7-gio-sang-chu-cho-gia-lai-lang-lang-ra-ngoai-khong-ai-hieu-cho-den-khi-no-qua-doi.html" title="Cứ 7 giờ sáng, chú chó già lại lẳng lặng ra ngoài, không ai hiểu cho đến khi nó qua đời&#8230;" rel="bookmark" target="_blank">Cứ 7 giờ sáng, chú chó già lại lẳng lặng ra ngoài, không ai hiểu cho đến khi nó qua đời&#8230;</a>
+</h2>
+<div class="post-thumbnail">
+<a href="/doi-song/cu-7-gio-sang-chu-cho-gia-lai-lang-lang-ra-ngoai-khong-ai-hieu-cho-den-khi-no-qua-doi.html" title="Cứ 7 giờ sáng, chú chó già lại lẳng lặng ra ngoài, không ai hiểu cho đến khi nó qua đời&#8230;" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/cho-590x353.jpg" alt="Cứ 7 giờ sáng, chú chó già lại lẳng lặng ra ngoài, không ai hiểu cho đến khi nó qua đời&#8230;"/>
+</a>
+</div>
+<div class="post-entry">
+<p>Trên thế giới này, có những điều sẽ khiến chúng ta có thêm niềm tin vào cuộc sống. Những điều tốt đẹp, giống như một nguồn nước trong mát, róc ...</p>
+</div>
+</div> 
+<div id="other-headline-posts" class="clear cat-box">
+<div class="box-header">
+<h2 class="cat-box-title"><a href="/tin-tieu-bieu" target="_blank">BÀI XEM NHIỀU</a></h2>
+</div>
+<div class="box-content headline-posts">
+<ul class="post-list thumb-top">
+<li>
+<div class="post-thumbnail">
+<a href="/trong-nuoc/nam-sinh-viet-che-tao-canh-tay-robot-duoc-tuyen-thang-vao-dai-hoc.html" title="Nam sinh Việt chế tạo “Cánh tay robot&#8221; được tuyển thẳng vào Đại học" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/nam-sinh-canh-tay-r-bot-300x200.jpg" alt="Nam sinh Việt chế tạo “Cánh tay robot&#8221; được tuyển thẳng vào Đại học"/>
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/trong-nuoc/nam-sinh-viet-che-tao-canh-tay-robot-duoc-tuyen-thang-vao-dai-hoc.html" title="Nam sinh Việt chế tạo “Cánh tay robot&#8221; được tuyển thẳng vào Đại học" rel="bookmark" target="_blank">Nam sinh Việt chế tạo “Cánh tay robot&#8221; được tuyển thẳng vào Đại học</a>
+</h3>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="/the-gioi/co-gai-bi-tat-axit-tim-duoc-tinh-yeu-nho-cuoc-goi-nham-so.html" title="Cô gái bị tạt axit tìm được tình yêu nhờ cuộc gọi nhầm số" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/tat-axit-300x200.jpg" alt="Cô gái bị tạt axit tìm được tình yêu nhờ cuộc gọi nhầm số"/>
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/the-gioi/co-gai-bi-tat-axit-tim-duoc-tinh-yeu-nho-cuoc-goi-nham-so.html" title="Cô gái bị tạt axit tìm được tình yêu nhờ cuộc gọi nhầm số" rel="bookmark" target="_blank">Cô gái bị tạt axit tìm được tình yêu nhờ cuộc gọi nhầm số</a>
+</h3>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="/van-hoa/tren-dau-nguoi-tot-co-vang-quang-mot-doi-mot-kiep-khong-co-tai-uong-hay-xem-ban-co-khong.html" title="Trên đầu người tốt có vầng sáng, dù hổ dữ cũng không hề động tới" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/nguoi-tot-1-300x200.jpg" alt="Trên đầu người tốt có vầng sáng, dù hổ dữ cũng không hề động tới"/>
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/van-hoa/tren-dau-nguoi-tot-co-vang-quang-mot-doi-mot-kiep-khong-co-tai-uong-hay-xem-ban-co-khong.html" title="Trên đầu người tốt có vầng sáng, dù hổ dữ cũng không hề động tới" rel="bookmark" target="_blank">Trên đầu người tốt có vầng sáng, dù hổ dữ cũng không hề động tới</a>
+</h3>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="/van-hoa/bo-ba-kinh-dien-giao-duc-tre-em-truyen-thong-p-1-de-tu-quy-tam-tu-kinh-va-thien-tu-van.html" title="Bộ ba kinh điển giáo dục trẻ em truyền thống (P.1): Những bài học còn nguyên giá trị sau nghìn năm" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2016/05/giao-duc-truyen-thong-300x200.jpg" alt="Bộ ba kinh điển giáo dục trẻ em truyền thống (P.1): Những bài học còn nguyên giá trị sau nghìn năm"/>
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/van-hoa/bo-ba-kinh-dien-giao-duc-tre-em-truyen-thong-p-1-de-tu-quy-tam-tu-kinh-va-thien-tu-van.html" title="Bộ ba kinh điển giáo dục trẻ em truyền thống (P.1): Những bài học còn nguyên giá trị sau nghìn năm" rel="bookmark" target="_blank">Bộ ba kinh điển giáo dục trẻ em truyền thống (P.1): Những bài học còn nguyên giá trị sau nghìn năm</a>
+</h3>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="/doi-song/khong-chi-nhan-vien-moi-di-co-toilet-o-nhat-giam-doc-cung-phai-xan-tay-vao-lam.html" title="Không chỉ nhân viên mới đi cọ toilet, ở Nhật, Giám đốc cũng phải xắn tay vào làm" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/vs-300x200.jpg" alt="Không chỉ nhân viên mới đi cọ toilet, ở Nhật, Giám đốc cũng phải xắn tay vào làm"/>
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/doi-song/khong-chi-nhan-vien-moi-di-co-toilet-o-nhat-giam-doc-cung-phai-xan-tay-vao-lam.html" title="Không chỉ nhân viên mới đi cọ toilet, ở Nhật, Giám đốc cũng phải xắn tay vào làm" rel="bookmark" target="_blank">Không chỉ nhân viên mới đi cọ toilet, ở Nhật, Giám đốc cũng phải xắn tay vào làm</a>
+</h3>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="/the-gioi/ong-chu-facebook-nhan-bang-tot-nghiep-harvard-sau-13-nam-nghi-hoc.html" title="Ông chủ Facebook nhận bằng tốt nghiệp Harvard sau 13 năm nghỉ học" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/mark-tot-nghiep-300x200.png" alt="Ông chủ Facebook nhận bằng tốt nghiệp Harvard sau 13 năm nghỉ học"/>
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/the-gioi/ong-chu-facebook-nhan-bang-tot-nghiep-harvard-sau-13-nam-nghi-hoc.html" title="Ông chủ Facebook nhận bằng tốt nghiệp Harvard sau 13 năm nghỉ học" rel="bookmark" target="_blank">Ông chủ Facebook nhận bằng tốt nghiệp Harvard sau 13 năm nghỉ học</a>
+</h3>
+</li>
+</ul>
+<div class="clear"></div>
+<div class="load_more_news">
+<span class="loading" style="display: none;"></span>
+<a class="more_headlines" href="/tin-tieu-bieu" target="_blank">Xem thêm</a>
+</div>
+</div>
+</div> 
+</div>
+<aside class="float-sidebar">
+<div class="theiaStickySidebar">
+<div id="ads300_250-widget-13" class="e3lan-widget-content e3lan300-250">
+<div class="e3lan-cell">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2791219656443006" data-ad-slot="1687635177"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+<div id="posts-list-widget-4" class="widget posts-list"><div class="widget-top"><h2>Bài Mới Nhất </h2></div><div class="widget-container"> <ul class="recent-posts">
+<li>
+<h3><a href="/the-gioi/dau-hieu-sos-bi-an-o-uc-khien-canh-sat-boi-roi.html">Dấu hiệu SOS bí ẩn ở Úc khiến cảnh sát bối rối</a></h3>
+</li>
+<li>
+<h3><a href="/the-gioi/xa-sung-o-ai-cap-khien-hon-50-nguoi-co-doc-giao-thuong-vong.html">Xả súng ở Ai Cập khiến hơn 50 người Cơ đốc giáo thương vong</a></h3>
+</li>
+<li>
+<h3><a href="/kinh-te/ngan-hang-viet-nam-nao-dang-hao-phong-voi-nhan-vien-nhat.html">Ngân hàng Việt Nam nào đang hào phóng với nhân viên nhất?</a></h3>
+</li>
+<li>
+<h3><a href="/the-gioi/thu-tuong-canada-lam-phao-dai-voi-thu-tuong-nhi-trong-van-phong.html">Thủ tướng Canada làm pháo đài với &#8216;thủ tướng nhí&#8217; trong văn phòng</a></h3>
+</li>
+<li>
+<h3><a href="/the-gioi/trung-quoc-thanh-trung-cuu-cong-to-vien-than-can-voi-bang-nhom-thuong-hai.html">Trung Quốc thanh trừng cựu công tố viên thân cận với &#8216;Băng nhóm Thượng Hải&#8217;</a></h3>
+</li>
+<li>
+<h3><a href="/doi-song/cu-7-gio-sang-chu-cho-gia-lai-lang-lang-ra-ngoai-khong-ai-hieu-cho-den-khi-no-qua-doi.html">Cứ 7 giờ sáng, chú chó già lại lẳng lặng ra ngoài, không ai hiểu cho đến khi nó qua đời&#8230;</a></h3>
+</li>
+<li>
+<h3><a href="/the-gioi/khung-bo-manchester-chinh-quyen-lo-ngai-ve-qua-bom-thu-hai.html">Khủng bố Manchester: Chính quyền lo ngại về quả bom thứ hai</a></h3>
+</li>
+<li>
+<h3><a href="/suc-khoe/benh-va-thuoc/ky-la-loai-ot-sieu-cay-khong-duoc-an-ma-chi-de-lam-thuoc-gay-te.html">Kỳ lạ loại ớt siêu cay, không được ăn mà chỉ để làm thuốc gây tê</a></h3>
+</li>
+</ul>
+<div class="clear"></div>
+</div></div>  <div id="ads300_250-widget-14" class="e3lan-widget-content e3lan300-250">
+<div class="e3lan-cell">
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2791219656443006" data-ad-slot="1687635177"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+</div>
+</aside>
+</section>
+<section id="tie-cat-7" class="row wide-box-column list-box">
+<div class="left-column">
+<div class="section-header">
+<h2><a href="http://daikynguyenvn.com/cat/van-hoa" target="_blank">Văn Hóa</a>
+</h2>
+<ul class="cat-list">
+<li><a href="http://daikynguyenvn.com/cat/van-hoa/cau-chuyen-lich-su" title="Câu chuyện lịch sử" target="_blank">Câu chuyện lịch sử</a></li>
+<li><a href="http://daikynguyenvn.com/cat/van-hoa/co-hoc-tinh-hoa" title="Cổ học tinh hoa" target="_blank">Cổ học tinh hoa</a></li>
+<li><a href="http://daikynguyenvn.com/cat/van-hoa/nhan-sinh-cam-ngo" title="Nhân sinh cảm ngộ" target="_blank">Nhân sinh cảm ngộ</a></li>
+<li><a href="http://daikynguyenvn.com/cat/van-hoa/qua-tang-tam-hon" title="Quà tặng tâm hồn" target="_blank">Quà tặng tâm hồn</a></li>
+<li><a href="http://daikynguyenvn.com/cat/van-hoa/van-hoa-than-truyen" title="Văn hoá thần truyền" target="_blank">Văn hoá thần truyền</a></li>
+<li><a href="http://daikynguyenvn.com/cat/van-hoa/ve-dep-chan-thien-nhan" title="Vẻ đẹp Chân Thiện Nhẫn" target="_blank">Vẻ đẹp Chân Thiện Nhẫn</a></li>
+</div>
+<div class="section-content">
+<ul class="post-list">
+<li class="first-news">
+<div class="post-thumbnail">
+<a href="/van-hoa/song-nua-doi-nguoi-ban-co-tung-biet-hanh-phuc-dich-thuc-rot-cuoc-o-noi-dau.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/hanh-phuc-300x200.jpg" alt="Đừng nên ở trong hạnh phúc tìm kiếm hạnh phúc">
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/van-hoa/song-nua-doi-nguoi-ban-co-tung-biet-hanh-phuc-dich-thuc-rot-cuoc-o-noi-dau.html" rel="bookmark" target="_blank">Đừng nên ở trong hạnh phúc tìm kiếm hạnh phúc</a>
+</h3>
+<p>Hạnh phúc ở đâu, hình dáng ra sao, làm thế nào có được? Đó luôn là những câu hỏi bất diệt của con người. Ở đời, không ai là không ...</p>
+</div>
+</li> 
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/van-hoa/nguoi-vo-than-chi-tin-vao-khoa-hoc-cac-nha-khoa-hoc-lai-tin-vao-than-hoc.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/than-155x100.jpg" alt="Người vô thần chỉ tin vào khoa học, các nhà khoa học lại tin vào Thần học"></a>
+</div> 
+<h3 class="post-box-title"><a href="/van-hoa/nguoi-vo-than-chi-tin-vao-khoa-hoc-cac-nha-khoa-hoc-lai-tin-vao-than-hoc.html" rel="bookmark" target="_blank">Người vô thần chỉ tin vào khoa học, các nhà khoa học lại tin vào Thần học</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/van-hoa/tren-dau-nguoi-tot-co-vang-quang-mot-doi-mot-kiep-khong-co-tai-uong-hay-xem-ban-co-khong.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/nguoi-tot-1-155x100.jpg" alt="Trên đầu người tốt có vầng sáng, dù hổ dữ cũng không hề động tới"></a>
+</div> 
+<h3 class="post-box-title"><a href="/van-hoa/tren-dau-nguoi-tot-co-vang-quang-mot-doi-mot-kiep-khong-co-tai-uong-hay-xem-ban-co-khong.html" rel="bookmark" target="_blank">Trên đầu người tốt có vầng sáng, dù hổ dữ cũng không hề động tới</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/van-hoa/bo-ba-kinh-dien-giao-duc-tre-em-truyen-thong-p-1-de-tu-quy-tam-tu-kinh-va-thien-tu-van.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2016/05/giao-duc-truyen-thong-155x100.jpg" alt="Bộ ba kinh điển giáo dục trẻ em truyền thống (P.1): Những bài học còn nguyên giá trị sau nghìn năm"></a>
+</div> 
+<h3 class="post-box-title"><a href="/van-hoa/bo-ba-kinh-dien-giao-duc-tre-em-truyen-thong-p-1-de-tu-quy-tam-tu-kinh-va-thien-tu-van.html" rel="bookmark" target="_blank">Bộ ba kinh điển giáo dục trẻ em truyền thống (P.1): Những bài học còn nguyên giá trị sau nghìn năm</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/van-hoa/hinh-anh-hiem-ve-nhung-dao-thanh-chi-va-ong-hoang-ba-chua-viet-nam-xua.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/thanh-chi-155x100.jpg" alt="Hình ảnh hiếm về những đạo thánh chỉ và ông hoàng bà chúa Việt Nam xưa"></a>
+</div> 
+<h3 class="post-box-title"><a href="/van-hoa/hinh-anh-hiem-ve-nhung-dao-thanh-chi-va-ong-hoang-ba-chua-viet-nam-xua.html" rel="bookmark" target="_blank">Hình ảnh hiếm về những đạo thánh chỉ và ông hoàng bà chúa Việt Nam xưa</a></h3>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="right-column">
+<div class="section-header">
+<h2>
+<a href="http://daikynguyenvn.com/cat/van-hoa/van-hoa-than-truyen" title="Văn Hóa Truyền Thống" target="_blank">
+Văn Hóa Truyền Thống </a>
+</h2>
+</div>
+<div class="section-content">
+<article class="one-post">
+<div class="post-thumbnail">
+<a href="/van-hoa/co-sao-con-nguoi-ta-ngay-khi-sinh-ra-da-co-nguoi-giau-va-nguoi-ngheo.html" title="Cớ sao con người ta ngay khi sinh ra đã có người giàu và người nghèo?" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2016/10/phuc-phan-300x200.jpg" alt="Cớ sao con người ta ngay khi sinh ra đã có người giàu và người nghèo?">
+</a>
+</div> 
+<div class="inner-content">
+<h2 class="post-box-title">
+<a href="/van-hoa/co-sao-con-nguoi-ta-ngay-khi-sinh-ra-da-co-nguoi-giau-va-nguoi-ngheo.html" title="Cớ sao con người ta ngay khi sinh ra đã có người giàu và người nghèo?" rel="bookmark" target="_blank">Cớ sao con người ta ngay khi sinh ra đã có người giàu và người nghèo?</a>
+</h2>
+<p class="post-excerpt">Tục ngữ nói: &#8220;Nhân sinh có mệnh, phú quý do Trời&#8221;. Vận mệnh của một người bình thường là không thể cải biến được. Có một số người cũng lờ mờ ...</p>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section id="tie-cat-26497" class="row wide-box-column list-box">
+<div class="left-column">
+<div class="section-header">
+<h2><a href="http://daikynguyenvn.com/cat/nghe-thuat" target="_blank">Nghệ Thuật</a>
+</h2>
+<ul class="cat-list">
+<li><a href="http://daikynguyenvn.com/cat/nghe-thuat/am-nhac-nghe-thuat" title="Âm nhạc" target="_blank">Âm nhạc</a></li>
+<li><a href="http://daikynguyenvn.com/cat/nghe-thuat/dien-anh" title="Điện ảnh" target="_blank">Điện ảnh</a></li>
+<li><a href="http://daikynguyenvn.com/cat/nghe-thuat/hoi-hoa" title="Hội họa" target="_blank">Hội họa</a></li>
+<li><a href="http://daikynguyenvn.com/cat/nghe-thuat/kien-truc" title="Kiến trúc" target="_blank">Kiến trúc</a></li>
+<li><a href="http://daikynguyenvn.com/cat/nghe-thuat/mua" title="Múa" target="_blank">Múa</a></li>
+<li><a href="http://daikynguyenvn.com/cat/nghe-thuat/nhiep-anh" title="Nhiếp ảnh" target="_blank">Nhiếp ảnh</a></li>
+<li><a href="http://daikynguyenvn.com/cat/nghe-thuat/van-tho" title="Văn thơ" target="_blank">Văn thơ</a></li>
+</div>
+<div class="section-content">
+<ul class="post-list">
+<li class="first-news">
+<div class="post-thumbnail">
+<a href="/nghe-thuat/ban-co-tin-vao-nhung-gi-mat-minh-nhin-thay-khong-hay-tra-loi-cau-hoi-do-sau-khi-xem-xong-bai-nay.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/befunkycollage2-300x200.jpg" alt="Bạn có tin vào những gì mắt mình nhìn thấy không? Hãy trả lời câu hỏi đó sau khi xem xong bài này">
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/nghe-thuat/ban-co-tin-vao-nhung-gi-mat-minh-nhin-thay-khong-hay-tra-loi-cau-hoi-do-sau-khi-xem-xong-bai-nay.html" rel="bookmark" target="_blank">Bạn có tin vào những gì mắt mình nhìn thấy không? Hãy trả lời câu hỏi đó sau khi xem xong bài này</a>
+</h3>
+<p>Bạn có tin vào những gì mắt mình nhìn thấy? Có à, Chắc không? Vậy nếu như ban đầu bạn nhìn thấy nó thế này, nhưng sau đó qua một ...</p>
+</div>
+</li> 
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/nghe-thuat/phat-hien-nhung-tai-lieu-khao-co-mo-ta-canh-tuong-nen-van-minh-huy-hoang-qua-khu-ket-thuc-chan-dong-bi-thuong-va-mot-bai-hoc-sau-sac.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/mu-thumb-155x100.jpg" alt="Phát hiện những tài liệu khảo cổ mô tả cảnh tượng nền văn minh huy hoàng quá khứ kết thúc: chấn động, bi thương và một bài học sâu sắc"></a>
+</div> 
+<h3 class="post-box-title"><a href="/nghe-thuat/phat-hien-nhung-tai-lieu-khao-co-mo-ta-canh-tuong-nen-van-minh-huy-hoang-qua-khu-ket-thuc-chan-dong-bi-thuong-va-mot-bai-hoc-sau-sac.html" rel="bookmark" target="_blank">Phát hiện những tài liệu khảo cổ mô tả cảnh tượng nền văn minh huy hoàng quá khứ kết thúc: chấn động, bi thương và một bài học sâu sắc</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/nghe-thuat/van-tho/tho-sac-mau-thang-nam.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2016/09/thumbnail-2-155x100.jpg" alt="Thơ: Sắc màu tháng Năm"></a>
+</div> 
+<h3 class="post-box-title"><a href="/nghe-thuat/van-tho/tho-sac-mau-thang-nam.html" rel="bookmark" target="_blank">Thơ: Sắc màu tháng Năm</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/nghe-thuat/tho-hinh-nhu-qua-khu-ngu-yen.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/hinh_nhu-155x100.png" alt="Thơ: Hình như quá khứ ngủ yên"></a>
+</div> 
+<h3 class="post-box-title"><a href="/nghe-thuat/tho-hinh-nhu-qua-khu-ngu-yen.html" rel="bookmark" target="_blank">Thơ: Hình như quá khứ ngủ yên</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/nghe-thuat/thang-ngay-luu-vong-cua-hoang-hau-nam-phuong-khoi-tai-san-do-so-lau-dai-don-dien-noi-dat-khach-rot-cuoc-co-khien-ba-hanh-phuc.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/lau-dai-155x100.jpg" alt="Tháng ngày lưu vong của hoàng hậu Nam Phương: Khối tài sản đồ sộ, lâu đài, đồn điền nơi đất khách rốt cuộc có khiến bà hạnh phúc?"></a>
+</div> 
+<h3 class="post-box-title"><a href="/nghe-thuat/thang-ngay-luu-vong-cua-hoang-hau-nam-phuong-khoi-tai-san-do-so-lau-dai-don-dien-noi-dat-khach-rot-cuoc-co-khien-ba-hanh-phuc.html" rel="bookmark" target="_blank">Tháng ngày lưu vong của hoàng hậu Nam Phương: Khối tài sản đồ sộ, lâu đài, đồn điền nơi đất khách rốt cuộc có khiến bà hạnh phúc?</a></h3>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="right-column">
+<div class="section-header">
+<h2>
+<a href="http://daikynguyenvn.com/cat/van-hoa/ve-dep-chan-thien-nhan" title="Vẻ Đẹp Chân Thiện Nhẫn" target="_blank">
+Vẻ Đẹp Chân Thiện Nhẫn </a>
+</h2>
+</div>
+<div class="section-content">
+<article class="one-post">
+<div class="post-thumbnail">
+<a href="/van-hoa/doanh-nhan-xuat-sac-nhan-giai-thuong-tu-quoc-vuong-thuy-dien-thanh-cong-nho-thuc-hanh-chan-thien-nhan.html" title="Doanh nhân xuất sắc nhận giải thưởng từ Quốc vương Thụy Điển: Thành công nhờ thực hành “Chân-Thiện-Nhẫn”" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/03/Doanh-nhân-xuất-sắc-nhận-giải-thưởng-từ-Quốc-vương-Thụy-Điển-Thành-công-nhờ-thực-hành-Chân-Thiện-Nhẫn-300x200.jpg" alt="Doanh nhân xuất sắc nhận giải thưởng từ Quốc vương Thụy Điển: Thành công nhờ thực hành “Chân-Thiện-Nhẫn”">
+</a>
+</div> 
+<div class="inner-content">
+<h2 class="post-box-title">
+<a href="/van-hoa/doanh-nhan-xuat-sac-nhan-giai-thuong-tu-quoc-vuong-thuy-dien-thanh-cong-nho-thuc-hanh-chan-thien-nhan.html" title="Doanh nhân xuất sắc nhận giải thưởng từ Quốc vương Thụy Điển: Thành công nhờ thực hành “Chân-Thiện-Nhẫn”" rel="bookmark" target="_blank">Doanh nhân xuất sắc nhận giải thưởng từ Quốc vương Thụy Điển: Thành công nhờ thực hành “Chân-Thiện-Nhẫn”</a>
+</h2>
+<p class="post-excerpt">Anh Vasilios Zouponidis, CEO của công ty truyền thông Thụy Điển Sales Competence đã giành giải thưởng danh giá “Doanh nhân tiên phong của năm” năm 2011 do đích thân ...</p>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section id="tie-cat-6" class="row wide-box-column list-box">
+<div class="left-column">
+<div class="section-header">
+<h2><a href="http://daikynguyenvn.com/cat/doi-song" target="_blank">Đời Sống</a>
+</h2>
+<ul class="cat-list">
+<li><a href="http://daikynguyenvn.com/cat/doi-song/am-thuc" title="Ẩm thực" target="_blank">Ẩm thực</a></li>
+<li><a href="http://daikynguyenvn.com/cat/doi-song/chiem-tinh" title="Chiêm tinh" target="_blank">Chiêm tinh</a></li>
+<li><a href="http://daikynguyenvn.com/cat/doi-song/gia-dinh" title="Gia đình" target="_blank">Gia đình</a></li>
+<li><a href="http://daikynguyenvn.com/cat/doi-song/kheo-tay-va-noi-tro" title="Khéo tay và nội trợ" target="_blank">Khéo tay và nội trợ</a></li>
+<li><a href="http://daikynguyenvn.com/cat/doi-song/lam-dep" title="Làm đẹp" target="_blank">Làm đẹp</a></li>
+<li><a href="http://daikynguyenvn.com/cat/doi-song/song-dep-doi-song" title="Sống đẹp" target="_blank">Sống đẹp</a></li>
+</div>
+<div class="section-content">
+<ul class="post-list">
+<li class="first-news">
+<div class="post-thumbnail">
+<a href="/doi-song/cu-7-gio-sang-chu-cho-gia-lai-lang-lang-ra-ngoai-khong-ai-hieu-cho-den-khi-no-qua-doi.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/cho-300x200.jpg" alt="Cứ 7 giờ sáng, chú chó già lại lẳng lặng ra ngoài, không ai hiểu cho đến khi nó qua đời&#8230;">
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/doi-song/cu-7-gio-sang-chu-cho-gia-lai-lang-lang-ra-ngoai-khong-ai-hieu-cho-den-khi-no-qua-doi.html" rel="bookmark" target="_blank">Cứ 7 giờ sáng, chú chó già lại lẳng lặng ra ngoài, không ai hiểu cho đến khi nó qua đời&#8230;</a>
+</h3>
+<p>Trên thế giới này, có những điều sẽ khiến chúng ta có thêm niềm tin vào cuộc sống. Những điều tốt đẹp, giống như một nguồn nước trong mát, róc ...</p>
+</div>
+</li> 
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/doi-song/3-linh-vuc-gay-sot-bill-gates-khuyen-sinh-vien-my-tot-nghiep-nam-2017-nhat-dinh-phai-lam.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/bill6-1-155x100.jpg" alt="3 lĩnh vực &#8216;gây sốt&#8217; Bill Gates khuyên sinh viên Mỹ tốt nghiệp năm 2017 nhất định phải làm"></a>
+</div> 
+<h3 class="post-box-title"><a href="/doi-song/3-linh-vuc-gay-sot-bill-gates-khuyen-sinh-vien-my-tot-nghiep-nam-2017-nhat-dinh-phai-lam.html" rel="bookmark" target="_blank">3 lĩnh vực &#8216;gây sốt&#8217; Bill Gates khuyên sinh viên Mỹ tốt nghiệp năm 2017 nhất định phải làm</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/doi-song/cau-be-ngoeo-co-suot-13-nam-duoc-phau-thuat-chinh-hinh-gio-ra-sao.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/cb1-4-155x100.jpg" alt="Cậu bé ngoẹo cổ suốt 13 năm được phẫu thuật chỉnh hình bây giờ ra sao?"></a>
+</div> 
+<h3 class="post-box-title"><a href="/doi-song/cau-be-ngoeo-co-suot-13-nam-duoc-phau-thuat-chinh-hinh-gio-ra-sao.html" rel="bookmark" target="_blank">Cậu bé ngoẹo cổ suốt 13 năm được phẫu thuật chỉnh hình bây giờ ra sao?</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/doi-song/khong-chi-nhan-vien-moi-di-co-toilet-o-nhat-giam-doc-cung-phai-xan-tay-vao-lam.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/vs-155x100.jpg" alt="Không chỉ nhân viên mới đi cọ toilet, ở Nhật, Giám đốc cũng phải xắn tay vào làm"></a>
+</div> 
+<h3 class="post-box-title"><a href="/doi-song/khong-chi-nhan-vien-moi-di-co-toilet-o-nhat-giam-doc-cung-phai-xan-tay-vao-lam.html" rel="bookmark" target="_blank">Không chỉ nhân viên mới đi cọ toilet, ở Nhật, Giám đốc cũng phải xắn tay vào làm</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/doi-song/bai-hoc-sau-sac-bo-me-chuan-bi-trong-chiec-hop-10-nam-khi-mo-ra-co-khoc-nghen.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/me2-6-155x100.jpg" alt="Rơi nước mắt câu chuyện cha mẹ mất để lại cho con dòng sữa, sau 40 năm đã khô thành máu"></a>
+</div> 
+<h3 class="post-box-title"><a href="/doi-song/bai-hoc-sau-sac-bo-me-chuan-bi-trong-chiec-hop-10-nam-khi-mo-ra-co-khoc-nghen.html" rel="bookmark" target="_blank">Rơi nước mắt câu chuyện cha mẹ mất để lại cho con dòng sữa, sau 40 năm đã khô thành máu</a></h3>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="right-column">
+<div class="section-header">
+<h2>
+<a href="http://daikynguyenvn.com/cat/doi-song/kheo-tay-va-noi-tro" title="Mẹo Vặt" target="_blank">
+Mẹo Vặt </a>
+</h2>
+</div>
+<div class="section-content">
+<article class="one-post">
+<div class="post-thumbnail">
+<a href="/doi-song/7-meo-la-ky-chua-khoi-ngay-chung-nac-cut-so-7-sieu-hieu-qua-nhung-it-nguoi-biet.html" title="7 mẹo lạ kỳ chữa khỏi ngay chứng nấc cụt ít người biết" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/01/Untitled-1-73-300x200.jpg" alt="7 mẹo lạ kỳ chữa khỏi ngay chứng nấc cụt ít người biết">
+</a>
+</div> 
+<div class="inner-content">
+<h2 class="post-box-title">
+<a href="/doi-song/7-meo-la-ky-chua-khoi-ngay-chung-nac-cut-so-7-sieu-hieu-qua-nhung-it-nguoi-biet.html" title="7 mẹo lạ kỳ chữa khỏi ngay chứng nấc cụt ít người biết" rel="bookmark" target="_blank">7 mẹo lạ kỳ chữa khỏi ngay chứng nấc cụt ít người biết</a>
+</h2>
+<p class="post-excerpt">Nấc quả là một phản ứng rất khó chịu của cơ thể vì những âm thanh kì cục phát ra ngắt quãng khiến bạn không thể kết thúc câu nói ...</p>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section id="tie-cat-5" class="row wide-box-column list-box">
+<div class="left-column">
+<div class="section-header">
+<h2><a href="http://daikynguyenvn.com/cat/suc-khoe" target="_blank">Sức Khỏe</a>
+</h2>
+<ul class="cat-list">
+<li><a href="http://daikynguyenvn.com/cat/suc-khoe/benh-va-thuoc" title="Bệnh &amp; thuốc" target="_blank">Bệnh &amp; thuốc</a></li>
+<li><a href="http://daikynguyenvn.com/cat/suc-khoe/dinh-duong" title="Dinh dưỡng" target="_blank">Dinh dưỡng</a></li>
+<li><a href="http://daikynguyenvn.com/cat/suc-khoe/lieu-phap-tu-nhien" title="Liệu pháp tự nhiên" target="_blank">Liệu pháp tự nhiên</a></li>
+<li><a href="http://daikynguyenvn.com/cat/suc-khoe/ren-luyen-than-tam" title="Rèn luyện thân tâm" target="_blank">Rèn luyện thân tâm</a></li>
+<li><a href="http://daikynguyenvn.com/cat/suc-khoe/suc-khoe-24h" title="Sức khỏe 24h" target="_blank">Sức khỏe 24h</a></li>
+</div>
+<div class="section-content">
+<ul class="post-list">
+<li class="first-news">
+<div class="post-thumbnail">
+<a href="/suc-khoe/benh-va-thuoc/ky-la-loai-ot-sieu-cay-khong-duoc-an-ma-chi-de-lam-thuoc-gay-te.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/18644392-1499309143465122-512142086-n-1495530057646-0-0-496-800-crop-1495530104412-300x200.png" alt="Kỳ lạ loại ớt siêu cay, không được ăn mà chỉ để làm thuốc gây tê">
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/suc-khoe/benh-va-thuoc/ky-la-loai-ot-sieu-cay-khong-duoc-an-ma-chi-de-lam-thuoc-gay-te.html" rel="bookmark" target="_blank">Kỳ lạ loại ớt siêu cay, không được ăn mà chỉ để làm thuốc gây tê</a>
+</h3>
+<p>Ớt quá cay có thể khiến cho lưỡi mất cảm giác, đây chính là lý do để người ta nghiên cứu phát triển thuốc gây tê từ một loại ớt ...</p>
+</div>
+</li> 
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/suc-khoe/top-19-thuc-pham-giup-ban-quet-don-dong-mach-phong-chong-dot-quy-tot-nhat.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/tim-mach-1-155x100.jpg" alt="Top 19 thực phẩm giúp bạn &#8216;quét dọn&#8217; động mạch, phòng chống đột quỵ tốt nhất"></a>
+</div> 
+<h3 class="post-box-title"><a href="/suc-khoe/top-19-thuc-pham-giup-ban-quet-don-dong-mach-phong-chong-dot-quy-tot-nhat.html" rel="bookmark" target="_blank">Top 19 thực phẩm giúp bạn &#8216;quét dọn&#8217; động mạch, phòng chống đột quỵ tốt nhất</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/suc-khoe/sinh-no-tu-nhien-va-khong-cat-day-ron-nhieu-ba-me-tay-lam-nguoc-han-voi-viet-nam.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/img_6565-155x100.jpg" alt="Sinh nở tự nhiên và không cắt dây rốn, nhiều bà mẹ Tây làm ngược hẳn với Việt Nam"></a>
+</div> 
+<h3 class="post-box-title"><a href="/suc-khoe/sinh-no-tu-nhien-va-khong-cat-day-ron-nhieu-ba-me-tay-lam-nguoc-han-voi-viet-nam.html" rel="bookmark" target="_blank">Sinh nở tự nhiên và không cắt dây rốn, nhiều bà mẹ Tây làm ngược hẳn với Việt Nam</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/suc-khoe/dua-muoi-mon-an-dan-da-dung-dung-cach-cho-nhieu-loi-ich-suc-khoe.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/dua-cai-muoi-1-155x100.jpg" alt="Dưa muối: món ăn dân dã, dùng đúng cách cho nhiều lợi ích sức khoẻ"></a>
+</div> 
+<h3 class="post-box-title"><a href="/suc-khoe/dua-muoi-mon-an-dan-da-dung-dung-cach-cho-nhieu-loi-ich-suc-khoe.html" rel="bookmark" target="_blank">Dưa muối: món ăn dân dã, dùng đúng cách cho nhiều lợi ích sức khoẻ</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/suc-khoe/suc-khoe-24h/my-khuyen-cao-nen-han-che-dung-nuoc-ep-trai-cay-voi-tre-nho.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/happy-family-making-juice-at-home-155x100.jpg" alt="Mỹ khuyến cáo nên hạn chế dùng nước ép trái cây với trẻ nhỏ"></a>
+</div> 
+<h3 class="post-box-title"><a href="/suc-khoe/suc-khoe-24h/my-khuyen-cao-nen-han-che-dung-nuoc-ep-trai-cay-voi-tre-nho.html" rel="bookmark" target="_blank">Mỹ khuyến cáo nên hạn chế dùng nước ép trái cây với trẻ nhỏ</a></h3>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="right-column">
+<div class="section-header">
+<h2>
+<a href="http://daikynguyenvn.com/cat/suc-khoe/lieu-phap-tu-nhien" title="Liệu Pháp Tự Nhiên" target="_blank">
+Liệu Pháp Tự Nhiên </a>
+</h2>
+</div>
+<div class="section-content">
+<article class="one-post">
+<div class="post-thumbnail">
+<a href="/suc-khoe/loi-ich-suc-khoe-tu-cay-xuong-rong-gai-goc.html" title="Lợi ích sức khoẻ từ cây xương rồng gai góc" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/ky-thuat-trong-xuong-rong-de-ban-hut-buc-xa-doc-hai-tu-may-tinh-02-1-300x200.jpg" alt="Lợi ích sức khoẻ từ cây xương rồng gai góc">
+</a>
+</div> 
+<div class="inner-content">
+<h2 class="post-box-title">
+<a href="/suc-khoe/loi-ich-suc-khoe-tu-cay-xuong-rong-gai-goc.html" title="Lợi ích sức khoẻ từ cây xương rồng gai góc" rel="bookmark" target="_blank">Lợi ích sức khoẻ từ cây xương rồng gai góc</a>
+</h2>
+<p class="post-excerpt">Chúng ta thường chỉ biết tới cây xương rồng bề ngoài trông xù xì gai góc trồng làm cây cảnh hay hàng rào. Thế nhưng nó còn rất nhiều công dụng khác mà ...</p>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section id="tie-cat-2" class="row wide-box-column list-box">
+<div class="left-column">
+<div class="section-header">
+<h2><a href="http://daikynguyenvn.com/cat/the-gioi" target="_blank">Thế Giới</a>
+</h2>
+<ul class="cat-list">
+<li><a href="http://daikynguyenvn.com/cat/the-gioi/goc-nhin-the-gioi" title="Góc nhìn" target="_blank">Góc nhìn</a></li>
+<li><a href="http://daikynguyenvn.com/cat/the-gioi/ho-so" title="Hồ sơ" target="_blank">Hồ sơ</a></li>
+<li><a href="http://daikynguyenvn.com/cat/the-gioi/nguoi-viet-nam-chau" title="Người Việt năm châu" target="_blank">Người Việt năm châu</a></li>
+<li><a href="http://daikynguyenvn.com/cat/the-gioi/the-gioi-do-day" title="Thế giới đó đây" target="_blank">Thế giới đó đây</a></li>
+<li><a href="http://daikynguyenvn.com/cat/the-gioi/tin-tuc-the-gioi" title="Tin tức thế giới" target="_blank">Tin tức thế giới</a></li>
+</div>
+<div class="section-content">
+<ul class="post-list">
+<li class="first-news">
+<div class="post-thumbnail">
+<a href="/the-gioi/dau-hieu-sos-bi-an-o-uc-khien-canh-sat-boi-roi.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/sos-sign-in-australia-300x200.jpg" alt="Dấu hiệu SOS bí ẩn ở Úc khiến cảnh sát bối rối">
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/the-gioi/dau-hieu-sos-bi-an-o-uc-khien-canh-sat-boi-roi.html" rel="bookmark" target="_blank">Dấu hiệu SOS bí ẩn ở Úc khiến cảnh sát bối rối</a>
+</h3>
+<p>Tại một vùng hẻo lánh ở nước Úc xuất hiện chữ SOS khổng lồ bí hiểm khiến cảnh sát nước này bối rối. Chữ SOS có nghĩa là “hãy cứu ...</p>
+</div>
+</li> 
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/the-gioi/xa-sung-o-ai-cap-khien-hon-50-nguoi-co-doc-giao-thuong-vong.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/minya-bus-attack-155x100.jpg" alt="Xả súng ở Ai Cập khiến hơn 50 người Cơ đốc giáo thương vong"></a>
+</div> 
+<h3 class="post-box-title"><a href="/the-gioi/xa-sung-o-ai-cap-khien-hon-50-nguoi-co-doc-giao-thuong-vong.html" rel="bookmark" target="_blank">Xả súng ở Ai Cập khiến hơn 50 người Cơ đốc giáo thương vong</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/the-gioi/thu-tuong-canada-lam-phao-dai-voi-thu-tuong-nhi-trong-van-phong.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/canada0-155x100.jpg" alt="Thủ tướng Canada làm pháo đài với &#8216;thủ tướng nhí&#8217; trong văn phòng"></a>
+</div> 
+<h3 class="post-box-title"><a href="/the-gioi/thu-tuong-canada-lam-phao-dai-voi-thu-tuong-nhi-trong-van-phong.html" rel="bookmark" target="_blank">Thủ tướng Canada làm pháo đài với &#8216;thủ tướng nhí&#8217; trong văn phòng</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/the-gioi/trung-quoc-thanh-trung-cuu-cong-to-vien-than-can-voi-bang-nhom-thuong-hai.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/trung-quoc-155x100.jpg" alt="Trung Quốc thanh trừng cựu công tố viên thân cận với &#8216;Băng nhóm Thượng Hải&#8217;"></a>
+</div> 
+<h3 class="post-box-title"><a href="/the-gioi/trung-quoc-thanh-trung-cuu-cong-to-vien-than-can-voi-bang-nhom-thuong-hai.html" rel="bookmark" target="_blank">Trung Quốc thanh trừng cựu công tố viên thân cận với &#8216;Băng nhóm Thượng Hải&#8217;</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/the-gioi/khung-bo-manchester-chinh-quyen-lo-ngai-ve-qua-bom-thu-hai.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/manchester_attack_memorial-getty-11-155x100.jpg" alt="Khủng bố Manchester: Chính quyền lo ngại về quả bom thứ hai"></a>
+</div> 
+<h3 class="post-box-title"><a href="/the-gioi/khung-bo-manchester-chinh-quyen-lo-ngai-ve-qua-bom-thu-hai.html" rel="bookmark" target="_blank">Khủng bố Manchester: Chính quyền lo ngại về quả bom thứ hai</a></h3>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="right-column">
+<div class="section-header">
+<h2>
+<a href="http://daikynguyenvn.com/cat/the-gioi/goc-nhin-the-gioi" title="Góc Nhìn" target="_blank">
+Góc Nhìn </a>
+</h2>
+</div>
+<div class="section-content">
+<article class="one-post">
+<div class="post-thumbnail">
+<a href="/the-gioi/goc-nhin-the-gioi/cuu-ngoai-truong-canada-toi-my-phat-bieu-ve-toi-ac-cua-trung-quoc.html" title="Cựu ngoại trưởng Canada tới Mỹ phát biểu về tội ác của Trung Quốc" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/2014-5-8-minghui-513-canada-capital-12-300x200.jpg" alt="Cựu ngoại trưởng Canada tới Mỹ phát biểu về tội ác của Trung Quốc">
+</a>
+</div> 
+<div class="inner-content">
+<h2 class="post-box-title">
+<a href="/the-gioi/goc-nhin-the-gioi/cuu-ngoai-truong-canada-toi-my-phat-bieu-ve-toi-ac-cua-trung-quoc.html" title="Cựu ngoại trưởng Canada tới Mỹ phát biểu về tội ác của Trung Quốc" rel="bookmark" target="_blank">Cựu ngoại trưởng Canada tới Mỹ phát biểu về tội ác của Trung Quốc</a>
+</h2>
+<p class="post-excerpt">Nhà ủng hộ nhân quyền hàng đầu Canada đã tới Mỹ để nâng cao nhận thức của công chúng về một hoạt động phi pháp đang diễn ra tại Trung ...</p>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section id="tie-cat-4" class="row wide-box-column list-box">
+<div class="left-column">
+<div class="section-header">
+<h2><a href="http://daikynguyenvn.com/cat/trong-nuoc" target="_blank">Trong Nước</a>
+</h2>
+<ul class="cat-list">
+<li><a href="http://daikynguyenvn.com/cat/trong-nuoc/giao-thong" title="Giao thông" target="_blank">Giao thông</a></li>
+<li><a href="http://daikynguyenvn.com/cat/trong-nuoc/phong-su-ky-su" title="Phóng sự - ký sự" target="_blank">Phóng sự - ký sự</a></li>
+<li><a href="http://daikynguyenvn.com/cat/trong-nuoc/tieu-diem" title="Tiêu điểm" target="_blank">Tiêu điểm</a></li>
+<li><a href="http://daikynguyenvn.com/cat/trong-nuoc/tin-tuc-trong-nuoc" title="Tin tức trong nước" target="_blank">Tin tức trong nước</a></li>
+</div>
+<div class="section-content">
+<ul class="post-list">
+<li class="first-news">
+<div class="post-thumbnail">
+<a href="/trong-nuoc/nam-sinh-viet-che-tao-canh-tay-robot-duoc-tuyen-thang-vao-dai-hoc.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/nam-sinh-canh-tay-r-bot-300x200.jpg" alt="Nam sinh Việt chế tạo “Cánh tay robot&#8221; được tuyển thẳng vào Đại học">
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/trong-nuoc/nam-sinh-viet-che-tao-canh-tay-robot-duoc-tuyen-thang-vao-dai-hoc.html" rel="bookmark" target="_blank">Nam sinh Việt chế tạo “Cánh tay robot&#8221; được tuyển thẳng vào Đại học</a>
+</h3>
+<p>Nam sinh lớp 11 vừa đoạt giải ba tại cuộc thi Khoa học Kỹ thuật Quốc tế năm 2017 vừa diễn ra tại Mỹ sẽ được tuyển thẳng vào Đại học ...</p>
+</div>
+</li> 
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/trong-nuoc/sai-gon-2-ho-ga-phat-no-nhu-bom-tren-mat-duong.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/thumb-n-ho-ga-155x100.jpg" alt="Sài Gòn: 2 hố ga phát nổ như bom trên mặt đường"></a>
+</div> 
+<h3 class="post-box-title"><a href="/trong-nuoc/sai-gon-2-ho-ga-phat-no-nhu-bom-tren-mat-duong.html" rel="bookmark" target="_blank">Sài Gòn: 2 hố ga phát nổ như bom trên mặt đường</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/trong-nuoc/long-an-nguoi-dan-xon-xao-keo-nhau-di-xem-hoa-quy-3000-nam-moi-no.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/thumb-hoa-155x100.jpg" alt="Long An: Người dân xôn xao kéo nhau đi xem hoa quý 3000 năm mới nở"></a>
+</div> 
+<h3 class="post-box-title"><a href="/trong-nuoc/long-an-nguoi-dan-xon-xao-keo-nhau-di-xem-hoa-quy-3000-nam-moi-no.html" rel="bookmark" target="_blank">Long An: Người dân xôn xao kéo nhau đi xem hoa quý 3000 năm mới nở</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/trong-nuoc/sai-gon-hanh-dong-dep-sau-nhung-con-mua-ngap-trang-duong.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/hanh-dong-dep-155x100.jpg" alt="Sài Gòn: Hành động đẹp sau những cơn mưa ngập trắng đường"></a>
+</div> 
+<h3 class="post-box-title"><a href="/trong-nuoc/sai-gon-hanh-dong-dep-sau-nhung-con-mua-ngap-trang-duong.html" rel="bookmark" target="_blank">Sài Gòn: Hành động đẹp sau những cơn mưa ngập trắng đường</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/trong-nuoc/4-hoc-sinh-bi-nuoc-cuon-troi-mat-tich-tren-song.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/cuu-ho-155x100.jpg" alt="4 học sinh bị nước cuốn trôi mất tích trên sông"></a>
+</div> 
+<h3 class="post-box-title"><a href="/trong-nuoc/4-hoc-sinh-bi-nuoc-cuon-troi-mat-tich-tren-song.html" rel="bookmark" target="_blank">4 học sinh bị nước cuốn trôi mất tích trên sông</a></h3>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="right-column">
+<div class="section-header">
+<h2>
+<a href="http://daikynguyenvn.com/cat/trong-nuoc" title="CÁC BÀI KHÁC" target="_blank">
+CÁC BÀI KHÁC </a>
+</h2>
+</div>
+<div class="section-content">
+<ul>
+<li class="multi-posts no-thumb">
+<article>
+<h3 class="post-box-title">
+<a href="/trong-nuoc/quang-nam-be-gai-so-sinh-2-ngay-bi-me-ruot-bo-lai-benh-vien.html" title="Quảng Nam: Bé gái sơ sinh 2 ngày bị mẹ ruột bỏ lại bệnh viện" rel="bookmark" target="_blank">Quảng Nam: Bé gái sơ sinh 2 ngày bị mẹ ruột bỏ lại bệnh viện</a>
+</h3>
+</article>
+</li> 
+<li class="multi-posts no-thumb">
+<article>
+<h3 class="post-box-title">
+<a href="/trong-nuoc/hue-phat-hien-vat-la-nghi-trang-suc-co-nien-dai-hon-2000-nam.html" title="Huế: Phát hiện vật lạ nghi trang sức cổ niên đại hơn 2000 năm" rel="bookmark" target="_blank">Huế: Phát hiện vật lạ nghi trang sức cổ niên đại hơn 2000 năm</a>
+</h3>
+</article>
+</li> 
+<li class="multi-posts no-thumb">
+<article>
+<h3 class="post-box-title">
+<a href="/trong-nuoc/cam-su-dung-sac-du-phong-dien-thoai-tren-may-bay.html" title="Cấm sử dụng sạc dự phòng điện thoại trên máy bay" rel="bookmark" target="_blank">Cấm sử dụng sạc dự phòng điện thoại trên máy bay</a>
+</h3>
+</article>
+</li> 
+<li class="multi-posts no-thumb">
+<article>
+<h3 class="post-box-title">
+<a href="/chua-phan-loai/mien-bac-tiep-tuc-don-khi-lanh-tang-cuong-thoi-tiet-giam-10-do-c.html" title="Miền Bắc tiếp tục đón khí lạnh tăng cường, thời tiết giảm 10 độ C" rel="bookmark" target="_blank">Miền Bắc tiếp tục đón khí lạnh tăng cường, thời tiết giảm 10 độ C</a>
+</h3>
+</article>
+</li> 
+<li class="multi-posts no-thumb">
+<article>
+<h3 class="post-box-title">
+<a href="/trong-nuoc/ha-noi-lan-duong-uu-tien-cho-tre-bat-ngo-bi-xoa-mo-trong-dem.html" title="Hà Nội: &#8220;Làn đường ưu tiên&#8221; cho trẻ bất ngờ bị xóa mờ trong đêm" rel="bookmark" target="_blank">Hà Nội: &#8220;Làn đường ưu tiên&#8221; cho trẻ bất ngờ bị xóa mờ trong đêm</a>
+</h3>
+</article>
+</li> 
+<li class="multi-posts no-thumb">
+<article>
+<h3 class="post-box-title">
+<a href="/trong-nuoc/nghe-an-hon-50-cong-nhan-nhap-vien-nghi-ngo-doc-thuc-pham.html" title="Nghệ An: Hơn 50 công nhân nhập viện nghi ngộ độc thực phẩm" rel="bookmark" target="_blank">Nghệ An: Hơn 50 công nhân nhập viện nghi ngộ độc thực phẩm</a>
+</h3>
+</article>
+</li> 
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</section>
+<div class="ads-banner-fluid">
+ 
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-2791219656443006" data-ad-slot="2579556779"></ins>
+<script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+<section id="top-videos" class="row wide-box scroll-box">
+<div class="section-header">
+<h2>Video Chọn Lọc</h2>
+<a href="/video-chon-loc" class="see-more" target="_blank">Xem thêm</a>
+</div>
+<div class="section-content">
+<ul class="post-list thumb-top">
+<li>
+<div class="post-thumbnail">
+<a href="/khoa-hoc-cong-nghe/loai-vat-lieu-giup-ban-bam-tuong-nhu-nguoi-nhen.html" title="Loại vật liệu giúp bạn bám dính tường như Người Nhện" target="_blank">
+<img src="/wp-content/uploads/2017/02/vat-lieu-nguoi-nhen-spiderman-2-300x200.jpg" alt="Loại vật liệu giúp bạn bám dính tường như Người Nhện"/>
+<div class="play"> <i class="fa fa-play"></i> </div>
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/khoa-hoc-cong-nghe/loai-vat-lieu-giup-ban-bam-tuong-nhu-nguoi-nhen.html" title="Loại vật liệu giúp bạn bám dính tường như Người Nhện" rel="bookmark" target="_blank">Loại vật liệu giúp bạn bám dính tường như Người Nhện</a>
+</h3>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="/video-clip/co-be-khong-co-doi-ban-tay-tu-tay-lam-banh-khien-trieu-nguoi-xuc-dong.html" title="Cô bé không có đôi bàn tay&#8230; &#8216;tự tay&#8217; làm bánh khiến triệu người xúc động" target="_blank">
+<img src="/wp-content/uploads/2017/01/safe_image-12-300x200.jpg" alt="Cô bé không có đôi bàn tay&#8230; &#8216;tự tay&#8217; làm bánh khiến triệu người xúc động"/>
+<div class="play"> <i class="fa fa-play"></i> </div>
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/video-clip/co-be-khong-co-doi-ban-tay-tu-tay-lam-banh-khien-trieu-nguoi-xuc-dong.html" title="Cô bé không có đôi bàn tay&#8230; &#8216;tự tay&#8217; làm bánh khiến triệu người xúc động" rel="bookmark" target="_blank">Cô bé không có đôi bàn tay&#8230; &#8216;tự tay&#8217; làm bánh khiến triệu người xúc động</a>
+</h3>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="/nghe-thuat/am-nhac-nghe-thuat/da-khuc-cua-chopin-noi-buon-cao-thuong-ay-la-ve-dep-vo-gia.html" title="Dạ khúc của Chopin &#8211; nỗi buồn cao thượng ấy là vẻ đẹp vô giá" target="_blank">
+<img src="/wp-content/uploads/2017/01/moon-1-300x200.jpg" alt="Dạ khúc của Chopin &#8211; nỗi buồn cao thượng ấy là vẻ đẹp vô giá"/>
+<div class="play"> <i class="fa fa-play"></i> </div>
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/nghe-thuat/am-nhac-nghe-thuat/da-khuc-cua-chopin-noi-buon-cao-thuong-ay-la-ve-dep-vo-gia.html" title="Dạ khúc của Chopin &#8211; nỗi buồn cao thượng ấy là vẻ đẹp vô giá" rel="bookmark" target="_blank">Dạ khúc của Chopin &#8211; nỗi buồn cao thượng ấy là vẻ đẹp vô giá</a>
+</h3>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="/video-clip/10-nhan-vat-vuot-len-so-phan-khien-ca-the-gioi-ne-phuc.html" title="10 nhân vật vượt lên số phận khiến cả thế giới nể phục" target="_blank">
+<img src="/wp-content/uploads/2017/01/12-6-300x200.jpg" alt="10 nhân vật vượt lên số phận khiến cả thế giới nể phục"/>
+<div class="play"> <i class="fa fa-play"></i> </div>
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/video-clip/10-nhan-vat-vuot-len-so-phan-khien-ca-the-gioi-ne-phuc.html" title="10 nhân vật vượt lên số phận khiến cả thế giới nể phục" rel="bookmark" target="_blank">10 nhân vật vượt lên số phận khiến cả thế giới nể phục</a>
+</h3>
+</li>
+<li>
+<div class="post-thumbnail">
+<a href="/nghe-thuat/tuoi-tho-cua-thien-tai-ludwig-van-beethoven-mot-mozart-thu-hai-xuat-hien.html" title="Tuổi thơ của thiên tài Ludwig Van Beethoven: một Mozart thứ hai đã xuất hiện&#8230;" target="_blank">
+<img src="/wp-content/uploads/2017/01/l-v-bethoven-2_0-300x200.jpg" alt="Tuổi thơ của thiên tài Ludwig Van Beethoven: một Mozart thứ hai đã xuất hiện&#8230;"/>
+<div class="play"> <i class="fa fa-play"></i> </div>
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/nghe-thuat/tuoi-tho-cua-thien-tai-ludwig-van-beethoven-mot-mozart-thu-hai-xuat-hien.html" title="Tuổi thơ của thiên tài Ludwig Van Beethoven: một Mozart thứ hai đã xuất hiện&#8230;" rel="bookmark" target="_blank">Tuổi thơ của thiên tài Ludwig Van Beethoven: một Mozart thứ hai đã xuất hiện&#8230;</a>
+</h3>
+</li>
+</ul>
+</div>
+</section>
+<div class="ads-banner-fluid">
+ 
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-2791219656443006" data-ad-slot="2579556779"></ins>
+<script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+<section id="tie-cat-11" class="row wide-box-column list-box">
+<div class="left-column">
+<div class="section-header">
+<h2><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe" target="_blank">Khoa Học & Công Nghệ</a>
+</h2>
+<ul class="cat-list">
+<li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/bi-an-co-the-nguoi" title="Bí ẩn cơ thể người" target="_blank">Bí ẩn cơ thể người</a></li>
+<li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/bi-an-vu-tru" title="Bí ẩn vũ trụ" target="_blank">Bí ẩn vũ trụ</a></li>
+<li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/cong-nghe" title="Công nghệ" target="_blank">Công nghệ</a></li>
+<li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/khao-co" title="Khảo cổ" target="_blank">Khảo cổ</a></li>
+<li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/khoa-hoc-huyen-bi" title="Khoa học huyền bí" target="_blank">Khoa học huyền bí</a></li>
+<li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/kien-thuc-huu-ich" title="Kiến thức hữu ích" target="_blank">Kiến thức hữu ích</a></li>
+<li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/tin-tuc-kh" title="Tin tức khoa học" target="_blank">Tin tức khoa học</a></li>
+<li><a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/ufo" title="UFO" target="_blank">UFO</a></li>
+</div>
+<div class="section-content">
+<ul class="post-list">
+<li class="first-news">
+<div class="post-thumbnail">
+<a href="/khoa-hoc-cong-nghe/5-phuong-phap-phau-thuat-kinh-di-trong-lich-su.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/phuong-phap-phau-thuat-kinh-di-trong-lich-su-9-300x200.jpg" alt="5 phương pháp phẫu thuật kinh dị nhất trong lịch sử, một tổng thống Mỹ từng là nạn nhân">
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/khoa-hoc-cong-nghe/5-phuong-phap-phau-thuat-kinh-di-trong-lich-su.html" rel="bookmark" target="_blank">5 phương pháp phẫu thuật kinh dị nhất trong lịch sử, một tổng thống Mỹ từng là nạn nhân</a>
+</h3>
+<p>Trong lịch sử để điều trị bệnh người ta từng áp dụng một số biện pháp phẫu thuật kinh hoàng, có thể khiến người nghe sởn da gà khi chỉ ...</p>
+</div>
+</li> 
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/khoa-hoc-cong-nghe/to-tien-chung-ta-su-dung-chat-lieu-ngoai-hanh-tinh-de-che-tao-do-trang-suc.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/thien-thach-che-tao-do-trang-suc-5-155x100.jpg" alt="Phát hiện hạt kim loại nghìn năm tuổi từ thiên thạch của thổ dân bản địa Mỹ"></a>
+</div> 
+<h3 class="post-box-title"><a href="/khoa-hoc-cong-nghe/to-tien-chung-ta-su-dung-chat-lieu-ngoai-hanh-tinh-de-che-tao-do-trang-suc.html" rel="bookmark" target="_blank">Phát hiện hạt kim loại nghìn năm tuổi từ thiên thạch của thổ dân bản địa Mỹ</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/khoa-hoc-cong-nghe/khao-co/bo-xuong-nguoi-khong-lo-cao-7-met-o-ecuador.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/bo-xuong-khong-lo-ecuador-1-155x100.jpg" alt="Bộ xương người khổng lồ cao 7 mét ở Ecuador"></a>
+</div> 
+<h3 class="post-box-title"><a href="/khoa-hoc-cong-nghe/khao-co/bo-xuong-nguoi-khong-lo-cao-7-met-o-ecuador.html" rel="bookmark" target="_blank">Bộ xương người khổng lồ cao 7 mét ở Ecuador</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/khoa-hoc-cong-nghe/cac-bac-si-loi-ra-ca-mot-con-gian-song-trong-dau-nguoi-phu-nu.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/hanh-tinh-he-mat-troi-chua-jesus-2-155x100.jpg" alt="Thiên nhân cảm ứng: Hành tinh trong Hệ Mặt Trời xếp hình giống cây Thánh giá vào đúng ngày Chúa Jesus bị hành hình"></a>
+</div> 
+<h3 class="post-box-title"><a href="/khoa-hoc-cong-nghe/cac-bac-si-loi-ra-ca-mot-con-gian-song-trong-dau-nguoi-phu-nu.html" rel="bookmark" target="_blank">Thiên nhân cảm ứng: Hành tinh trong Hệ Mặt Trời xếp hình giống cây Thánh giá vào đúng ngày Chúa Jesus bị hành hình</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/khoa-hoc-cong-nghe/an-do-dau-chan-in-khac-tren-da-bang-chung-cua-nguoi-co-dai-den-tu-troi.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/dau-chan-co-dai-vat-the-bay-bi-an-an-do-1-155x100.jpg" alt="Ấn Độ: Dấu chân in khắc trên đá, mô tả người cổ đại đến từ Trời?"></a>
+</div> 
+<h3 class="post-box-title"><a href="/khoa-hoc-cong-nghe/an-do-dau-chan-in-khac-tren-da-bang-chung-cua-nguoi-co-dai-den-tu-troi.html" rel="bookmark" target="_blank">Ấn Độ: Dấu chân in khắc trên đá, mô tả người cổ đại đến từ Trời?</a></h3>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="right-column">
+<div class="section-header">
+<h2>
+<a href="http://daikynguyenvn.com/cat/khoa-hoc-cong-nghe/khoa-hoc-huyen-bi" title="Khoa Học Huyền Bí" target="_blank">
+Khoa Học Huyền Bí </a>
+</h2>
+</div>
+<div class="section-content">
+<article class="one-post">
+<div class="post-thumbnail">
+<a href="/khoa-hoc-cong-nghe/to-tien-chung-ta-su-dung-chat-lieu-ngoai-hanh-tinh-de-che-tao-do-trang-suc.html" title="Phát hiện hạt kim loại nghìn năm tuổi từ thiên thạch của thổ dân bản địa Mỹ" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/thien-thach-che-tao-do-trang-suc-5-300x200.jpg" alt="Phát hiện hạt kim loại nghìn năm tuổi từ thiên thạch của thổ dân bản địa Mỹ">
+</a>
+</div> 
+<div class="inner-content">
+<h2 class="post-box-title">
+<a href="/khoa-hoc-cong-nghe/to-tien-chung-ta-su-dung-chat-lieu-ngoai-hanh-tinh-de-che-tao-do-trang-suc.html" title="Phát hiện hạt kim loại nghìn năm tuổi từ thiên thạch của thổ dân bản địa Mỹ" rel="bookmark" target="_blank">Phát hiện hạt kim loại nghìn năm tuổi từ thiên thạch của thổ dân bản địa Mỹ</a>
+</h2>
+<p class="post-excerpt">Các nhà khảo cổ phát hiện 22 hạt kim loại được chế tạo từ mảnh vỡ một thiên thạch rơi tại Havana, Mỹ. Nhiều khám phá tương tự trên thế ...</p>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section id="tie-cat-138" class="row wide-box-column list-box">
+<div class="left-column">
+<div class="section-header">
+<h2><a href="http://daikynguyenvn.com/cat/kinh-te" target="_blank">Kinh Tế</a>
+</h2>
+</div>
+<div class="section-content">
+<ul class="post-list">
+<li class="first-news">
+<div class="post-thumbnail">
+<a href="/kinh-te/ngan-hang-viet-nam-nao-dang-hao-phong-voi-nhan-vien-nhat.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/2017-05-26_124603-300x200.png" alt="Ngân hàng Việt Nam nào đang hào phóng với nhân viên nhất?">
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/kinh-te/ngan-hang-viet-nam-nao-dang-hao-phong-voi-nhan-vien-nhat.html" rel="bookmark" target="_blank">Ngân hàng Việt Nam nào đang hào phóng với nhân viên nhất?</a>
+</h3>
+<p>Mọi người đều muốn tìm việc làm trong các ngân hàng lớn, đặc biệt là các ngân hàng quốc doanh, với hy vọng kiếm được thu nhập cao, nhưng có ...</p>
+</div>
+</li> 
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/kinh-te/soan-ngoi-trung-quoc-han-quoc-tro-thanh-nuoc-ban-may-moc-lon-nhat-cho-viet-nam.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/nhap-khau-may-moc-cu-1426673706778-155x100.jpg" alt="Soán ngôi Trung Quốc, Hàn Quốc trở thành nước bán máy móc lớn nhất cho Việt Nam"></a>
+</div> 
+<h3 class="post-box-title"><a href="/kinh-te/soan-ngoi-trung-quoc-han-quoc-tro-thanh-nuoc-ban-may-moc-lon-nhat-cho-viet-nam.html" rel="bookmark" target="_blank">Soán ngôi Trung Quốc, Hàn Quốc trở thành nước bán máy móc lớn nhất cho Việt Nam</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/kinh-te/ve-trung-giai-jackpot-hon-112-ty-dong-duoc-ban-tai-ha-noi.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/18671131_1197468657048851_1923552354720475895_n-155x100.jpg" alt="Vé trúng giải Jackpot hơn 112 tỷ đồng cao nhất từ trước tới nay được bán tại Hà Nội"></a>
+</div> 
+<h3 class="post-box-title"><a href="/kinh-te/ve-trung-giai-jackpot-hon-112-ty-dong-duoc-ban-tai-ha-noi.html" rel="bookmark" target="_blank">Vé trúng giải Jackpot hơn 112 tỷ đồng cao nhất từ trước tới nay được bán tại Hà Nội</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/kinh-te/tui-dat-mat-trang-nasa-nham-lan-ban-ra-ngoai-chuan-bi-len-san-dau-gia.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/tui-mat-trang-155x100.jpg" alt="Túi đất Mặt trăng NASA nhầm lẫn bán ra ngoài chuẩn bị lên sàn đấu giá"></a>
+</div> 
+<h3 class="post-box-title"><a href="/kinh-te/tui-dat-mat-trang-nasa-nham-lan-ban-ra-ngoai-chuan-bi-len-san-dau-gia.html" rel="bookmark" target="_blank">Túi đất Mặt trăng NASA nhầm lẫn bán ra ngoài chuẩn bị lên sàn đấu giá</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/kinh-te/xep-hang-tin-nhiem-cua-trung-quoc-bi-ha-bac.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/china-economy-155x100.jpg" alt="Xếp hạng tín nhiệm của Trung Quốc bị hạ bậc"></a>
+</div> 
+<h3 class="post-box-title"><a href="/kinh-te/xep-hang-tin-nhiem-cua-trung-quoc-bi-ha-bac.html" rel="bookmark" target="_blank">Xếp hạng tín nhiệm của Trung Quốc bị hạ bậc</a></h3>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="right-column">
+<div class="section-header">
+<h2>
+Các Bài Khác
+</h2>
+</div>
+<div class="section-content">
+<ul>
+<li class="multi-posts no-thumb">
+<article>
+<h3 class="post-box-title">
+<a href="/kinh-te/sau-cuoc-chien-tac-quyen-apple-va-nokia-lai-tu-doi-thu-tranh-chap-thanh-doi-tac-than-thiet.html" title="Sau cuộc chiến tác quyền, Apple và Nokia lại từ đối thủ tranh chấp thành đối tác thân thiết" rel="bookmark" target="_blank">Sau cuộc chiến tác quyền, Apple và Nokia lại từ đối thủ tranh chấp thành đối tác thân thiết</a>
+</h3>
+</article>
+</li> 
+<li class="multi-posts no-thumb">
+<article>
+<h3 class="post-box-title">
+<a href="/kinh-te/samsung-dang-chi-phoi-kinh-te-viet-nam-nhu-the-nao.html" title="Samsung đang chi phối kinh tế Việt Nam như thế nào?" rel="bookmark" target="_blank">Samsung đang chi phối kinh tế Việt Nam như thế nào?</a>
+</h3>
+</article>
+</li> 
+<li class="multi-posts no-thumb">
+<article>
+<h3 class="post-box-title">
+<a href="/kinh-te/honda-sap-ban-may-bay-7-cho-tai-viet-nam-gia-binh-dan.html" title="Honda sắp bán máy bay 7 chỗ tại Việt Nam, giá bình dân" rel="bookmark" target="_blank">Honda sắp bán máy bay 7 chỗ tại Việt Nam, giá bình dân</a>
+</h3>
+</article>
+</li> 
+<li class="multi-posts no-thumb">
+<article>
+<h3 class="post-box-title">
+<a href="/kinh-te/o-nha-mot-minh-be-trai-5-tuoi-bien-167-trieu-dong-di-vay-cua-bo-thanh-giay-vun.html" title="Ở nhà một mình, bé trai 5 tuổi biến 167 triệu đồng đi vay của bố thành giấy vụn" rel="bookmark" target="_blank">Ở nhà một mình, bé trai 5 tuổi biến 167 triệu đồng đi vay của bố thành giấy vụn</a>
+</h3>
+</article>
+</li> 
+<li class="multi-posts no-thumb">
+<article>
+<h3 class="post-box-title">
+<a href="/kinh-te/neu-mua-100-bitcoin-cach-day-7-nam-gio-ban-se-ngoi-tren-nui-tien-729-trieu-usd.html" title="7 năm trước mua 100 USD Bitcoin, giờ bạn sẽ ngồi trên núi tiền 72,9 triệu USD" rel="bookmark" target="_blank">7 năm trước mua 100 USD Bitcoin, giờ bạn sẽ ngồi trên núi tiền 72,9 triệu USD</a>
+</h3>
+</article>
+</li> 
+<li class="multi-posts no-thumb">
+<article>
+<h3 class="post-box-title">
+<a href="/kinh-te/them-nguyen-nhan-lon-e-viet-nam-dang-nhap-thit-gia-re.html" title="Thêm nguyên nhân khủng hoảng lợn: Việt Nam đang nhập thịt giá rẻ" rel="bookmark" target="_blank">Thêm nguyên nhân khủng hoảng lợn: Việt Nam đang nhập thịt giá rẻ</a>
+</h3>
+</article>
+</li> 
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</section>
+<section id="tie-cat-157" class="row wide-box-column list-box">
+<div class="left-column">
+<div class="section-header">
+<h2><a href="http://daikynguyenvn.com/cat/tin-giai-tri" target="_blank">Giải Trí</a>
+</h2>
+<ul class="cat-list">
+<li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/am-nhac" title="Âm nhạc" target="_blank">Âm nhạc</a></li>
+<li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/chuyen-la" title="Chuyện lạ" target="_blank">Chuyện lạ</a></li>
+<li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/tin-du-lich" title="Du lịch" target="_blank">Du lịch</a></li>
+<li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/dien-anh-truyen-hinh" title="Điện ảnh – Truyền hình" target="_blank">Điện ảnh – Truyền hình</a></li>
+<li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/gioi-sao" title="Giới sao" target="_blank">Giới sao</a></li>
+<li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/the-thao" title="Thể thao" target="_blank">Thể thao</a></li>
+<li><a href="http://daikynguyenvn.com/cat/tin-giai-tri/thoi-trang" title="Thời trang" target="_blank">Thời trang</a></li>
+</div>
+<div class="section-content">
+<ul class="post-list">
+<li class="first-news">
+<div class="post-thumbnail">
+<a href="/tin-giai-tri/tin-tac-doi-tien-chuoc-cuop-bien-vung-caribbean.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/potcbackglass_lg-300x200.jpg" alt="Tin tặc đòi tiền chuộc &#8216;Cướp biển vùng Caribbean&#8217;">
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/tin-giai-tri/tin-tac-doi-tien-chuoc-cuop-bien-vung-caribbean.html" rel="bookmark" target="_blank">Tin tặc đòi tiền chuộc &#8216;Cướp biển vùng Caribbean&#8217;</a>
+</h3>
+<p>Các tin tặc đang đòi hãng Disney nộp tiền chuộc để họ không tiết lộ tập phim mới về &#8216;Cướp biển vùng Caribbean&#8217; trước ngày ra mắt 26/5. Giám đốc điều ...</p>
+</div>
+</li> 
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/tin-giai-tri/the-thao/ronaldo-hay-buffon-moi-xung-dang-gianh-qua-bong-vang.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/dairoooo-155x100.jpg" alt="Ronaldo hay Buffon mới xứng đáng giành &#8216;Quả bóng vàng&#8217;?"></a>
+</div> 
+<h3 class="post-box-title"><a href="/tin-giai-tri/the-thao/ronaldo-hay-buffon-moi-xung-dang-gianh-qua-bong-vang.html" rel="bookmark" target="_blank">Ronaldo hay Buffon mới xứng đáng giành &#8216;Quả bóng vàng&#8217;?</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/tin-giai-tri/the-thao/messi-tu-choi-gia-han-hop-dong-voi-barca.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/daim-155x100.jpg" alt="Messi từ chối gia hạn hợp đồng với Barca"></a>
+</div> 
+<h3 class="post-box-title"><a href="/tin-giai-tri/the-thao/messi-tu-choi-gia-han-hop-dong-voi-barca.html" rel="bookmark" target="_blank">Messi từ chối gia hạn hợp đồng với Barca</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/tin-giai-tri/the-thao/nhung-ky-luc-duoc-ronaldo-thiet-lap-o-tran-real-3-0-atletico.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/ky-luc-moi-duoc-ronaldo-lap-155x100.jpg" alt="Lập hat-trick &#8216;nhấn chìm&#8217; Atletico, Ronaldo thiết lập 6 kỷ lục mới"></a>
+</div> 
+<h3 class="post-box-title"><a href="/tin-giai-tri/the-thao/nhung-ky-luc-duoc-ronaldo-thiet-lap-o-tran-real-3-0-atletico.html" rel="bookmark" target="_blank">Lập hat-trick &#8216;nhấn chìm&#8217; Atletico, Ronaldo thiết lập 6 kỷ lục mới</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/tin-giai-tri/the-thao/quen-han-thu-messi-moi-ronaldo-lam-khach-vip-du-dam-cuoi.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/messi-moi-ronaldo-dam-cuoi-155x100.jpg" alt="Messi bất ngờ mời Ronaldo làm khách VIP dự đám cưới"></a>
+</div> 
+<h3 class="post-box-title"><a href="/tin-giai-tri/the-thao/quen-han-thu-messi-moi-ronaldo-lam-khach-vip-du-dam-cuoi.html" rel="bookmark" target="_blank">Messi bất ngờ mời Ronaldo làm khách VIP dự đám cưới</a></h3>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="right-column">
+<div class="section-header">
+<h2>
+<a href="http://daikynguyenvn.com/cat/tin-giai-tri/chuyen-la" title="Chuyện Lạ" target="_blank">
+Chuyện Lạ </a>
+</h2>
+</div>
+<div class="section-content">
+<article class="one-post">
+<div class="post-thumbnail">
+<a href="/tin-giai-tri/chuyen-la/than-ky-thuat-thoi-mien-dua-ra-hai-cau-chuyen-kinh-hoang.html" title="Thuật thôi miên qua hai câu chuyện có thật chứa đựng nhiều điều kỳ bí" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/03/1386924935-thoi-mien-300x200.jpg" alt="Thuật thôi miên qua hai câu chuyện có thật chứa đựng nhiều điều kỳ bí">
+</a>
+</div> 
+<div class="inner-content">
+<h2 class="post-box-title">
+<a href="/tin-giai-tri/chuyen-la/than-ky-thuat-thoi-mien-dua-ra-hai-cau-chuyen-kinh-hoang.html" title="Thuật thôi miên qua hai câu chuyện có thật chứa đựng nhiều điều kỳ bí" rel="bookmark" target="_blank">Thuật thôi miên qua hai câu chuyện có thật chứa đựng nhiều điều kỳ bí</a>
+</h2>
+<p class="post-excerpt">Ngày nay thuật thôi miên rất thịnh hành, dù là người Phương Đông hay Phương Tây đều sử dụng thuật thôi miên, giúp đỡ điều trị một số chứng bệnh ...</p>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section id="tie-cat-9944" class="row wide-box-column list-box">
+<div class="left-column">
+<div class="section-header">
+<h2><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh" target="_blank">Học Tiếng Anh</a>
+</h2>
+<ul class="cat-list">
+<li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/bai-hoc-thu-vi" title="Bài học thú vị" target="_blank">Bài học thú vị</a></li>
+<li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/bi-quyet-hoc" title="Bí quyết học" target="_blank">Bí quyết học</a></li>
+<li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/hoc-va-choi" title="Học và chơi" target="_blank">Học và chơi</a></li>
+<li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/kien-thuc-thong-dung" title="Kiến thức thông dụng" target="_blank">Kiến thức thông dụng</a></li>
+<li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/luyen-tap" title="Luyện tập" target="_blank">Luyện tập</a></li>
+<li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/ngu-phap-tieng-anh" title="Ngữ pháp tiếng Anh" target="_blank">Ngữ pháp tiếng Anh</a></li>
+<li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/phan-biet-tu-dong-nghia" title="Phân biệt từ đồng nghĩa" target="_blank">Phân biệt từ đồng nghĩa</a></li>
+<li><a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/tu-vung-theo-chu-de" title="Từ vựng theo chủ đề" target="_blank">Từ vựng theo chủ đề</a></li>
+</div>
+<div class="section-content">
+<ul class="post-list">
+<li class="first-news">
+<div class="post-thumbnail">
+<a href="/hoc-tieng-anh/hoc-va-choi/10-cau-tieng-anh-lam-ban-xoan-luoi.html" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/05/44-ngu-am-trong-tieng-anh-va-cach-phat-am-dung3-300x200.jpg" alt="10 câu tiếng Anh làm bạn &#8216;xoắn&#8217; lưỡi">
+</a>
+</div> 
+<div class="post-entry">
+<h3 class="post-box-title">
+<a href="/hoc-tieng-anh/hoc-va-choi/10-cau-tieng-anh-lam-ban-xoan-luoi.html" rel="bookmark" target="_blank">10 câu tiếng Anh làm bạn &#8216;xoắn&#8217; lưỡi</a>
+</h3>
+<p>1. The sixth sick sheik’s sixth sheep’s sick. Con cừu thứ sáu của vị tù trưởng thứ sáu bị bệnh. 2. Silly Sally swiftly shooed seven silly sheep, the seven ...</p>
+</div>
+</li> 
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/hoc-tieng-anh/tu-vung-theo-chu-de/tu-vung-chu-de-giac-ngu.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/hinh-anh-em-be-dep7-155x100.jpg" alt="Từ vựng chủ đề: Giấc ngủ"></a>
+</div> 
+<h3 class="post-box-title"><a href="/hoc-tieng-anh/tu-vung-theo-chu-de/tu-vung-chu-de-giac-ngu.html" rel="bookmark" target="_blank">Từ vựng chủ đề: Giấc ngủ</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/hoc-tieng-anh/hoc-va-choi/hoc-tu-vung-qua-danh-ngon-96.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/dn-155x100.jpg" alt="Học từ vựng qua danh ngôn"></a>
+</div> 
+<h3 class="post-box-title"><a href="/hoc-tieng-anh/hoc-va-choi/hoc-tu-vung-qua-danh-ngon-96.html" rel="bookmark" target="_blank">Học từ vựng qua danh ngôn</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/hoc-tieng-anh/phan-biet-tu-dong-nghia/phan-biet-fit-suit-va-match.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/254a8e6f1e6bc46dce8a1320ed1e37b8-155x100.jpg" alt="Phân biệt Fit, Suit và Match"></a>
+</div> 
+<h3 class="post-box-title"><a href="/hoc-tieng-anh/phan-biet-tu-dong-nghia/phan-biet-fit-suit-va-match.html" rel="bookmark" target="_blank">Phân biệt Fit, Suit và Match</a></h3>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="/hoc-tieng-anh/kien-thuc-thong-dung/45-cap-tu-khong-the-tach-roi-phan-iii.html" rel="bookmark" target="_blank"><img src="/wp-content/uploads/2017/05/gpdrirl-155x100.jpg" alt="45 cặp từ không thể tách rời (phần III)"></a>
+</div> 
+<h3 class="post-box-title"><a href="/hoc-tieng-anh/kien-thuc-thong-dung/45-cap-tu-khong-the-tach-roi-phan-iii.html" rel="bookmark" target="_blank">45 cặp từ không thể tách rời (phần III)</a></h3>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+<div class="right-column">
+<div class="section-header">
+<h2>
+<a href="http://daikynguyenvn.com/cat/hoc-tieng-anh/bi-quyet-hoc" title="Bí Quyết Học" target="_blank">
+Bí Quyết Học </a>
+</h2>
+</div>
+<div class="section-content">
+<article class="one-post">
+<div class="post-thumbnail">
+<a href="/hoc-tieng-anh/bi-quyet-hoc/khong-can-nhieu-tien-de-hoc-tieng-anh-o-viet-nam.html" title="Không cần nhiều tiền để học tiếng Anh ở Việt Nam" rel="bookmark" target="_blank">
+<img src="/wp-content/uploads/2017/04/18042924_1409351145777640_1622225626_o-1-300x200.png" alt="Không cần nhiều tiền để học tiếng Anh ở Việt Nam">
+</a>
+</div> 
+<div class="inner-content">
+<h2 class="post-box-title">
+<a href="/hoc-tieng-anh/bi-quyet-hoc/khong-can-nhieu-tien-de-hoc-tieng-anh-o-viet-nam.html" title="Không cần nhiều tiền để học tiếng Anh ở Việt Nam" rel="bookmark" target="_blank">Không cần nhiều tiền để học tiếng Anh ở Việt Nam</a>
+</h2>
+<p class="post-excerpt">Không học ở trường, không tài liệu, không học trung tâm ngoại ngữ nhưng một cô bé 9 tuổi lại đạt giải nhất cuộc thi Olympic tiếng Anh trên internet ...</p>
+</div>
+</article>
+</div>
+</div>
+</section>
+<section id="gallery-posts" class="row wide-box pic-box">
+<div class="section-header">
+<h2><a href="" target="_blank">Ảnh Đẹp</a></h2>
+</div>
+<div class="section-content">
+<article class="post-item big-thumb">
+<div class="post-thumbnail">
+<a href="/anh-dep/thang-5-ruc-ro-ve-dep-cua-su-that-va-niem-tin-khong-bao-gio-mat-vao-chinh-nghia.html" title="Tháng 5 rực rỡ &#8211; Vẻ đẹp của Sự thật và niềm tin không bao giờ mất vào Chính nghĩa" target="_blank">
+<img src="/wp-content/uploads/2017/05/phap-luan-dai-phap-3-590x353.jpg" alt="Tháng 5 rực rỡ &#8211; Vẻ đẹp của Sự thật và niềm tin không bao giờ mất vào Chính nghĩa">
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/anh-dep/thang-5-ruc-ro-ve-dep-cua-su-that-va-niem-tin-khong-bao-gio-mat-vao-chinh-nghia.html" title="Tháng 5 rực rỡ &#8211; Vẻ đẹp của Sự thật và niềm tin không bao giờ mất vào Chính nghĩa" rel="bookmark" target="_blank">Tháng 5 rực rỡ &#8211; Vẻ đẹp của Sự thật và niềm tin không bao giờ mất vào Chính nghĩa</a>
+</h3>
+</article>
+<article class="post-item big-thumb">
+<div class="post-thumbnail">
+<a href="/anh-dep/100-nam-truoc-nguoi-xua-nghi-gi-ve-chung-ta.html" title="100 năm trước người xưa nghĩ gì về chúng ta?" target="_blank">
+<img src="/wp-content/uploads/2016/07/100-nam-truoc-dai-dien-590x353.jpg" alt="100 năm trước người xưa nghĩ gì về chúng ta?">
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/anh-dep/100-nam-truoc-nguoi-xua-nghi-gi-ve-chung-ta.html" title="100 năm trước người xưa nghĩ gì về chúng ta?" rel="bookmark" target="_blank">100 năm trước người xưa nghĩ gì về chúng ta?</a>
+</h3>
+</article>
+<article class="post-item normal-thumb">
+<div class="post-thumbnail">
+<a href="/nghe-thuat/bo-suu-tap-anh-theo-chan-tho-san-phan-2-ta-xua-thien-duong-may.html" title="Bộ sưu tập ảnh &#8220;THEO CHÂN THỢ SĂN&#8221; &#8211; Phần 2: Tà Xùa &#8211; Thiên đường mây" target="_blank">
+<img src="/wp-content/uploads/2017/05/00-thum1-571x367.jpg" alt="Bộ sưu tập ảnh &#8220;THEO CHÂN THỢ SĂN&#8221; &#8211; Phần 2: Tà Xùa &#8211; Thiên đường mây">
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/nghe-thuat/bo-suu-tap-anh-theo-chan-tho-san-phan-2-ta-xua-thien-duong-may.html" title="Bộ sưu tập ảnh &#8220;THEO CHÂN THỢ SĂN&#8221; &#8211; Phần 2: Tà Xùa &#8211; Thiên đường mây" rel="bookmark" target="_blank">Bộ sưu tập ảnh &#8220;THEO CHÂN THỢ SĂN&#8221; &#8211; Phần 2: Tà Xùa &#8211; Thiên đường mây</a>
+</h3>
+</article>
+<article class="post-item normal-thumb">
+<div class="post-thumbnail">
+<a href="/anh-dep/tinh-yeu-giua-hai-nguoi-luon-ton-tai-mot-trong-nhung-dieu-nho-nhat-nhu-vay.html" title="Bộ tranh thế giới tình yêu dạy chúng ta sống yêu thương từ những việc nhỏ nhất" target="_blank">
+<img src="/wp-content/uploads/2017/03/anh1-1-590x353.jpg" alt="Bộ tranh thế giới tình yêu dạy chúng ta sống yêu thương từ những việc nhỏ nhất">
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/anh-dep/tinh-yeu-giua-hai-nguoi-luon-ton-tai-mot-trong-nhung-dieu-nho-nhat-nhu-vay.html" title="Bộ tranh thế giới tình yêu dạy chúng ta sống yêu thương từ những việc nhỏ nhất" rel="bookmark" target="_blank">Bộ tranh thế giới tình yêu dạy chúng ta sống yêu thương từ những việc nhỏ nhất</a>
+</h3>
+</article>
+<article class="post-item normal-thumb">
+<div class="post-thumbnail">
+<a href="/anh-dep/14-buc-ve-mau-nuoc-tinh-thuong-cua-cha-don-gian-nhung-lai-khien-moi-nguoi-con-bat-khoc.html" title="Bộ tranh vẽ cảm động về tình Cha" target="_blank">
+<img src="/wp-content/uploads/2017/02/Untitled-1-46-590x353.jpg" alt="Bộ tranh vẽ cảm động về tình Cha">
+</a>
+</div>
+ 
+<h3 class="post-box-title">
+<a href="/anh-dep/14-buc-ve-mau-nuoc-tinh-thuong-cua-cha-don-gian-nhung-lai-khien-moi-nguoi-con-bat-khoc.html" title="Bộ tranh vẽ cảm động về tình Cha" rel="bookmark" target="_blank">Bộ tranh vẽ cảm động về tình Cha</a>
+</h3>
+</article>
+</div>
+</section>
+<div class="clear"></div>
+</div> 
+<div class="clear"></div>
+<nav id="footer-nav">
+<div class="container"></div>
+</nav>
+<footer id="theme-footer">
+<div id="footer-widget-area" class="narrow-wide-2c">
+<div id="footer-first" class="footer-widgets-box">
+<div id="text-html-widget-4" class="text-html-box">
+<div class="footer-logo" style="margin-top: 20px;">
+<a href="#"><img src="/wp-content/themes/ETvn_v5/images/footer-logo.png" alt="Đại Kỷ Nguyên tiếng Việt"></a>
+</div>
+</div>
+</div>
+<div id="footer-second" class="footer-widgets-box">
+<div id="text-html-widget-9" class="text-html-box" style="text-align:center;">
+<b>Đại Kỷ Nguyên Copyright © 2015</b>
+<p style="font-size: 13px;margin-top: 10px;">Ghi rõ nguồn <a href="http://www.daikynguyenvn.com">daikynguyen.vn</a>
+và gắn link website khi sử dụng lại thông tin từ trang này.</p>
+<ul id="menu-widget-footer-menu" class="menu">
+<li id="menu-item-4350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4350">
+<a href="http://www.daikynguyenvn.com/gioi-thieu-ve-chung-toi">Giới thiệu</a></li>
+<li id="menu-item-6519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6519">
+<a href="/feed">RSS</a></li>
+<li id="menu-item-4347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4347">
+<a href="http://www.daikynguyenvn.com/dieu-khoan">Điều khoản dịch vụ</a></li>
+<li id="menu-item-4346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4346">
+<a href="http://www.daikynguyenvn.com/bao-mat">Bảo mật</a></li>
+<li id="menu-item-4345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4345">
+<a href="http://www.daikynguyenvn.com/ban-quyen">Bản quyền</a></li>
+</ul>
+</div>
+</div>
+</div>
+ 
+<div class="clear"></div>
+</footer> 
+</div> 
+</div> 
+</div> 
+<div id="topcontrol" class="fa fa-angle-up" title="Trượt lên trên"></div>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-57884903-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+        jQuery('.widget-container ul li a').attr('target', '_blank');
+    </script>
+<script type='text/javascript' src='http://daikynguyenvn.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://daikynguyenvn.com/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tie = {"mobile_menu_active":"true","mobile_menu_top":"true","lightbox_all":"true","lightbox_gallery":"true","lightbox_skin":"dark","lightbox_thumb":"vertical","lightbox_arrows":"true","sticky_sidebar":"","lang_no_results":"Kh\u00f4ng c\u00f3 k\u1ebft qu\u1ea3 n\u00e0o","lang_results_found":"C\u00e1c K\u1ebft Qu\u1ea3 T\u00ecm \u0110\u01b0\u1ee3c"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://daikynguyenvn.com/wp-content/themes/ETvn_v5/js/main-js-3.js'></script>
+<script type='text/javascript' src='http://daikynguyenvn.com/wp-content/themes/ETvn_v5/js/ilightbox.packed.js'></script>
+<script type='text/javascript' src='http://daikynguyenvn.com/wp-content/themes/ETvn_v5/js/swiper.min.js'></script>
+<script type='text/javascript' src='http://daikynguyenvn.com/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript'>
+    var clientWidth = window.screen.width;
+    if (clientWidth >= 1024) {
+        var MainContentW = 1170;
+        var LeftBannerW = 180;
+        var RightBannerW = 180;
+        var LeftAdjust = 5;
+        var RightAdjust = 5;
+    }
+    function set_left_right() {
+        startLX = ((document.body.clientWidth - MainContentW) / 2) - (LeftBannerW + LeftAdjust);
+        startRX = ((document.body.clientWidth - MainContentW) / 2) + (MainContentW + RightAdjust);
+        var el = document.getElementById("ads-float-left");
+        el.style.left = startLX + 'px';
+        el.style.display = 'block';
+        var e2 = document.getElementById("ads-float-right");
+        e2.style.left = startRX + 'px';
+        e2.style.display = 'block';
+    }
+
+    jQuery(document).ready(function () {
+        set_left_right();
+        window.onresize = set_left_right;
+        if (jQuery('#ads-float-left').length > 0) {
+            var floatHeight1 = jQuery('#ads-float-left .ads-stick').offset().top;
+            var floatads1 = jQuery('#ads-float-left');
+            jQuery(window).scroll(function () {
+                var fscrollY1 = jQuery(window).scrollTop();
+                if (fscrollY1 > floatHeight1) {
+                    floatads1.addClass('float-fixed');
+                } else if (fscrollY1 < floatHeight1) {
+                    floatads1.removeClass('float-fixed');
+                }
+            });
+        }
+
+        if (jQuery('#ads-float-right').length > 0) {
+            var floatHeight2 = jQuery('#ads-float-right .ads-stick').offset().top;
+            var floatads2 = jQuery('#ads-float-right');
+            jQuery(window).scroll(function () {
+                var fscrollY2 = jQuery(window).scrollTop();
+                if (fscrollY2 > floatHeight2) {
+                    floatads2.addClass('float-fixed');
+                } else if (fscrollY2 < floatHeight2) {
+                    floatads2.removeClass('float-fixed');
+                }
+            });
+        }
+    });
+
+</script>
+ 
+<div id="ads-float-left" class="bsadsheadline">
+<span class="ads-stick"></span>
+<div class="bsadsbase">
+</div>
+</div>
+ 
+<div id="ads-float-right" class="bsadsheadline">
+<span class="ads-stick"></span>
+<div class="bsadsbase">
+</div>
+</div></body>
+</html>
+ 
+ 
+ 
+ 
