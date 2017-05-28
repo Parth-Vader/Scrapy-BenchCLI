@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.ntd.tv/assets/themes/ntd/images/favicon.png" sizes="32x32"/>
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="http://www.ntd.tv/assets/themes/ntd/images/favicon_180x180.png" sizes="180x180"/>
+<meta name="msapplication-TileImage" type="image/x-icon" content="http://www.ntd.tv/assets/themes/ntd/images/favicon_270x270.png" sizes="270x270"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NTD.TV</title>
+<meta name="description" content="NTD Television"/>
+<link rel="canonical" href="http://www.ntd.tv"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="NTD.TV"/>
+<meta property="og:description" content="NTD Television"/>
+<meta property="og:url" content="http://www.ntd.tv"/>
+<meta property="og:site_name" content="www.ntd.tv"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="NTD Television"/>
+<meta name="twitter:title" content="NTD.TV"/>
+<meta name="twitter:domain" content="www.ntd.tv"/>
+<link rel='dns-prefetch' href='//www.ntd.tv'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel='stylesheet' id='ntd-style-css' href='http://www.ntd.tv/assets/themes/ntd/style.css?ver=20170224' type='text/css' media='all'/>
+<link rel='stylesheet' id='ntd-frontpage-css' href='http://www.ntd.tv/assets/themes/ntd/css/front-page.css?ver=4.6.1' type='text/css' media='all'/>
+<style type='text/css'>img#wpstats{display:none}</style>
+<script>
+		var ntd_primary_category, ntd_user_id, ntd_cat_ids, ntd_term_ids, ntd_all_term_ids, ntd_cat_names, ntd_ads_term_ids;
+		var ntd_segment_url = 'http://www.ntd.tv/inspired/assets/uploads';
+	ntd_cat_names = 'Home';
+	</script>
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.ntd.tv/assets/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.ntd.tv/assets/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><link rel="icon" href="http://www.ntd.tv/assets/uploads/2016/11/cropped-NTD_Logo_64x64-150x150.png" sizes="32x32"/>
+<link rel="icon" href="http://www.ntd.tv/assets/uploads/2016/11/cropped-NTD_Logo_64x64-300x300.png" sizes="192x192"/>
+<link rel="apple-touch-icon-precomposed" href="http://www.ntd.tv/assets/uploads/2016/11/cropped-NTD_Logo_64x64-300x300.png"/>
+<meta name="msapplication-TileImage" content="http://www.ntd.tv/assets/uploads/2016/11/cropped-NTD_Logo_64x64-300x300.png"/>
+<noscript><style type="text/css">.wpb_animate_when_almost_visible{opacity:1;}</style></noscript><!--[if lt IE 9]>
+     <script type="text/javascript" src="/assets/themes/ntd/js/html5.js"></script>
+     <link href="/assets/themes/ntd/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class="home blog wpb-js-composer js-comp-ver-4.12.1 vc_responsive">
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TR56NC2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+		j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TR56NC2');
+		</script>
+<header>
+<div class="main row">
+<h1 class="logo_block">
+<a href="http://www.ntd.tv"><img class="logo" src="http://www.ntd.tv/assets/themes/ntd/images/NTD_Logo_W_B.png" title="NTD.TV" alt="NTD.TV"></a>
+</h1>
+<div class="tools">
+<div class="search">
+<form action="http://www.ntd.tv/" class="top_search_form">
+<input name="s" id="search_bar" role="search" class="search-input text search_bar" type="input" placeholder="Search NTD">
+<div class="search_icon" aria-controls=""></div>
+</form>
+</div>
+<div class="share">
+<a href="https://www.facebook.com/NTDTelevision/" target="_blank"><div class="facebook_icon"></div></a>
+<a href="https://twitter.com/ntdtv_english" target="_blank"><div class="twitter_icon"></div></a>
+<a href="https://plus.google.com/111723762657825153877"><div class="google_icon"></div></a>
+</div>
+</div>
+</div>
+<div class="bottom row">
+<div class="menu_bottom">
+<div class="home">
+<span class="title"><a title="HOME" href="http://www.ntd.tv">HOME</a></span>
+</div>
+<div class="news">
+<span class="title menu dropdown" data-target="#news-dropdown-menu">
+<a href="http://www.ntd.tv/category/news/">NEWS</a>
+<div id="news-dropdown-menu" class="dropdown-menu closed"><ul id="menu-desktop_news_dropdown_menu" class="menu"><li id="menu-item-49582" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-politics menu-item-49582"><a href="http://www.ntd.tv/category/politics/">Politics</a></li>
+<li id="menu-item-49585" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-us menu-item-49585"><a href="http://www.ntd.tv/category/us/">US</a></li>
+<li id="menu-item-49579" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-china menu-item-49579"><a href="http://www.ntd.tv/category/china/">China</a></li>
+<li id="menu-item-49586" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-world menu-item-49586"><a href="http://www.ntd.tv/category/world/">World</a></li>
+<li id="menu-item-49581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-opinion menu-item-49581"><a href="http://www.ntd.tv/category/opinion/">Opinion</a></li>
+<li id="menu-item-49578" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-business menu-item-49578"><a href="http://www.ntd.tv/category/business/">Business</a></li>
+<li id="menu-item-49583" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-science-tech menu-item-49583"><a href="http://www.ntd.tv/category/science/">Science &#038; Tech</a></li>
+<li id="menu-item-49580" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-entertainment menu-item-49580"><a href="http://www.ntd.tv/category/entertainment/">Entertainment</a></li>
+<li id="menu-item-49584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-sports menu-item-49584"><a href="http://www.ntd.tv/category/sports/">Sports</a></li>
+</ul></div> </span>
+<a href="http://www.ntd.tv/category/politics/">Politics</a>
+<a href="http://www.ntd.tv/category/us/">U.S.</a>
+<a href="http://www.ntd.tv/category/china/">China</a>
+<a href="http://www.ntd.tv/category/world/">World</a>
+</div>
+<div class="life">
+<span class="title menu dropdown" data-target="#life-dropdown-menu">
+<a href="http://www.ntd.tv/category/life/">LIFE</a>
+<div id="life-dropdown-menu" class="dropdown-menu closed"><ul id="menu-desktop_life_dropdown_menu" class="menu"><li id="menu-item-49619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-food menu-item-49619"><a href="http://www.ntd.tv/category/food/">Food</a></li>
+<li id="menu-item-49620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-health menu-item-49620"><a href="http://www.ntd.tv/category/health/">Health</a></li>
+<li id="menu-item-49621" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-home-decor menu-item-49621"><a href="http://www.ntd.tv/category/home-decor/">Home Decor</a></li>
+<li id="menu-item-49622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-style menu-item-49622"><a href="http://www.ntd.tv/category/lifestyle/">Style</a></li>
+<li id="menu-item-49623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-title-travel menu-item-49623"><a href="http://www.ntd.tv/category/travel/">Travel</a></li>
+</ul></div> </span>
+<a href="http://www.ntd.tv/category/food/">Food</a>
+<a href="http://www.ntd.tv/category/health/">Health</a>
+<a href="http://www.ntd.tv/category/travel/">Travel</a>
+<a href="http://www.ntd.tv/category/home-decor/">Home Decor</a>
+</div>
+<div class="inspire">
+<span class="title menu dropdown" data-target="#inspire-dropdown-menu">
+<a href="http://www.ntd.tv/inspired/">INSPIRED</a>
+<div id="inspire-dropdown-menu" class="dropdown-menu closed"><ul id="menu-desktop_inspire_dropdown_menu-2" class="menu"><li id="menu-item-53379" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-culture menu-item-53379"><a href="http://www.ntd.tv/inspired/category/culture">Culture</a></li>
+<li id="menu-item-53380" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-parenting menu-item-53380"><a href="http://www.ntd.tv/inspired/category/parenting">Parenting</a></li>
+<li id="menu-item-53381" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-stories menu-item-53381"><a href="http://www.ntd.tv/inspired/category/stories">Stories</a></li>
+<li id="menu-item-53382" class="menu-item menu-item-type-custom menu-item-object-custom menu-title-style menu-item-53382"><a href="http://www.ntd.tv/inspired/category/life">Style</a></li>
+</ul></div> </span>
+<a href="http://www.ntd.tv/inspired/category/culture">Culture</a>
+<a href="http://www.ntd.tv/inspired/category/life">Style</a>
+<a href="http://www.ntd.tv/inspired/category/stories">Stories</a>
+<a href="http://www.ntd.tv/inspired/category/diy">DIY</a>
+</div>
+</div>
+</div>
+<div class="redline"></div>
+</header><div class="main_content">
+<div class="news_wrap clear">
+<div class="left_block">
+<div class="news_exclusive">
+<div class="big_title"><a href="http://www.ntd.tv/2017/05/26/g-7-leaders-relax-before-heavy-discussion/"><h2>G-7 leaders relax before heavy discussion</h2></a></div>
+<div class="exc_left">
+<div class="big_image">
+<a href="http://www.ntd.tv/2017/05/26/g-7-leaders-relax-before-heavy-discussion/">
+<img alt="63990G-7 leaders relax before heavy discussion" src="http://www.ntd.tv/assets/uploads/2017/05/YouTube.00_02_25_23.Still008-625x351.jpg">
+<span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_big.png"></span> </a>
+</div>
+<div class="small_image"><ul>
+<li class="clear"><a href="http://www.ntd.tv/2017/05/25/president-trump-headed-to-g7-talks-in-sicily-after-concluding-nato-summit/"><span class="image"><img alt="President Trump headed to G7 talks in Sicily after concluding NATO summit" src="http://www.ntd.tv/assets/uploads/2017/05/AP17145550174814-235x132.jpg"></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/25/president-trump-headed-to-g7-talks-in-sicily-after-concluding-nato-summit/">President Trump headed to G7 talks in Sicily after concluding NATO summit</a></span></li><li class="clear"><a href="http://www.ntd.tv/2017/05/25/new-g-7-members-try-to-agree-on-old-issues/"><span class="image"><img alt="New G-7 members try to agree on old issues" src="http://www.ntd.tv/assets/uploads/2017/05/APAPAPGettyImages-687641364-235x132.jpg"></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/25/new-g-7-members-try-to-agree-on-old-issues/">New G-7 members try to agree on old issues</a></span></li><li class="clear"><a href="http://www.ntd.tv/2017/05/25/president-trump-meets-ec-president-eu-leaders/"><span class="image"><img alt="President Trump meets  EC president, EU leaders" src="http://www.ntd.tv/assets/uploads/2017/05/Image1-7-235x132.jpg"></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/25/president-trump-meets-ec-president-eu-leaders/">President Trump meets EC president, EU leaders</a></span></li><li class="clear"><a href="http://www.ntd.tv/2017/05/24/president-trump-speaks-in-belgium-about-manchester-terrorism/"><span class="image"><img alt="President Trump speaks in Belgium about Manchester terrorism" src="http://www.ntd.tv/assets/uploads/2017/05/95a0f4919a18424314e8b537723d0de0-235x132.jpg"></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/24/president-trump-speaks-in-belgium-about-manchester-terrorism/">President Trump speaks in Belgium about Manchester terrorism</a></span></li> </ul>
+</div>
+</div>
+<div class="exc_right medium_image"><ul>
+<li><a href="http://www.ntd.tv/2017/05/26/g-7-leaders-begin-first-round-of-talks/"><img alt="G-7 leaders begin first round of talks" src="http://www.ntd.tv/assets/uploads/2017/05/YouTube.00_01_14_15.Still008-235x132.jpg"><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/26/g-7-leaders-begin-first-round-of-talks/">G-7 leaders begin first round of talks</a></span></li><li><a href="http://www.ntd.tv/2017/05/26/amazon-opens-a-store-in-real-life/"><img alt="Amazon opens a store in real life" src="http://www.ntd.tv/assets/uploads/2017/05/Sequence-01.Still016-8-235x132.jpg"><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/26/amazon-opens-a-store-in-real-life/">Amazon opens a store in real life</a></span></li><li><a href="http://www.ntd.tv/2017/05/26/flags-in-soldiers-honor-fallen-comrades-at-arlington-cemetery/"><img alt="&#8216;Flags in’—soldiers honor fallen comrades at Arlington Cemetery" src="http://www.ntd.tv/assets/uploads/2017/05/ytb-flag-in-us-soldier-235x132.jpg"><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/26/flags-in-soldiers-honor-fallen-comrades-at-arlington-cemetery/">&#8216;Flags in’—soldiers honor fallen comrades at Arlington Cemetery</a></span></li> </ul>
+</div>
+</div>
+<div class="front_page_manager clear">
+</div>
+<div class="latest_news clear">
+<span class="block_title"><a href="/front/frnt_latest/">Latest News</a></span>
+<ul>
+<li class="odd"><a href="http://www.ntd.tv/2017/05/26/g-7-first-ladies-including-melania-trump-tour-sicily/"><span class="image"><img alt="G-7 first ladies, including Melania Trump, tour Sicily" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/ytb-first-lady-tour-sicily-235x132.jpg"><noscript><img alt="G-7 first ladies, including Melania Trump, tour Sicily" src="http://www.ntd.tv/assets/uploads/2017/05/ytb-first-lady-tour-sicily-235x132.jpg"></noscript></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/26/g-7-first-ladies-including-melania-trump-tour-sicily/">G-7 first ladies, including Melania Trump, tour Sicily</a></span></li><li class="even"><a href="http://www.ntd.tv/2017/05/26/sydney-lights-up-for-annual-festival/"><span class="image"><img alt="Sydney lights up for annual festival" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/ytb-vivid-fest-235x132.jpg"><noscript><img alt="Sydney lights up for annual festival" src="http://www.ntd.tv/assets/uploads/2017/05/ytb-vivid-fest-235x132.jpg"></noscript></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/26/sydney-lights-up-for-annual-festival/">Sydney lights up for annual festival</a></span></li><li class="odd"><a href="http://www.ntd.tv/2017/05/26/penn-station-summer-track-work-will-derail-travel-as-track-foundation-is-rebuilt/"><span class="image"><img alt="Penn Station summer track work will derail travel as track foundation is rebuilt" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/YouTube.00_01_54_05.Still008-1-235x132.jpg"><noscript><img alt="Penn Station summer track work will derail travel as track foundation is rebuilt" src="http://www.ntd.tv/assets/uploads/2017/05/YouTube.00_01_54_05.Still008-1-235x132.jpg"></noscript></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/26/penn-station-summer-track-work-will-derail-travel-as-track-foundation-is-rebuilt/">Penn Station summer track work will derail travel as track foundation is rebuilt</a></span></li><li class="even"><a href="http://www.ntd.tv/2017/05/26/iraqi-regional-official-wants-compensation-for-lethal-coalition-air-strike/"><span class="image"><img alt="Iraqi regional official wants compensation for lethal coalition air strike" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/1runsAP17146383940368-235x132.jpg"><noscript><img alt="Iraqi regional official wants compensation for lethal coalition air strike" src="http://www.ntd.tv/assets/uploads/2017/05/1runsAP17146383940368-235x132.jpg"></noscript></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/26/iraqi-regional-official-wants-compensation-for-lethal-coalition-air-strike/">Iraqi regional official wants compensation for lethal coalition air strike</a></span></li><li class="odd"><a href="http://www.ntd.tv/2017/05/25/wildfire-sweeps-across-siberian-steppe-destroying-homes/"><span class="image"><img alt="Wildfire sweeps across Siberian Steppe, destroying homes" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/YouTube.00_00_06_12.Still008-235x132.jpg"><noscript><img alt="Wildfire sweeps across Siberian Steppe, destroying homes" src="http://www.ntd.tv/assets/uploads/2017/05/YouTube.00_00_06_12.Still008-235x132.jpg"></noscript></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/25/wildfire-sweeps-across-siberian-steppe-destroying-homes/">Wildfire sweeps across Siberian Steppe, destroying homes</a></span></li><li class="even"><a href="http://www.ntd.tv/2017/05/25/violent-clashes-continue-in-venezuela/"><span class="image"><img alt="Violent clashes continue in Venezuela" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/aba0a2a343f148c6de18a93fe12fb8e9-235x132.jpg"><noscript><img alt="Violent clashes continue in Venezuela" src="http://www.ntd.tv/assets/uploads/2017/05/aba0a2a343f148c6de18a93fe12fb8e9-235x132.jpg"></noscript></span></a><span class="title"><a href="http://www.ntd.tv/2017/05/25/violent-clashes-continue-in-venezuela/">Violent clashes continue in Venezuela</a></span></li> </ul>
+</div>
+</div>
+<div class="right_block">
+<div class="politics">
+<span class="block_title"><a href="/category/politics/">Politics</a></span>
+<ul>
+<li class="clear"><span class="list_head">&nbsp</span><a href="http://www.ntd.tv/2017/05/26/north-korea-a-big-problem-that-will-be-solved-says-president-trump/">North Korea a &#8220;big problem” that will be solved, says President Trump</a></li><li class="clear"><span class="list_head">&nbsp</span><a href="http://www.ntd.tv/2017/05/26/u-s-takes-full-responsibility-for-manchester-arena-bombing-investigation-leaks/">U.S. takes &#8216;full responsibility&#8217; for Manchester Arena bombing investigation leaks</a></li><li class="clear"><span class="list_head">&nbsp</span><a href="http://www.ntd.tv/2017/05/25/speaker-ryan-calls-on-montana-candidate-greg-gianforte-to-apologize/">Speaker Ryan calls on Montana candidate Greg Gianforte to apologize</a></li><li class="clear"><span class="list_head">&nbsp</span><a href="http://www.ntd.tv/2017/05/25/education-department-mishandles-6-billion-in-student-aid-funds/">Education Department mishandles $6 billion in student aid funds</a></li><li class="clear"><span class="list_head">&nbsp</span><a href="http://www.ntd.tv/2017/05/25/joe-lieberman-drops-out-as-fbi-director-candidate/">Joe Lieberman drops out as FBI director candidate</a></li> </ul>
+</div>
+<div id="front_ads_right_300_01"></div>
+<div class="live">
+<span class="block_title"><a href="http://www.ntd.tv/live/">Live</a></span>
+<ul>
+<div class="live_image"><span class="tag">LIVE NOW</span><a href="http://www.ntd.tv/live/"><img alt="Live: Dance Parade New York: 11th Annual Dance parade &amp; Festival" src="http://www.ntd.tv/assets/uploads/2017/05/dance-parade.jpg"></a></div><li class="clear"><span class="list_head">&nbsp</span><a href="http://www.ntd.tv/2017/05/12/world-falun-dafa-day-parade-2017/">World Falun Dafa Day Parade 2017</a></li><li class="clear"><span class="list_head">&nbsp</span><a href="http://www.ntd.tv/2017/05/09/new-york-five-boro-bike-tour/">New York Five Boro Bike Tour</a></li> </ul>
+</div>
+</div>
+</div>
+<div class="before_inspire clear"><hr></div>
+<div class="front_inspire clear"><span class="block_title"><a href="http://www.ntd.tv/inspired/"><img src="/assets/themes/ntd/images/NTD_Front_Inspired.png"></a></span>
+<ul id="inspired_top_posts">
+</ul>
+</div>
+<div class="region_news clear">
+<div class="left_block">
+<div class="us_news"><div class="program_name"><a href="http://www.ntd.tv/category/us/">US News</a></div><ul class="program_list"><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/26/small-new-orleans-college-turns-out-masses-of-black-female-physics-grads/"><img alt="Small New Orleans college turns out masses of black female physics grads" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/00gradAP17145522322413-300x168.jpg"><noscript><img alt="Small New Orleans college turns out masses of black female physics grads" src="http://www.ntd.tv/assets/uploads/2017/05/00gradAP17145522322413-300x168.jpg"></noscript></a><div class="title"><a href="http://www.ntd.tv/2017/05/26/small-new-orleans-college-turns-out-masses-of-black-female-physics-grads/">Small New Orleans college turns out masses of black female physics grads</a></div></li><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/26/u-s-economic-growth-still-slow-but-faster-than-expected/"><img alt="U.S. economic growth still slow, but faster than expected" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/AP17124671117034-300x168.jpg"><noscript><img alt="U.S. economic growth still slow, but faster than expected" src="http://www.ntd.tv/assets/uploads/2017/05/AP17124671117034-300x168.jpg"></noscript></a><div class="title"><a href="http://www.ntd.tv/2017/05/26/u-s-economic-growth-still-slow-but-faster-than-expected/">U.S. economic growth still slow, but faster than expected</a></div></li><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/25/11-hurt-in-las-vegas-school-bus-crash/"><img alt="11 hurt in Las Vegas school bus crash" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/AP17145664760376-1-300x168.jpg"><noscript><img alt="11 hurt in Las Vegas school bus crash" src="http://www.ntd.tv/assets/uploads/2017/05/AP17145664760376-1-300x168.jpg"></noscript></a><div class="title"><a href="http://www.ntd.tv/2017/05/25/11-hurt-in-las-vegas-school-bus-crash/">11 hurt in Las Vegas school bus crash</a></div></li></ul><div class="clear"></div><div class="program_border"><hr></div></div>
+<div class="china_news"><div class="program_name"><a href="http://www.ntd.tv/category/china/">China</a></div><ul class="program_list"><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/24/moodys-downgrades-china-rating-for-the-first-time-since-1989/"><img alt="Moody&#8217;s downgrades China rating for the first time since 1989" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/abd63f1dc539d622197d35e7d72fd62d-300x168.jpg"><noscript><img alt="Moody&#8217;s downgrades China rating for the first time since 1989" src="http://www.ntd.tv/assets/uploads/2017/05/abd63f1dc539d622197d35e7d72fd62d-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/24/moodys-downgrades-china-rating-for-the-first-time-since-1989/">Moody&#8217;s downgrades China rating for the first time since 1989</a></div></li><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/19/china-hong-kong-bridge-nears-completion/"><img alt="China-Hong Kong bridge nears completion" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/683822362-300x168.jpg"><noscript><img alt="China-Hong Kong bridge nears completion" src="http://www.ntd.tv/assets/uploads/2017/05/683822362-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/19/china-hong-kong-bridge-nears-completion/">China-Hong Kong bridge nears completion</a></div></li><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/17/lot-in-downtown-hong-kong-sells-for-3-billion/"><img alt="Lot in downtown Hong Kong sells for $3 billion" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/6ab48e06de8a993011bc0a052648b4ed-300x168.jpg"><noscript><img alt="Lot in downtown Hong Kong sells for $3 billion" src="http://www.ntd.tv/assets/uploads/2017/05/6ab48e06de8a993011bc0a052648b4ed-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/17/lot-in-downtown-hong-kong-sells-for-3-billion/">Lot in downtown Hong Kong sells for $3 billion</a></div></li></ul><div class="clear"></div><div class="program_border"><hr></div></div>
+<div class="world_news"><div class="program_name"><a href="http://www.ntd.tv/category/world/">World</a></div><ul class="program_list"><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/26/china-claims-to-have-tightened-north-korea-border/"><img alt="China claims to have tightened North Korea border" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/0101mkmknAP17146103278865-300x168.jpg"><noscript><img alt="China claims to have tightened North Korea border" src="http://www.ntd.tv/assets/uploads/2017/05/0101mkmknAP17146103278865-300x168.jpg"></noscript></a><div class="title"><a href="http://www.ntd.tv/2017/05/26/china-claims-to-have-tightened-north-korea-border/">China claims to have tightened North Korea border</a></div></li><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/26/poland-faces-eu-deadline-to-curb-cutting-of-trees-in-world-heritage-forest/"><img alt="Poland faces EU deadline to curb cutting of trees in world heritage forest" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/AP17146446101298-300x168.jpg"><noscript><img alt="Poland faces EU deadline to curb cutting of trees in world heritage forest" src="http://www.ntd.tv/assets/uploads/2017/05/AP17146446101298-300x168.jpg"></noscript></a><div class="title"><a href="http://www.ntd.tv/2017/05/26/poland-faces-eu-deadline-to-curb-cutting-of-trees-in-world-heritage-forest/">Poland faces EU deadline to curb cutting of trees in world heritage forest</a></div></li><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/26/60000-migrants-have-reached-europe-so-far-in-2017-down-23-from-2016/"><img alt="60,000 migrants have reached Europe so far in 2017—down 2/3 from 2016" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/0MoansAP17144637386970-copy-300x168.jpg"><noscript><img alt="60,000 migrants have reached Europe so far in 2017—down 2/3 from 2016" src="http://www.ntd.tv/assets/uploads/2017/05/0MoansAP17144637386970-copy-300x168.jpg"></noscript></a><div class="title"><a href="http://www.ntd.tv/2017/05/26/60000-migrants-have-reached-europe-so-far-in-2017-down-23-from-2016/">60,000 migrants have reached Europe so far in 2017—down 2/3 from 2016</a></div></li></ul><div class="clear"></div><div class="program_border"><hr></div></div>
+</div>
+<div class="right_block">
+<div id="ntd_facebook_fan_page"></div>
+<div id="front_ads_right_300_02"></div>
+<div class="ntd_front_uncensored"><a href="http://www.chinauncensored.tv"><img src="/assets/themes/ntd/images/NTD_Front_Uncensored.jpg"></a></div>
+</div>
+</div>
+<div class="front_stories clear"><span class="block_title"><a href="/category/stories/"><img src="/assets/themes/ntd/images/NTD_Front_Stories.png"></a></span>
+<ul id="inspired_top_stories">
+</ul>
+</div>
+<div id="sponsored_stories_01"></div>
+<div class="front_programs clear">
+<div class="left_block">
+<div class="health"><div class="program_name"><a href="http://www.ntd.tv/category/health/">Health</a></div><ul class="program_list"><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/24/chef-shares-how-he-lost-100-pounds-with-healthier-recipes/"><img alt="Chef shares how he lost 100 pounds with healthier recipes" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/E-NTD_sequence_temp.00_02_00_15.Still001-300x168.jpg"><noscript><img alt="Chef shares how he lost 100 pounds with healthier recipes" src="http://www.ntd.tv/assets/uploads/2017/05/E-NTD_sequence_temp.00_02_00_15.Still001-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/24/chef-shares-how-he-lost-100-pounds-with-healthier-recipes/">Chef shares how he lost 100 pounds with healthier recipes</a></div></li><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/24/zika-brought-to-florida-months-before-it-infected-locals/"><img alt="Zika brought to Florida months before it infected locals" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/ZZkaAP17139637017544-300x168.jpg"><noscript><img alt="Zika brought to Florida months before it infected locals" src="http://www.ntd.tv/assets/uploads/2017/05/ZZkaAP17139637017544-300x168.jpg"></noscript></a><div class="title"><a href="http://www.ntd.tv/2017/05/24/zika-brought-to-florida-months-before-it-infected-locals/">Zika brought to Florida months before it infected locals</a></div></li><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/19/blind-woman-happy-to-help-her-seeing-eye-pony/"><img alt="Blind woman happy to help her seeing-eye pony" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/E-NTD_sequence_temp.00_00_18_13.Still001-300x168.jpg"><noscript><img alt="Blind woman happy to help her seeing-eye pony" src="http://www.ntd.tv/assets/uploads/2017/05/E-NTD_sequence_temp.00_00_18_13.Still001-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/19/blind-woman-happy-to-help-her-seeing-eye-pony/">Blind woman happy to help her seeing-eye pony</a></div></li></ul><div class="clear"></div><div class="program_border"><hr></div></div>
+<div class="food"><div class="program_name"><a href="http://www.ntd.tv/category/food/">Food</a></div><ul class="program_list"><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/26/more-than-soft-serve-taiyaki-nyc-puts-a-twist-on-a-traditional-japanese-treat/"><img alt="More than soft serve: Taiyaki NYC puts a twist on a traditional Japanese treat" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/18622185_259359907801711_1013894291557714812_n-300x168.jpg"><noscript><img alt="More than soft serve: Taiyaki NYC puts a twist on a traditional Japanese treat" src="http://www.ntd.tv/assets/uploads/2017/05/18622185_259359907801711_1013894291557714812_n-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/26/more-than-soft-serve-taiyaki-nyc-puts-a-twist-on-a-traditional-japanese-treat/">More than soft serve: Taiyaki NYC puts a twist on a traditional Japanese treat</a></div></li><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/22/mini-pepper-pizzas/"><img alt="Mini Pepper Pizzas" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/bell-pepper-pizza-16-9-300x168.jpg"><noscript><img alt="Mini Pepper Pizzas" src="http://www.ntd.tv/assets/uploads/2017/05/bell-pepper-pizza-16-9-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/22/mini-pepper-pizzas/">Mini Pepper Pizzas</a></div></li><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/23/cheesy-spicy-chicken-pasta/"><img alt="Cheesy Spicy Chicken Pasta" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/Korean-spicy-chicken-pasta-16x9-300x168.jpg"><noscript><img alt="Cheesy Spicy Chicken Pasta" src="http://www.ntd.tv/assets/uploads/2017/05/Korean-spicy-chicken-pasta-16x9-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/23/cheesy-spicy-chicken-pasta/">Cheesy Spicy Chicken Pasta</a></div></li></ul><div class="clear"></div><div class="program_border"><hr></div></div>
+<div class="entertainment"><div class="program_name"><a href="http://www.ntd.tv/category/entertainment/">Entertainment</a></div><ul class="program_list"><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/26/one-danish-artist-creates-giants-who-roam-the-forests/"><img alt="One Danish artist creates giants who roam the forests" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/d4df33529f841741730a2c4d53b7cb1d-300x168.jpg"><noscript><img alt="One Danish artist creates giants who roam the forests" src="http://www.ntd.tv/assets/uploads/2017/05/d4df33529f841741730a2c4d53b7cb1d-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/26/one-danish-artist-creates-giants-who-roam-the-forests/">One Danish artist creates giants who roam the forests</a></div></li><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/25/disney-avatar-attraction-previews-with-director-james-cameron-actresses-from-the-movie/"><img alt="Disney ‘Avatar’ attraction previews with director James Cameron, actresses from the movie" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/E-NTD_sequence_temp.00_00_07_05.Still002-300x168.jpg"><noscript><img alt="Disney ‘Avatar’ attraction previews with director James Cameron, actresses from the movie" src="http://www.ntd.tv/assets/uploads/2017/05/E-NTD_sequence_temp.00_00_07_05.Still002-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/25/disney-avatar-attraction-previews-with-director-james-cameron-actresses-from-the-movie/">Disney ‘Avatar’ attraction previews with director James Cameron, actresses from the movie</a></div></li><li style="width:33.333333333333%;"><a href="http://www.ntd.tv/2017/05/24/serena-williams-wants-to-diversify-silicon-valley/"><img alt="Serena Williams wants to diversify Silicon Valley" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/222SweeenaAP17144405217576-300x168.jpg"><noscript><img alt="Serena Williams wants to diversify Silicon Valley" src="http://www.ntd.tv/assets/uploads/2017/05/222SweeenaAP17144405217576-300x168.jpg"></noscript></a><div class="title"><a href="http://www.ntd.tv/2017/05/24/serena-williams-wants-to-diversify-silicon-valley/">Serena Williams wants to diversify Silicon Valley</a></div></li></ul><div class="clear"></div><div class="program_border"><hr></div></div>
+</div>
+<div class="right_block">
+<div id="front_ads_right_300_03"></div>
+<div class="photo_galleries">
+<span class="block_title"><img src="/assets/themes/ntd/images/NTD_Photos_Gallery_Banner.png"></span>
+<ul>
+<li><a title="He captured first touch of Spring&#8217;s  blooms in England in ULTRA color" href="http://www.ntd.tv/2017/04/20/he-captured-first-touch-of-springs-blooms-in-england-in-ultra-color/"><img alt="He captured first touch of Spring&#8217;s  blooms in England in ULTRA color" src="http://www.ntd.tv/assets/uploads/2017/05/222-300x168.png"></a></li><li><a title="Awesome photos of big dogs and children having the time of their lives" href="http://www.ntd.tv/2017/04/20/impossibly-big-dogs-playing-with-children-will-make-your-heart-smile/"><img alt="Awesome photos of big dogs and children having the time of their lives" src="http://www.ntd.tv/assets/uploads/2017/05/304-300x168.jpg"></a></li> </ul>
+</div>
+</div>
+</div>
+<div id="sponsored_stories_02"></div>
+<div class="front_channel clear">
+<div class="science_tech"><div class="program_name"><a href="http://www.ntd.tv/category/science/">Science &amp; Tech</a></div><ul class="program_list"><li style="width:25%;"><a href="http://www.ntd.tv/2017/05/26/south-africa-displays-largest-collection-of-early-human-relative-fossils/"><img alt="South Africa displays largest collection of early human relative fossils" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/E-NTD_sequence_temp.00_00_13_21.Still002-300x168.jpg"><noscript><img alt="South Africa displays largest collection of early human relative fossils" src="http://www.ntd.tv/assets/uploads/2017/05/E-NTD_sequence_temp.00_00_13_21.Still002-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/26/south-africa-displays-largest-collection-of-early-human-relative-fossils/">South Africa displays largest collection of early human relative fossils</a></div></li><li style="width:25%;"><a href="http://www.ntd.tv/2017/05/25/peaking-underneath-jupiters-cloud-cover-reveals-enormous-cyclones-spinning/"><img alt="Peaking underneath Jupiter&#8217;s cloud cover reveals enormous cyclones spinning" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/AP17145689773507-e1495750875489-300x168.jpg"><noscript><img alt="Peaking underneath Jupiter&#8217;s cloud cover reveals enormous cyclones spinning" src="http://www.ntd.tv/assets/uploads/2017/05/AP17145689773507-e1495750875489-300x168.jpg"></noscript></a><div class="title"><a href="http://www.ntd.tv/2017/05/25/peaking-underneath-jupiters-cloud-cover-reveals-enormous-cyclones-spinning/">Peaking underneath Jupiter&#8217;s cloud cover reveals enormous cyclones spinning</a></div></li><li style="width:25%;"><a href="http://www.ntd.tv/2017/05/25/space-age-version-of-the-space-age-rocket-lab-launches-3-d-printed-rocket/"><img alt="Space-age version of the Space Age—Rocket Lab launches 3-D-printed rocket" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/fb8cb9a7ab85e1988503024718afb499-300x168.jpg"><noscript><img alt="Space-age version of the Space Age—Rocket Lab launches 3-D-printed rocket" src="http://www.ntd.tv/assets/uploads/2017/05/fb8cb9a7ab85e1988503024718afb499-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/25/space-age-version-of-the-space-age-rocket-lab-launches-3-d-printed-rocket/">Space-age version of the Space Age—Rocket Lab launches 3-D-printed rocket</a></div></li><li style="width:25%;"><a href="http://www.ntd.tv/2017/05/24/facebook-creating-original-scripted-and-unscripted-video-content/"><img alt="Facebook creating original scripted and unscripted video content" class="lazy" src="/assets/themes/ntd/images/white.png" data-src="http://www.ntd.tv/assets/uploads/2017/05/41baf92412c3042faf72835609f13e71-300x168.jpg"><noscript><img alt="Facebook creating original scripted and unscripted video content" src="http://www.ntd.tv/assets/uploads/2017/05/41baf92412c3042faf72835609f13e71-300x168.jpg"></noscript><span class="ntd_video_icon"><img src="/assets/themes/ntd/images/NTD_video_icon_small.png"></span></a><div class="title"><a href="http://www.ntd.tv/2017/05/24/facebook-creating-original-scripted-and-unscripted-video-content/">Facebook creating original scripted and unscripted video content</a></div></li></ul><div class="clear"></div><div class="program_border"><hr></div></div>
+</div>
+</div>
+<footer>
+<div class="redline"></div>
+<div class="row">
+<div class="bottom_logo">
+<a href="http://www.ntd.tv" title="www.ntd.tv"><div class="logo"></div></a>
+</div>
+<div class="bottom_menu">
+<div class="menu1">
+<a title="Home" href="http://www.ntd.tv">Home</a>
+<a title="News" href="http://www.ntd.tv/category/news/">News</a>
+<a title="Politics" href="http://www.ntd.tv/category/politics/">Politics</a>
+<a title="U.S." href="http://www.ntd.tv/category/us/">U.S.</a>
+<a title="China" href="http://www.ntd.tv/category/china/">China</a>
+<a title="World" href="http://www.ntd.tv/category/world/">World</a>
+<a title="Life" href="http://www.ntd.tv/category/life/">Life</a>
+<a title="Food" href="http://www.ntd.tv/category/food/">Food</a>
+<a title="Health" href="http://www.ntd.tv/category/health/">Health</a>
+<a title="Travel" href="http://www.ntd.tv/category/travel/">Travel</a>
+<a title="Home Decor" href="http://www.ntd.tv/category/home-decor/">Home Decor</a>
+<a title="Inspired" href="http://www.ntd.tv/inspired/">Inspired</a>
+<a title="Culture" href="http://www.ntd.tv/inspired/category/culture">Culture</a>
+<a title="Style" href="http://www.ntd.tv/inspired/category/life">Style</a>
+<a title="Stories" href="http://www.ntd.tv/inspired/category/stories">Stories</a>
+<a title="DIY" href="http://www.ntd.tv/inspired/category/diy">DIY</a>
+</div>
+<div class="menu2">
+<a title="About" href="http://www.ntd.tv/about/">About</a>|
+<a title="Advertise With Us" href="http://www.ntd.tv/advertise-with-us/">Advertise With Us</a>|
+<a title="Support Us" href="http://www.ntd.tv/support-us/">Support Us</a>|
+<a title="Contact Us" href="http://www.ntd.tv/contact-us/">Contact Us</a>|
+<a title="Terms of Service" href="http://www.ntd.tv/terms-of-service/">Terms of Service</a>|
+<a title="Privacy Policy" href="http://www.ntd.tv/privacy-policy/">Privacy Policy</a>|
+<a title="Copyright Policy" href="http://www.ntd.tv/copyright-policy/">Copyright Policy</a>
+</div>
+</div>
+</div>
+<div class="copyright">@ Copyright NTDTV 2016 - 2017. All Rights Reserved</div>
+<div id="backtotop">
+<a title="back to top" href="javascript:void(0);" class="totop"></a>
+</div>
+</footer>
+<script>
+	ntd_ga_id = 'UA-42509795-2';
+ntd_domain = 'ntd.tv';
+	  	var ntd_google_optimize_id = "GTM-M9ZB8DH";
+	</script>
+<style>.async-hide{opacity:0!important}</style>
+<script>
+		var settings_obj = {};
+		settings_obj[ 'GTM-TR56NC2' ] = true;
+		(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+		h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+		(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+		})(window,document.documentElement,'async-hide','dataLayer',500,settings_obj);
+	</script>
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', ntd_ga_id, 'auto');
+	  ga('require', ntd_google_optimize_id);
+	  if ( typeof(ntd_primary_category) != "undefined" && ntd_primary_category !== null ) {
+		  ga('set', 'dimension1', ntd_primary_category);
+	  }
+	  if ( typeof(ntd_user_id) != "undefined" && ntd_user_id !== null ) {
+		  ga('set', 'dimension2', ntd_user_id);
+	  }
+	  if ( typeof(ntd_cat_ids) != "undefined" && ntd_cat_ids !== null ) {
+		  ga('set', 'dimension3', ntd_cat_ids);
+	  }
+	  if ( typeof(ntd_term_ids) != "undefined" && ntd_term_ids !== null ) {
+		  ga('set', 'dimension4', ntd_term_ids);
+	  }
+	  if ( typeof(ntd_all_term_ids) != "undefined" && ntd_all_term_ids !== null ) {
+		  ga('set', 'dimension5', ntd_all_term_ids);
+	  }
+
+
+	  ga('send', 'pageview');
+	  setTimeout("ga('send','event','NoBounce','Over 30 seconds')",30000);
+
+	</script>
+<script type="text/javascript">
+		(function(w,d,s,p,v,e,r) {w['$igniter_var']=v;w[v]=w[v]||function(){(w[v].q=w[v].q||[]).push(
+		arguments)};w[v].l=1*new Date();e=d.createElement(s),r=d.getElementsByTagName(s)[0];e.async=1;
+		e.src=p+'?ts='+(+new Date()/3600000|0);
+		r.parentNode.insertBefore(e,r)})(window,document,'script','//cdn.petametrics.com/kuc9red34cm28v7g.js','$p');
+		$p("init", "kuc9red34cm28v7g");
+		$p("send", "pageview");
+	</script>
+ 
+<script type="text/javascript">
+		_atrk_opts = { atrk_acct:"fQGRk1ao6C52mh", domain:"ntd.tv",dynamic: true};
+		(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+	</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=fQGRk1ao6C52mh" style="display:none" height="1" width="1" alt=""/></noscript>
+ 
+<script type='text/javascript' src='http://www.ntd.tv/assets/themes/ntd/js/jquery-all.min.js?ver=20170224'></script>
+<script type='text/javascript' src='http://www.ntd.tv/assets/themes/ntd/js/bottom.js?ver=20170324'></script>
+<script type='text/javascript' src='http://www.ntd.tv/assets/themes/ntd/js/article_ads.js?ver=20170224'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201721.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.3.2',blog:'35512456',post:'0',tz:'-4',srv:'www.ntd.tv'} ]);
+	_stq.push([ 'clickTrackerInit', '35512456', '0' ]);
+</script>
+</body>
+</html>
+ 
+ 
+ 
