@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 from scrapy.linkextractors import LinkExtractor
 from scrapy.http import HtmlResponse, TextResponse, Response
 from six.moves.urllib.parse import urlparse
@@ -12,13 +14,10 @@ def main():
     url = 'http://scrapinghub.com/'
     link_extractor = LinkExtractor()
     total = 0
-    #r1 = TextResponse(url)
-    #r2 =Response(url)
     for files in glob.glob('sites/index*'):
 
-        f = (open(files, "r"))
+        f = (open(files, "r", encoding="ISO-8859-1"))
         html = "'''" + f.read() + "'''"
-        # print html
 
         r3 = HtmlResponse(url=url, body=html, encoding='utf8')
         links = link_extractor.extract_links(r3)

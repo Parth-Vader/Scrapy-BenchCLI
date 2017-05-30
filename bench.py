@@ -21,38 +21,21 @@ def cli():
 def normal(long, only_result):
     """Run a spider to scrape a locally hosted site"""
 
-    if long == 1:
-        if only_result:
-            process = subprocess.Popen(
-                "scrapy crawl followall -o items.csv",
-                shell=True,
-                stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE)
-            process.wait()
+    arg = "for i in `seq 1 " + \
+        str(long) + " `; do scrapy crawl followall -o items.csv; done"
+    if only_result:
+        process = subprocess.Popen(
+            arg,
+            shell=True,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE)
+        process.wait()
+    else:
+        process = subprocess.Popen(arg, shell=True)
+        process.wait()
 
-        else:
-            process = subprocess.Popen(
-                "scrapy crawl followall -o items.csv", shell=True)
-            process.wait()
-        with open('AvSpeed.txt') as f:
-            w = [float(x) for x in next(f).split()]
-
-    elif long > 1:
-        arg = "for i in `seq 1 " + \
-            str(long) + " `; do scrapy crawl followall -o items.csv; done"
-        if only_result:
-            process = subprocess.Popen(
-                arg,
-                shell=True,
-                stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE)
-            process.wait()
-        else:
-            process = subprocess.Popen(arg, shell=True)
-            process.wait()
-
-        with open('AvSpeed.txt') as f:
-            w = [float(x) for x in next(f).split()]
+    with open('AvSpeed.txt') as f:
+        w = [float(x) for x in next(f).split()]
 
     click.secho(
         "\nThe results of the benchmark are (all speeds in items/sec) : \n",
