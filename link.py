@@ -8,6 +8,7 @@ from timeit import default_timer as timer
 import click
 import io
 
+
 def main():
     start = timer()
 
@@ -24,7 +25,7 @@ def main():
         total = total + len(links)
     end = timer()
     print("\nTotal number of links extracted = {0}".format(total))
-    print ("Time taken = {0}".format(end - start))
+    print("Time taken = {0}".format(end - start))
     click.secho("Rate of link extraction : {0} links/second\n".format(
         float(total / (end - start))), bold=True)
 
