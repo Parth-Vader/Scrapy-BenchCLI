@@ -70,6 +70,7 @@ My Nginx config file is shared [here](https://github.com/Parth-Vader/Scrapy-Benc
       tar -xvzf sites.tar.gz 
 
 To use `scrapy-bench normal`
+      
       cd books/
     
 ## Usage
