@@ -1,14 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import re
-from six.moves.urllib.parse import urlparse
 import datetime
+
+from six.moves.urllib.parse import urlparse
+import click
 import scrapy
 from scrapy.http import Request, HtmlResponse
 from scrapy.linkextractors import LinkExtractor
 import click
+
 from books.items import Page
-t = datetime.datetime.utcnow()
 
 
 class FollowAllSpider(scrapy.Spider):
@@ -34,6 +36,7 @@ class FollowAllSpider(scrapy.Spider):
         self.previtem = 0
         self.items = 0
         self.timesec = datetime.datetime.utcnow()
+        self.t = datetime.datetime.utcnow()
 
     def start_requests(self):
         return [Request(self.url, callback=self.parse, dont_filter=True)]
@@ -51,17 +54,17 @@ class FollowAllSpider(scrapy.Spider):
         self.timesec = b - a
 
         if 280 <= self.items <= 300:
-            global t
-            t = datetime.datetime.utcnow()
+            self.t = datetime.datetime.utcnow()
         if self.items > 300:
             self.items = self.items - 300
-            self.timesec = b - t
+            self.timesec = b - self.t
 
         return r
 
     def close(self, reason):
-        f = open("AvSpeed.txt", 'a')
-        f.write(" {0}".format((self.items * (1 / self.timesec.total_seconds()))))
+        with open("Benchmark.txt", 'w') as f:
+            f.write(" {0}".format(
+                (self.items * (1 / self.timesec.total_seconds()))))
         click.secho("\nThe average speed of the spider is {0} items/sec\n".format(
             self.items * (1 / self.timesec.total_seconds())), bold=True)
 

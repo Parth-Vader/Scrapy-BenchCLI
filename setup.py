@@ -9,7 +9,6 @@ setup(
             'scrapy',
             'statistics',
             'six',
-            'datetime',
         ],
         entry_points='''
 		[console_scripts]

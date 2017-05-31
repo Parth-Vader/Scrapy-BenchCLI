@@ -1,12 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+import glob
+from timeit import default_timer as timer
+import io
+
+import click
 from scrapy.linkextractors import LinkExtractor
 from scrapy.http import HtmlResponse, TextResponse, Response
 from six.moves.urllib.parse import urlparse
-import glob
-from timeit import default_timer as timer
-import click
-import io
 
 
 def main():
@@ -18,7 +19,7 @@ def main():
     for files in glob.glob('sites/index*'):
 
         f = (io.open(files, "r", encoding="ISO-8859-1"))
-        html = "'''" + f.read() + "'''"
+        html = f.read()
 
         r3 = HtmlResponse(url=url, body=html, encoding='utf8')
         links = link_extractor.extract_links(r3)
@@ -29,8 +30,8 @@ def main():
     click.secho("Rate of link extraction : {0} links/second\n".format(
         float(total / (end - start))), bold=True)
 
-    g = open("Stats.txt", 'a')
-    g.write(" {0}".format((float(total / (end - start)))))
+    with open("Benchmark.txt", 'w') as g:
+        g.write(" {0}".format((float(total / (end - start)))))
 
 
 if __name__ == "__main__":
