@@ -8,7 +8,6 @@ import click
 import scrapy
 from scrapy.http import Request, HtmlResponse
 from scrapy.linkextractors import LinkExtractor
-import click
 
 from books.items import Page
 

@@ -7,7 +7,7 @@ import click
 import statistics
 
 
-def calculator(test, arg, n_runs, only_result, books=False):
+def calculator(test, arg, n_runs, only_result):
     w = []
     for x in range(n_runs):
         if only_result:
@@ -37,10 +37,6 @@ def calculator(test, arg, n_runs, only_result, books=False):
             statistics.pstdev(w)),
         bold=True)
     os.remove('Benchmark.txt')
-    try:
-        os.remove('items.csv')
-    except OSError:
-        pass
 
 
 @click.group()
@@ -59,6 +55,7 @@ def bookworm(n_runs, only_result):
     """Spider to scrape locally hosted site"""
     arg = "scrapy crawl followall -o items.csv"
     calculator("Book Spider", arg, n_runs, only_result)
+    os.remove('items.csv')
 
 
 @cli.command()
