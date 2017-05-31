@@ -69,7 +69,7 @@ My Nginx config file is shared [here](https://github.com/Parth-Vader/Scrapy-Benc
       pip install --editable .
       tar -xvzf sites.tar.gz 
 
-To use `scrapy-bench normal`
+To use `scrapy-bench bookworm`
       
       cd books/
     
