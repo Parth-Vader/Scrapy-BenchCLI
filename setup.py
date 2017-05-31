@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-        name='Bench',
+        name='Scrapy-Benchmark',
         version='1.0',
         py_modules=['scrapy-bench'],
         install_requires=[

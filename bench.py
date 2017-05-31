@@ -9,7 +9,7 @@ import statistics
 
 def calculator(test, arg, n_runs, only_result, books=False):
     w = []
-    for x in xrange(n_runs):
+    for x in range(n_runs):
         if only_result:
             process = subprocess.Popen(
                 arg,
