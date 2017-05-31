@@ -36,7 +36,6 @@ class FollowAllSpider(scrapy.Spider):
         self.previtem = 0
         self.items = 0
         self.timesec = datetime.datetime.utcnow()
-        self.t = datetime.datetime.utcnow()
 
     def start_requests(self):
         return [Request(self.url, callback=self.parse, dont_filter=True)]
@@ -52,12 +51,6 @@ class FollowAllSpider(scrapy.Spider):
         a = self.crawler.stats.get_value('start_time')
         b = datetime.datetime.utcnow()
         self.timesec = b - a
-
-        if 280 <= self.items <= 300:
-            self.t = datetime.datetime.utcnow()
-        if self.items > 300:
-            self.items = self.items - 300
-            self.timesec = b - self.t
 
         return r
 
