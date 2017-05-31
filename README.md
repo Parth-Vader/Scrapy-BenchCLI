@@ -60,6 +60,8 @@
 My Nginx config file is shared [here](https://github.com/Parth-Vader/Scrapy-BenchCLI/blob/master/nginx.conf).
  Source : [How to install nginx](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04).
 
+The html files present in `sites.tar.gz` files were downloaded using `wget` from the top 130 sites from `Alexa top sites` list.
+
 * Do the following :
     
       git clone https://github.com/Parth-Vader/Scrapy-BenchCLI.git  
