@@ -18,7 +18,7 @@ def main():
     total = 0
     for files in glob.glob('sites/index*'):
 
-        f = (io.open(files, "r", encoding="ISO-8859-1"))
+        f = (io.open(files, "r", encoding="utf8"))
         html = f.read()
 
         r3 = HtmlResponse(url=url, body=html, encoding='utf8')
