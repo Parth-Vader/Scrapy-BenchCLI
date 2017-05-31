@@ -12,7 +12,7 @@
 ### Current Features 
 * Spawns a CPU-intensive spider which follows a fixed number of links of a static snapshot of the site [Books to Scrape](http://books.toscrape.com/index.html).
 * Follows a real-world scenario where various information of the books is extracted, and stored in a `.csv` file.
-* Has a `--long` option for perfoming more than one iteration of spider to improve the precision.
+* Has a `--n-runs` option for perfoming more than one iteration of spider to improve the precision.
 * Has a `--only_results` option for viewing the results only.
 * A micro benchmark that tests LinkExtractor() function by extracting links from a collection of html pages.
 
@@ -83,5 +83,5 @@ To use `scrapy-bench normal`
 	  --help  Show this message and exit.
 
 	Commands:
+	  bookworm       Spider to scrape locally hosted site
 	  linkextractor  Micro-benchmark for LinkExtractor()
-	  normal         Run a spider to scrape a locally hosted site
