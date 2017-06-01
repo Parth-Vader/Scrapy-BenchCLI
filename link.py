@@ -16,9 +16,9 @@ def main():
     url = 'http://scrapinghub.com/'
     link_extractor = LinkExtractor()
     total = 0
-    for files in glob.glob('sites/index*'):
+    for files in glob.glob('sites/*'):
 
-        f = (io.open(files, "r", encoding="utf8"))
+        f = (io.open(files, "r", encoding="utf-8"))
         html = f.read()
 
         r3 = HtmlResponse(url=url, body=html, encoding='utf8')
