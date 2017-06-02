@@ -53,9 +53,11 @@ def cli():
 @click.option('--only_result', is_flag=True, help="Display the results only.")
 def bookworm(n_runs, only_result):
     """Spider to scrape locally hosted site"""
+    os.chdir(os.getcwd() + "/books")
     arg = "scrapy crawl followall -o items.csv"
     calculator("Book Spider", arg, n_runs, only_result)
     os.remove('items.csv')
+    os.chdir('..')
 
 
 @cli.command()
