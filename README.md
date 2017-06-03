@@ -62,18 +62,14 @@ My Nginx config file is shared [here](https://github.com/Parth-Vader/Scrapy-Benc
 
 The html files present in `sites.tar.gz` files were downloaded using a `scrapy spider` from the top sites from `Alexa top sites` list.
 
-* Do the following :
+* Do the following to complete the installation:
     
       git clone https://github.com/Parth-Vader/Scrapy-BenchCLI.git  
       cd Scrapy-BenchCLI/  
       virtualenv env  
       . env/bin/activate   
       pip install --editable .
-      tar -xvzf sites.tar.gz 
-
-To use `scrapy-bench bookworm`
-      
-      cd books/
+      tar -xvzf sites.tar.gz
     
 ## Usage
   
