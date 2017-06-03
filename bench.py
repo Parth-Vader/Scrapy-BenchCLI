@@ -9,18 +9,24 @@ import statistics
 
 def calculator(test, arg, n_runs, only_result):
     w = []
+    if test == "Book Spider":
+        dir = os.getcwd() + "/books"
+    if test == "LinkExtractor":
+        dir = os.getcwd()
     for x in range(n_runs):
+
         if only_result:
             process = subprocess.Popen(
                 arg,
+                cwd=dir,
                 shell=True,
                 stdout=subprocess.PIPE,
                 stderr=subprocess.PIPE)
             process.wait()
         else:
-            process = subprocess.Popen(arg, shell=True)
+            process = subprocess.Popen(arg, cwd=dir, shell=True)
             process.wait()
-        with open('Benchmark.txt') as f:
+        with open(dir + '/Benchmark.txt') as f:
             for line in f.readlines():
                 w.append(float(line))
 
@@ -36,7 +42,7 @@ def calculator(test, arg, n_runs, only_result):
             statistics.median(w),
             statistics.pstdev(w)),
         bold=True)
-    os.remove('Benchmark.txt')
+    os.remove(dir + '/Benchmark.txt')
 
 
 @click.group()
@@ -53,11 +59,10 @@ def cli():
 @click.option('--only_result', is_flag=True, help="Display the results only.")
 def bookworm(n_runs, only_result):
     """Spider to scrape locally hosted site"""
-    os.chdir(os.getcwd() + "/books")
+    dir = os.getcwd() + "/books"
     arg = "scrapy crawl followall -o items.csv"
     calculator("Book Spider", arg, n_runs, only_result)
-    os.remove('items.csv')
-    os.chdir('..')
+    os.remove(dir + '/items.csv')
 
 
 @cli.command()
